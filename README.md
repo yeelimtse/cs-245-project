@@ -1,5 +1,10 @@
 # Seed-based Weakly Supervised NER
 ---
+**Requirements**
+- `tqdm`
+- `nltk==3.0` (from __future__ import print_function)
+- pip3 install -U pluggy
+- 
 ## Step 1: AutoPhrase Mining and Expansion
 Expands the entity set by integrating **automatic phrase mining** and **dictionary matching** results. To be specific, candidate phrases are automatically added to the entity typeset for dictionary completion.
 
@@ -9,7 +14,6 @@ The input corpus is generated from [COVID-19 Open Research Dataset Challenge (CO
 ### Candidates
 ### Dictionary Matching
 ### Dictionary Expansion
-- - - -
 #### [CatE](https://github.com/yumeng5/CatE)
 You will need to first create a directory under datasets (e.g., `datasets/your_dataset`) and put two files in it:
 
