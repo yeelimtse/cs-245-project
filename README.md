@@ -23,6 +23,9 @@ You will need to first create a directory under datasets (e.g., `datasets/your_d
 ---
 ## Step 2: Group Entities
 concate?
+### Models used
+- en_core_sci_sm: `pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz`
+- en_ner_bc5cdr_md: `pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz`
 
 ---
 ## Step 3: Neural Networks and Typing System Construction

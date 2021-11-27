@@ -5,3 +5,5 @@
 
 /datasets/covid/*
 !/datasets/covid/covid_data.zip
+
+.DS_Store
