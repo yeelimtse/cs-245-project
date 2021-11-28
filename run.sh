@@ -4,9 +4,9 @@ dataset=covid
 # text file name; one document per line
 text_file=phrase_text.txt
 # category name file
-# topic_file=covid.txt
+topic_file=covid.txt
 # topic_file=livestock.txt
-topic_file=wildlife.txt
+# topic_file=wildlife.txt
 
 topic=$(echo ${topic_file} | cut -d'.' -f 1)
 

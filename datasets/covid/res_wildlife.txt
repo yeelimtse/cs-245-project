@@ -1,0 +1,20 @@
+Category (bats):
+hematophagous microchiroptera chiroptera insectivorous suborders echolocation mammals suborder frugivorous reservoirs 
+Category (pangolins):
+crab-eating pangolin mongooses mustelids treeshrews pandas orangutans genets megabats ungulate 
+Category (monkey):
+chlorocebus mason-pfizer hek_293t aethiops cell_line te671 vero african_green_monkey_kidney_epithelial african_green_monkey_kidney hep-g2 
+Category (wild):
+domestic_animal peridomestic domestic_animals wildlife wild_animals local_food companion_animals livestock domestic transboundary 
+Category (bat):
+rd114-like pulv nbv melv bat-sars-like ratg13 kamv bat-sl-covzxc21 species_group sarslike 
+Category (squirrel):
+urocyon squirrels elk raccoons cinereoargenteus owl quail skunks pheasants striped 
+Category (elephant):
+monodelphis metatherian prototherian elephants taphozous farm long-legged simba loxodonta sett 
+Category (mouse):
+polyclonal_antisera anti-claudin-1 j.3.3 anti-ns3 anti-ubiquitin goat-anti monoclonal 1:4,000 anti-lc3 1:2500 
+Category (rat):
+mouse_lemur equus_caballus ornithorhynchus anatinus lamprey rattus_norvegicus lizard rubripes latipes bos_taurus 
+Category (chimpanzee):
+lineage_iii_kir chimpanzee_kir hominoid mhc-c 2ds4 orangutan cea_gene_family mhc-b kir synteny 

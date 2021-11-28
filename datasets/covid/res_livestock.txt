@@ -1,0 +1,20 @@
+Category (cattle):
+cloven-hoofed hoof_trimmers hauliers livestock bvd herds swedish farm epizootics herd 
+Category (sheep):
+anti-t. cwd bovines purebred echinococcosis glanders goats scrapie plasmapheresis infrapatella 
+Category (pigs):
+sdpp-pedv pedv-control sdpp-control neg-control egg-pedv nhifn-a-treated sn_titres rmdv-s1-vaccinated mock:4/91 log_10_ge/ml 
+Category (chicken):
+df1 10day-old rk13 embryo spf_embryonated_chicken_eggs allantoic_fluid cek 9-day-old embryos allantoic 
+Category (goat):
+irdyeh 800cw conjugated_anti-rabbit conjugated_donkey_anti-rabbit conjugated_goat_anti-mouse_igg alexa_fluor anti-goat hrp-conjugated_goat_anti-mouse anti-rabbit alkaline_phosphatase-conjugated 
+Category (cow):
+metatherian monodelphis prototherian ornithorhynchus opossum mouse_lemur dog branchiostoma anatinus marsupial 
+Category (deer):
+raccoons boars elk maniculatus mustelids peromyscus minks crab-eating squirrels skunks 
+Category (rabbit):
+α-flag anti-gapdh polyclonal_antibody polyclonal_antibodies anti-rt anti-wnv monoclonal_antibody monoclonal rabbit_polyclonal 4d11 
+Category (duck):
+goose quail ducks ibv-like mallard pheasant geese waterfowl pheasants turkeys 
+Category (beef):
+cow-calf suckler veal dairy beverage rearing cheese fermented meats grains 
