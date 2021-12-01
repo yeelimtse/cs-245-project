@@ -5,8 +5,9 @@ To better understand what is NER, we first need to understand what is **named en
 - `tqdm`
 - `nltk==3.0` (from __future__ import print_function)
 - pip3 install -U pluggy
-- pytorch 1.0  
-- tensorboardX  
+- `pytorch>=1.0.0`
+- `tensorboardX`
+- `pytorch>=1.0.0`
 - 
 ## Step 1: AutoPhrase Mining and Expansion
 Expands the entity set by integrating **automatic phrase mining** and **dictionary matching** results. To be specific, candidate phrases are automatically added to the entity typeset for dictionary completion.
@@ -39,10 +40,16 @@ concate?
 
 ---
 ## Step 3: Neural Networks and Typing System Construction
-TODO: part 3
-This is the implemention of  named entity recogntion model.  It includes LSTM, LSTM+CRF, BiLSTM, BiLSTM+CRF.  It shows the influence of character embedding and CRF. And it also shows the performance of LSTM and CNN as feature extractors respectively. The following table shows the experimental results of different models on CoNLL2003 dataset. 
+You will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into `./NER/data/` and unzip it.
+### Models used
+- LSTM
+- BiLSTM
+- LSTM+CRF
+- BiLSTM+CRF
 
-parameters we use to run the model:
-'--feature_extractor', choices=['lstm', 'cnn'], default='cnn'
-'--use_crf', type=bool, default=False
----
+For config between LSTM/BiLSTM, change bidirectional option in [line 30 in models.py](https://github.com/yeelimtse/cs-245-project/blob/1dc22051b2ded72e658b7e64670915f2bfb4783d/NER/model.py#L30)
+
+For training and evaluating models without CRF, run `python3 main.py --feature_extractor=lstm --use_crf=false`.
+Otherwise, run with `python3 main.py --feature_extractor=lstm --use_crf=true`
+
+Models will be saved in `./NER/data/model`
