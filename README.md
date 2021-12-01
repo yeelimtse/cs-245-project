@@ -1,4 +1,5 @@
 # Seed-based Weakly Supervised NER
+To better understand what is NER, we first need to understand what is **named entity**. A **named entity** is a word or a phrase that clearly identifies one item from a set of other items that are have similar attributes
 ---
 **Requirements**
 - `tqdm`
@@ -14,6 +15,12 @@ The input corpus is generated from [COVID-19 Open Research Dataset Challenge (CO
 ### Candidates
 ### Dictionary Matching
 ### Dictionary Expansion
+**How to Determine if a word is NOUN:** 
+- Since all named entities can only be *NOUN*, we need to examine the input data and exclude all other words (verb, adj, etc.). Here we use **PoS tagging** from `SpaCy`. Specifically, we load different models, pass in input data to these models, and then iterate the returned document object and check their `tag_` attribute (`'NN' in doc[i].tag_`). For those words whose entity does not match any from all models used, we simply exclude them from our results.
+
+``` python
+nouns = [d if 'NN' in d.tag_ for d in doc]
+```
 #### [CatE](https://github.com/yumeng5/CatE)
 You will need to first create a directory under datasets (e.g., `datasets/your_dataset`) and put two files in it:
 
