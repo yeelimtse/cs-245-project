@@ -5,7 +5,7 @@ To better understand what is NER, we first need to understand what is **named en
 - `tqdm`
 - `nltk==3.0` (from __future__ import print_function)
 - pip3 install -U pluggy
-- `pytorch==1.4.0
+- `pytorch>=1.0.0`
 - 
 ## Step 1: AutoPhrase Mining and Expansion
 Expands the entity set by integrating **automatic phrase mining** and **dictionary matching** results. To be specific, candidate phrases are automatically added to the entity typeset for dictionary completion.
