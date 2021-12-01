@@ -6,6 +6,7 @@
 /datasets/covid/*
 
 !/datasets/covid/covid.txt
+!/datasets/covid/cleaned_text.txt
 !/datasets/covid/wildlife.txt
 !/datasets/covid/livestock.txt
 !/datasets/covid/viral_protein.txt
