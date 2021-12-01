@@ -1,0 +1,10 @@
+cattle
+sheep
+pigs
+chicken
+goat
+cow
+deer
+rabbit
+duck
+beef

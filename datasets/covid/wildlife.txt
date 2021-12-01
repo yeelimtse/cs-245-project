@@ -1,0 +1,10 @@
+bats
+pangolins
+monkey
+wild animal
+bat
+squirrel
+elephant
+mouse
+rat
+chimpanzee

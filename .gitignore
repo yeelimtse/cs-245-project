@@ -4,9 +4,16 @@
 /preprocess/AutoPhrase
 
 /datasets/covid/*
+
+!/datasets/covid/covid.txt
+!/datasets/covid/wildlife.txt
+!/datasets/covid/livestock.txt
+!/datasets/covid/viral_protein.txt
+
 !/datasets/covid/covid_data.zip
 !/datasets/covid/res_wildlife.txt
 !/datasets/covid/res_covid.txt
 !/datasets/covid/res_livestock.txt
+!/datasets/covid/res_viral_protein.txt
 
 .DS_Store

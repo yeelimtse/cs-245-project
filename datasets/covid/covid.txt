@@ -1,0 +1,10 @@
+incubation
+covid-19
+sars-cov
+mers-cov
+ibv
+coronavirus
+fever
+pneumonia
+ards
+infection
