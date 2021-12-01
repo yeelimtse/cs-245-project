@@ -38,7 +38,7 @@ concate?
 
 ---
 ## Step 3: Neural Networks and Typing System Construction
-You will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into NER/data/ and unzip it.
+You will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into `./NER/data/` and unzip it.
 ### Models used
 - LSTM
 - BiLSTM
@@ -46,8 +46,10 @@ You will need to first download [pre-trained GloVe embedding](http://nlp.stanfor
 - BiLSTM+CRF
 
 For config between LSTM/BiLSTM, change bidirectional option in [line 30 in models.py](https://github.com/yeelimtse/cs-245-project/blob/1dc22051b2ded72e658b7e64670915f2bfb4783d/NER/model.py#L30)
-For training and evaluating models without CRF, run `python3 main.py --feature_extractor=lstm --use_crf=false`
+
+For training and evaluating models without CRF, run `python3 main.py --feature_extractor=lstm --use_crf=false`.
 Otherwise, run with `python3 main.py --feature_extractor=lstm --use_crf=true`
-Models will be saved in /NER/data/model
+
+Models will be saved in `./NER/data/model`
 
 ---
