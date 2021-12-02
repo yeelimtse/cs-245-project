@@ -29,6 +29,8 @@ You will need to first create a directory under datasets (e.g., `datasets/your_d
 - A text file of the corpus, e.g., datasets/your_dataset/text.txt. Note: When preparing the text corpus, make sure each line in the file is one document/paragraph.
 - A text file with the category names/keywords for each category, e.g., datasets/your_dataset/topics.txt where each line contains the seed words for one category. You can provide arbitrary number of seed words in each line (at least 1 per category; if there are multiple seed words, separate them with whitespace characters). Note: You need to ensure that every provided seed word appears in the vocabulary of the corpus.
 
+After preprocessing the raw input text file and expanding based on given categories, we need to store the result into a **seed** dictionary so that we can do matching in the next step. In `seed_generator.py`, we create a json object to store the mannually added entity types and the expanded entity types, and then save as `./datasets/covid/seed.txt`.
+
 ---
 ## Step 2: Group Entities
 concate?
