@@ -17,4 +17,6 @@
 !/datasets/covid/res_livestock.txt
 !/datasets/covid/res_viral_protein.txt
 
+!/datasets/covid/seed.txt
+
 .DS_Store
