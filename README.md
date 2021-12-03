@@ -1,5 +1,6 @@
 # Seed-based Weakly Supervised NER
 To better understand what is NER, we first need to understand what is **named entity**. A **named entity** is a word or a phrase that clearly identifies one item from a set of other items that are have similar attributes
+
 ---
 **Requirements**
 - `tqdm`
