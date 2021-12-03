@@ -19,4 +19,7 @@
 
 !/datasets/covid/seed.txt
 
+# TODO: test iob
+!/iob-test.txt
+
 .DS_Store
