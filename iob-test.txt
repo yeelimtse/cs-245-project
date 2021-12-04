@@ -29,9 +29,9 @@ pangolins B-WILDLIFE
 , O
 but O
 not O
-mice O
+mice B-WILDLIFE
 and O
-rats O
+rats B-WILDLIFE
 
 there O
 are O
@@ -263,7 +263,7 @@ injecting O
 sars-cov B-COVID
 spike O
 into O
-mice O
+mice B-WILDLIFE
 worsened O
 lung O
 injury O
@@ -348,7 +348,7 @@ with O
 human O
 ace2 O
 , O
-pig O
+pig B-LIVESTOCK
 ace2 O
 , O
 civet O
@@ -392,7 +392,7 @@ receptors O
 such O
 as O
 aminopeptidase O
-n B-VIRAL_PROTEIN
+n O
 and O
 dipeptidyl_peptidase_4 B-COVID
 
@@ -882,7 +882,7 @@ al O
 
 demonstrated O
 in O
-mice O
+mice B-WILDLIFE
 that O
 sars-cov B-COVID
 downregulates O
@@ -2843,10 +2843,10 @@ of O
 january O
 2020 O
 , O
-mainland_china B-COVID
+mainland_china O
 reported O
 11,791 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 novel O
 coronavirus B-COVID
@@ -3445,7 +3445,7 @@ hospital O
 admission O
 , O
 ( O
-c B-COVID
+c O
 ) O
 illness_onset O
 to O
@@ -3631,7 +3631,7 @@ at O
 0.14 O
 ) O
 , O
-t B-WILDLIFE
+t O
 is O
 the O
 latest O
@@ -3941,7 +3941,7 @@ excluding O
 wuhan O
 residents O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 52 O
 ) O
@@ -3962,7 +3962,7 @@ including O
 wuhan O
 residents O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 158 O
 ) O
@@ -4406,7 +4406,7 @@ incubation_period O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 middle_east_respiratory_syndrome O
@@ -4562,7 +4562,7 @@ incubation_period O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 middle_east_respiratory_syndrome O
@@ -4718,7 +4718,7 @@ incubation_period O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 middle_east_respiratory_syndrome O
@@ -4977,7 +4977,7 @@ is O
 also O
 comparable O
 to O
-sars O
+sars B-COVID
 , O
 and O
 the O
@@ -5003,7 +5003,7 @@ deaths O
 to O
 that O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 will O
 tend O
 to O
@@ -5025,7 +5025,7 @@ spread O
 
 during O
 the O
-sars O
+sars B-COVID
 epidemic O
 in O
 hong_kong O
@@ -5325,7 +5325,7 @@ necessarily O
 generalizable O
 to O
 all O
-confirmed_cases B-COVID
+confirmed_cases O
 
 moreover O
 , O
@@ -5442,7 +5442,7 @@ only O
 have O
 information O
 on O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 there O
 is O
@@ -5684,7 +5684,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 of O
 china O
 
@@ -5708,7 +5708,7 @@ live O
 poultries O
 , O
 and O
-wild_animals B-WILDLIFE
+wild_animals O
 
 the O
 first O
@@ -5854,7 +5854,7 @@ countries O
 resulting O
 in O
 75,199 O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 2009 O
 deaths O
@@ -6132,9 +6132,9 @@ of O
 diagnosis O
 standard O
 for O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 in O
 which O
@@ -6194,13 +6194,13 @@ up-to-date O
 ) O
 among O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 compared O
 with O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 at O
 9.60 O
@@ -6237,7 +6237,7 @@ patients O
 of O
 covid-19 B-COVID
 , O
-sars O
+sars B-COVID
 , O
 and O
 mers B-COVID
@@ -6274,7 +6274,7 @@ males O
 ) O
 , O
 but O
-sars O
+sars B-COVID
 patients O
 show O
 almost O
@@ -6388,9 +6388,9 @@ of O
 diagnosis O
 standard O
 for O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 in O
 which O
@@ -6787,7 +6787,7 @@ of O
 10 O
 56 O
 • O
-c B-COVID
+c O
 for O
 30 O
 min O
@@ -7338,7 +7338,7 @@ figure O
 ) O
 
 chen O
-n B-VIRAL_PROTEIN
+n O
 et O
 al O
 
@@ -7347,7 +7347,7 @@ that O
 , O
 among O
 99 O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 the O
 common O
@@ -7433,7 +7433,7 @@ vomiting O
 ) O
 
 huang O
-c B-COVID
+c O
 et O
 al O
 
@@ -7442,7 +7442,7 @@ that O
 , O
 among O
 41 O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 the O
 symptom O
@@ -7543,7 +7543,7 @@ compositions O
 reported O
 for O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 are O
 similar O
 to O
@@ -8033,7 +8033,7 @@ oxygen_saturation O
 % O
 ; O
 ( O
-c B-COVID
+c O
 ) O
 pao2/fio2 O
 ≤ O
@@ -8091,7 +8091,7 @@ with O
 shock O
 ; O
 ( O
-c B-COVID
+c O
 ) O
 combine O
 with O
@@ -8138,7 +8138,7 @@ requiring_hospitalization O
 
 suspected O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 should O
 be O
 treated O
@@ -8165,7 +8165,7 @@ room O
 , O
 and O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 can O
 be O
 accepted O
@@ -9182,7 +9182,7 @@ and O
 the O
 outbreak O
 of O
-sars O
+sars B-COVID
 brought O
 a O
 disaster O
@@ -9200,7 +9200,7 @@ people O
 
 fortunately O
 , O
-sars O
+sars B-COVID
 was O
 finally O
 defeated O
@@ -9223,7 +9223,7 @@ their O
 experiences O
 of O
 fighting O
-sars O
+sars B-COVID
 
 thus O
 , O
@@ -9445,7 +9445,7 @@ coronavirus B-COVID
 pneumonia B-COVID
 similar O
 to O
-sars O
+sars B-COVID
 , O
 we O
 need O
@@ -9530,7 +9530,7 @@ jamil O
 they O
 can O
 affect O
-mammals B-WILDLIFE
+mammals O
 , O
 including O
 humans O
@@ -9559,13 +9559,13 @@ the O
 severe_acute_respiratory_syndrome O
 '' O
 ( O
-sars O
+sars B-COVID
 ) O
 virus O
 in O
 2003 O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 and O
 by O
@@ -9741,7 +9741,7 @@ december O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 people O
 's O
@@ -9867,7 +9867,7 @@ completely O
 unprepared O
 , O
 the O
-sars O
+sars B-COVID
 pandemics O
 , O
 several O
@@ -10261,7 +10261,7 @@ to O
 decreasing O
 the O
 contact_rate O
-c B-COVID
+c O
 among O
 the O
 persons O
@@ -10359,14 +10359,14 @@ with O
 respect O
 to O
 time O
-t B-WILDLIFE
+t O
 , O
 which O
 is O
 given O
 by O
 where O
-c B-COVID
+c O
 0 O
 is O
 the O
@@ -10383,7 +10383,7 @@ january_23rd O
 2020 O
 ) O
 , O
-c B-COVID
+c O
 b O
 is O
 the O
@@ -10412,20 +10412,20 @@ there O
 are O
 cð0þ O
 ¼ O
-c B-COVID
+c O
 0 O
 and O
 lim O
 t/∞ O
 cðtþ O
 ¼ O
-c B-COVID
+c O
 b O
 with O
-c B-COVID
+c O
 b O
 < O
-c B-COVID
+c O
 0 O
 
 this O
@@ -10484,7 +10484,7 @@ with O
 respect O
 to O
 time O
-t B-WILDLIFE
+t O
 , O
 equivalently O
 , O
@@ -10501,7 +10501,7 @@ a O
 decreasing O
 function O
 of O
-t B-WILDLIFE
+t O
 with O
 the O
 following O
@@ -10547,7 +10547,7 @@ replacing O
 the O
 constant O
 contact_rate O
-c B-COVID
+c O
 and O
 d O
 i O
@@ -10641,7 +10641,7 @@ information O
 includes O
 the O
 cumulative O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 the O
 cumulative O
@@ -10650,7 +10650,7 @@ of O
 deaths O
 , O
 newly O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 the O
 cumulative O
@@ -10729,7 +10729,7 @@ al. O
 the O
 initial O
 contact_rate O
-c B-COVID
+c O
 0 O
 is O
 assumed O
@@ -10750,7 +10750,7 @@ january O
 2020 O
 , O
 hence O
-c B-COVID
+c O
 0 O
 ¼ O
 14:781 O
@@ -10810,7 +10810,7 @@ the O
 parameter_values O
 q O
 ; O
-c B-COVID
+c O
 b O
 ; O
 r O
@@ -11314,7 +11314,7 @@ hospitalized O
 individuals O
 h O
 ( O
-t B-WILDLIFE
+t O
 ) O
 and O
 the O
@@ -11360,7 +11360,7 @@ fig O
 ( O
 a O
 , O
-c B-COVID
+c O
 ) O
 ) O
 , O
@@ -11452,7 +11452,7 @@ fig O
 
 2 O
 ( O
-c B-COVID
+c O
 and O
 d O
 ) O
@@ -11492,7 +11492,7 @@ when O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 reaches O
 the O
 maximum O
@@ -11518,7 +11518,7 @@ to O
 the O
 data O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 between O
 january_23rd O
 and O
@@ -11558,7 +11558,7 @@ obtained O
 higher O
 projected O
 cumulative O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 delayed O
 peak O
@@ -12201,7 +12201,7 @@ mild-to-moderate O
 cases O
 than O
 the O
-sars O
+sars B-COVID
 virus O
 , O
 the O
@@ -12993,7 +12993,7 @@ from O
 earlier_studies O
 about O
 the O
-sars O
+sars B-COVID
 outbreak O
 ( O
 chowell O
@@ -13014,7 +13014,7 @@ was O
 believed O
 that O
 the O
-sars O
+sars B-COVID
 outbreak O
 was O
 characterized O
@@ -13062,7 +13062,7 @@ was O
 observed O
 about O
 the O
-sars O
+sars B-COVID
 , O
 except O
 that O
@@ -13114,7 +13114,7 @@ of O
 wuhan O
 , O
 the O
-hubei_province B-COVID
+hubei_province O
 and O
 throughout O
 china O
@@ -13174,7 +13174,7 @@ diagnoses O
 and O
 hospitalization O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 
 there O
 are O
@@ -13247,7 +13247,7 @@ the O
 data O
 of O
 cumulative O
-confirmed_cases B-COVID
+confirmed_cases O
 from O
 january_23rd O
 to O
@@ -13439,7 +13439,7 @@ sars-cov-2 B-COVID
 is O
 primarily O
 affecting O
-mainland_china B-COVID
+mainland_china O
 and O
 can O
 be O
@@ -13504,7 +13504,7 @@ a O
 total O
 of O
 37,289 O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 including O
 813 O
@@ -13514,7 +13514,7 @@ in O
 china O
 and O
 302 O
-confirmed_cases B-COVID
+confirmed_cases O
 imported O
 in O
 multiple O
@@ -13548,7 +13548,7 @@ that O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 ( O
 riou O
@@ -13573,7 +13573,7 @@ cases O
 reported O
 for O
 the O
-sars O
+sars B-COVID
 outbreaks O
 in O
 2002e2003 O
@@ -14132,9 +14132,9 @@ the O
 cumulative O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 the O
 epicenter O
@@ -14167,7 +14167,7 @@ cumulative O
 number O
 of O
 reported O
-confirmed_cases B-COVID
+confirmed_cases O
 for O
 the O
 2019-ncov O
@@ -14272,7 +14272,7 @@ of O
 the O
 epidemic O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 the O
 epicenter O
@@ -14321,7 +14321,7 @@ several O
 infectious_diseases O
 , O
 including O
-sars O
+sars B-COVID
 , O
 ebola O
 , O
@@ -14447,7 +14447,7 @@ peaks O
 ( O
 i.e. O
 , O
-sars O
+sars B-COVID
 in O
 singapore O
 ) O
@@ -14627,7 +14627,7 @@ and O
 the O
 data O
 y O
-t B-WILDLIFE
+t O
 ; O
 where O
 q O
@@ -14666,7 +14666,7 @@ k O
 , O
 q O
 , O
-c B-COVID
+c O
 thr O
 ) O
 correspond O
@@ -14718,7 +14718,7 @@ q O
 arg O
 min O
 p O
-n B-VIRAL_PROTEIN
+n O
 t¼1 O
 ðf O
 ðt O
@@ -14726,7 +14726,7 @@ t¼1 O
 qþ O
 à O
 y O
-t B-WILDLIFE
+t O
 þ O
 2 O
 
@@ -14960,7 +14960,7 @@ national_health_commission O
 our O
 results O
 for O
-hubei_province B-COVID
+hubei_province O
 indicate O
 that O
 the O
@@ -15933,7 +15933,7 @@ the O
 2019-ncov O
 epidemic O
 in O
-hubei_province B-COVID
+hubei_province O
 and O
 other O
 provinces O
@@ -15996,7 +15996,7 @@ between O
 and O
 38,028 O
 in O
-hubei_province B-COVID
+hubei_province O
 and O
 11,588e13,499 O
 in O
@@ -16398,7 +16398,7 @@ importantly O
 the O
 curves O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 that O
 we O
 employ O
@@ -17264,7 +17264,7 @@ we O
 used O
 data O
 on O
-confirmed_cases B-COVID
+confirmed_cases O
 on O
 the O
 cruise_ship O
@@ -19136,7 +19136,7 @@ e O
 m O
 , O
 and O
-n B-VIRAL_PROTEIN
+n O
 ( O
 38 O
 ) O
@@ -19148,7 +19148,7 @@ n B-VIRAL_PROTEIN
 ) O
 
 the O
-n B-VIRAL_PROTEIN
+n O
 genes O
 were O
 modified O
@@ -19575,7 +19575,7 @@ we O
 utilized O
 vlps O
 containing O
-n B-VIRAL_PROTEIN
+n O
 proteins O
 fused O
 to O
@@ -19704,7 +19704,7 @@ assay O
 faithfully O
 reflected O
 authentic O
-cov B-VIRAL_PROTEIN
+cov O
 entry O
 processes O
 
@@ -19776,7 +19776,7 @@ human O
 or O
 bhk O
 ( O
-hamster O
+hamster B-WILDLIFE
 ) O
 cells O
 , O
@@ -19826,7 +19826,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 with O
 vlps O
 bearing O
@@ -19889,13 +19889,13 @@ from O
 independent O
 experiments O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ϭ O
 8 O
 and O
 7 O
 ; O
-n B-VIRAL_PROTEIN
+n O
 ϭ O
 4 O
 technical_replicates O
@@ -19930,7 +19930,7 @@ assessed O
 by O
 unpaired_student O
 's O
-t B-WILDLIFE
+t O
 test O
 and O
 are O
@@ -20000,7 +20000,7 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 
 jhm-cov O
 vlps O
@@ -20013,7 +20013,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 , O
 cell-associated O
 rluc_activities O
@@ -20056,7 +20056,7 @@ assessed O
 by O
 unpaired_student O
 's O
-t B-WILDLIFE
+t O
 test O
 and O
 are O
@@ -20207,7 +20207,7 @@ partial O
 neuraminidase B-VIRAL_PROTEIN
 resistance O
 of O
-cov B-VIRAL_PROTEIN
+cov O
 vlps O
 is O
 similarly O
@@ -20245,7 +20245,7 @@ mceacam O
 protein O
 receptors O
 
-cov B-VIRAL_PROTEIN
+cov O
 infections O
 spread O
 through O
@@ -20467,7 +20467,7 @@ sialic_acids O
 can O
 enable O
 a O
-cov B-VIRAL_PROTEIN
+cov O
 s-mediated O
 cell-cell_fusion O
 process O
@@ -20496,7 +20496,7 @@ analyses O
 of O
 the O
 multidomain O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 proteins O
 have O
@@ -20676,7 +20676,7 @@ sialate-binding O
 activity O
 of O
 bovine O
-cov B-VIRAL_PROTEIN
+cov O
 ( O
 b-cov O
 ) O
@@ -21106,7 +21106,7 @@ required O
 target-cell O
 human O
 aminopeptidase O
-n B-VIRAL_PROTEIN
+n O
 ( O
 hapn O
 ) O
@@ -21320,7 +21320,7 @@ antibodies O
 against O
 s1a O
 protect O
-mice O
+mice B-WILDLIFE
 from O
 lethal O
 mers-cov B-COVID
@@ -21354,7 +21354,7 @@ infection B-COVID
 ) O
 
 in O
-mice O
+mice B-WILDLIFE
 , O
 this O
 selectivity O
@@ -21415,7 +21415,7 @@ in O
 the O
 context O
 of O
-cov B-VIRAL_PROTEIN
+cov O
 s1a O
 structure O
 , O
@@ -21942,7 +21942,7 @@ sialic_acids O
 confer O
 susceptibility O
 to O
-cov B-VIRAL_PROTEIN
+cov O
 infection B-COVID
 on O
 their O
@@ -21950,7 +21950,7 @@ own O
 or O
 whether O
 proteinaceous O
-cov B-VIRAL_PROTEIN
+cov O
 receptors O
 are O
 also O
@@ -21976,7 +21976,7 @@ can O
 infect O
 cells O
 and O
-mice O
+mice B-WILDLIFE
 that O
 lack O
 the O
@@ -22200,7 +22200,7 @@ residue O
 e170 O
 
 ( O
-c B-COVID
+c O
 ) O
 mers B-COVID
 vlp O
@@ -22254,7 +22254,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 , O
 cellassociated O
 rluc_activities O
@@ -22435,7 +22435,7 @@ are O
 observed O
 in O
 several O
-cov B-VIRAL_PROTEIN
+cov O
 infection B-COVID
 processes O
 
@@ -22562,11 +22562,11 @@ receptors O
 raises O
 questions O
 about O
-cov B-VIRAL_PROTEIN
+cov O
 evolution O
 
 the O
-cov B-VIRAL_PROTEIN
+cov O
 s1a_domains O
 fold O
 into O
@@ -22589,7 +22589,7 @@ structure O
 , O
 and O
 several O
-cov B-VIRAL_PROTEIN
+cov O
 s1a_domains O
 demonstrably O
 bind O
@@ -22787,7 +22787,7 @@ intriguing O
 relationships O
 are O
 between O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 and O
 hemagglutinin-esterase O
@@ -22982,7 +22982,7 @@ determined O
 by O
 prototype O
 proteinaceous O
-cov B-VIRAL_PROTEIN
+cov O
 receptors O
 
 the O
@@ -23152,7 +23152,7 @@ report O
 illuminates O
 understanding O
 of O
-cov B-VIRAL_PROTEIN
+cov O
 pathogenesis O
 
 among O
@@ -23172,7 +23172,7 @@ infection B-COVID
 , O
 even O
 in O
-mice O
+mice B-WILDLIFE
 that O
 lack O
 the O
@@ -23410,7 +23410,7 @@ report O
 cells O
 
 hek293 O
-t B-WILDLIFE
+t O
 ( O
 atcc O
 ) O
@@ -23599,7 +23599,7 @@ incubator O
 at O
 37 O
 ° O
-c B-COVID
+c O
 
 recombinant O
 mhv O
@@ -23664,7 +23664,7 @@ jhm.sd O
 virus-like O
 particles O
 
-cov B-VIRAL_PROTEIN
+cov O
 virus-like O
 particles O
 ( O
@@ -23679,7 +23679,7 @@ equimolar_amounts O
 of O
 plasmids O
 encoding O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 , O
 e O
@@ -23693,7 +23693,7 @@ matrix O
 ) O
 , O
 and O
-n B-VIRAL_PROTEIN
+n O
 ( O
 nucleocapsid O
 ) O
@@ -23708,7 +23708,7 @@ e O
 m O
 , O
 and O
-n B-VIRAL_PROTEIN
+n O
 genes O
 are O
 presented O
@@ -23819,7 +23819,7 @@ the O
 coding_sequences O
 for O
 the O
-n B-VIRAL_PROTEIN
+n O
 genes O
 
 expression_plasmids O
@@ -23854,7 +23854,7 @@ for O
 15 O
 min O
 at O
-room_temperature B-COVID
+room_temperature O
 and O
 then O
 added_dropwise O
@@ -24027,7 +24027,7 @@ g O
 , O
 4 O
 ° O
-c B-COVID
+c O
 , O
 10 O
 min O
@@ -24038,7 +24038,7 @@ g O
 , O
 4 O
 ° O
-c B-COVID
+c O
 , O
 10 O
 min O
@@ -24061,7 +24061,7 @@ rpm O
 , O
 4 O
 ° O
-c B-COVID
+c O
 , O
 18 O
 h O
@@ -24102,7 +24102,7 @@ stored O
 at O
 -80 O
 ° O
-c B-COVID
+c O
 
 hemagglutination_assay O
 
@@ -24141,7 +24141,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 
 washed O
 adult O
@@ -24170,7 +24170,7 @@ incubation B-COVID
 at O
 4 O
 ° O
-c B-COVID
+c O
 
 for O
 live-cell O
@@ -24211,7 +24211,7 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 
 the O
 cells O
@@ -24244,7 +24244,7 @@ cotransfection O
 with O
 plasmids O
 encoding O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 , O
 e O
@@ -24381,7 +24381,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 to O
 adherent O
 , O
@@ -24456,7 +24456,7 @@ cotransfection O
 with O
 plasmids O
 encoding O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 , O
 e O
@@ -24511,7 +24511,7 @@ min O
 at O
 37 O
 ° O
-c B-COVID
+c O
 , O
 to O
 allow O
@@ -24613,7 +24613,7 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 , O
 the O
 cells O
@@ -24661,7 +24661,7 @@ h O
 at O
 4 O
 ° O
-c B-COVID
+c O
 
 cells O
 were O
@@ -24683,7 +24683,7 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 , O
 cells O
 were O
@@ -24861,7 +24861,7 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 
 fused O
 cells O
@@ -24898,7 +24898,7 @@ maintained O
 at O
 4 O
 ° O
-c B-COVID
+c O
 during O
 rluc O
 quantifications O
@@ -25062,7 +25062,7 @@ g O
 , O
 4 O
 ° O
-c B-COVID
+c O
 , O
 10 O
 min O
@@ -25073,7 +25073,7 @@ g O
 , O
 4 O
 ° O
-c B-COVID
+c O
 , O
 10 O
 min O
@@ -25113,7 +25113,7 @@ stored O
 at O
 -20 O
 ° O
-c B-COVID
+c O
 until O
 use O
 
@@ -25153,7 +25153,7 @@ heated O
 at O
 95 O
 ° O
-c B-COVID
+c O
 for O
 5 O
 min O
@@ -25334,7 +25334,7 @@ an O
 independent O
 repeat O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 , O
 generated O
@@ -25345,7 +25345,7 @@ four O
 technical O
 repetitions O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ϭ O
 3 O
 or O
@@ -25358,7 +25358,7 @@ made O
 by O
 unpaired_student O
 's O
-t B-WILDLIFE
+t O
 test O
 
 error_bars O
@@ -25563,7 +25563,7 @@ showed O
 that O
 detected O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 covid-19 B-COVID
 infection B-COVID
@@ -26138,7 +26138,7 @@ to O
 the O
 epidemic O
 of O
-sars O
+sars B-COVID
 that O
 occurred O
 in O
@@ -26757,7 +26757,7 @@ are O
 tested O
 , O
 and O
-c B-COVID
+c O
 ) O
 the O
 testing O
@@ -26887,7 +26887,7 @@ i O
 2 O
 , O
 … O
-t B-WILDLIFE
+t O
 ) O
 , O
 the O
@@ -27494,7 +27494,7 @@ the O
 provincial O
 capital O
 of O
-hubei_province B-COVID
+hubei_province O
 with O
 a O
 total O
@@ -28676,7 +28676,7 @@ by O
 the O
 detected O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 covid-19 B-COVID
 
@@ -29061,7 +29061,7 @@ observed O
 in O
 the O
 2003 O
-sars O
+sars B-COVID
 epidemic O
 started O
 in O
@@ -29903,7 +29903,7 @@ days O
 from O
 the O
 first O
-confirmed_cases B-COVID
+confirmed_cases O
 on O
 december O
 8 O
@@ -30731,7 +30731,7 @@ february O
 2020 O
 , O
 20,471 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 novel O
 coronavirus B-COVID
@@ -30768,7 +30768,7 @@ and O
 recent O
 travel_history O
 to O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -30798,7 +30798,7 @@ most O
 affected O
 region O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 has O
 ceased O
@@ -30834,7 +30834,7 @@ implemented O
 during O
 the O
 2003 O
-sars O
+sars B-COVID
 epidemic O
 and O
 2009 O
@@ -32059,7 +32059,7 @@ incubation_period O
 than O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 and O
@@ -32148,7 +32148,7 @@ response O
 to O
 the O
 2003 O
-sars O
+sars B-COVID
 outbreak O
 , O
 1.84 O
@@ -32697,7 +32697,7 @@ the O
 previous O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 of O
@@ -32709,7 +32709,7 @@ the O
 virus O
 is O
 a O
-sars O
+sars B-COVID
 related O
 coronavirus B-COVID
 ( O
@@ -33230,7 +33230,7 @@ tool O
 cluster O
 1 O
 included O
-sars O
+sars B-COVID
 strains O
 from O
 the O
@@ -33281,9 +33281,9 @@ cluster O
 ( O
 provisionally_named O
 as O
-sars O
+sars B-COVID
 related O
-cov B-VIRAL_PROTEIN
+cov O
 ) O
 includes O
 7 O
@@ -33853,13 +33853,13 @@ the O
 pangolin B-WILDLIFE
 , O
 bat B-WILDLIFE
-ratg13 B-WILDLIFE
+ratg13 O
 , O
 the O
 bat B-WILDLIFE
 sars-cov B-COVID
 and O
-sars O
+sars B-COVID
 sin940 O
 ( O
 picture O
@@ -34196,7 +34196,7 @@ the O
 2002 O
 - O
 2003 O
-sars O
+sars B-COVID
 outbreak O
 sequences O
 in O
@@ -34464,7 +34464,7 @@ body_temperature O
 of O
 37.0 O
 ° O
-c B-COVID
+c O
 
 on O
 physical_examination O
@@ -35114,7 +35114,7 @@ nipah O
 , O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 middle_east_respiratory_syndrome O
@@ -35165,7 +35165,7 @@ wet_market O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 , O
@@ -35354,7 +35354,7 @@ both O
 of O
 which O
 infect O
-mammals B-WILDLIFE
+mammals O
 , O
 whereas O
 gammacoronavirus O
@@ -35395,20 +35395,20 @@ is O
 distributed O
 broadly O
 among O
-birds O
+birds B-WILDLIFE
 , O
 humans O
 , O
 and O
 other O
-mammals B-WILDLIFE
+mammals O
 such O
 as O
 camels O
 , O
 bats B-WILDLIFE
 , O
-mice O
+mice B-WILDLIFE
 , O
 dogs O
 , O
@@ -35609,7 +35609,7 @@ new O
 host O
 , O
 and O
-cross-species_transmission O
+cross-species_transmission B-WILDLIFE
 
 in O
 december O
@@ -35624,7 +35624,7 @@ viral_pneumonia-like O
 disease O
 similar O
 to O
-sars O
+sars B-COVID
 that O
 were O
 confirmed O
@@ -35920,14 +35920,14 @@ china O
 most O
 of O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 from O
 the O
 wuhan O
 city O
 in O
-hubei_province B-COVID
+hubei_province O
 
 outside O
 china O
@@ -36141,7 +36141,7 @@ the O
 united_states O
 
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 through O
 inter-human O
 transmission O
@@ -36416,7 +36416,7 @@ with O
 the O
 infected_persons O
 or O
-farm B-LIVESTOCK
+farm O
 animals O
 , O
 and O
@@ -37238,7 +37238,7 @@ to O
 be O
 effective O
 against O
-sars O
+sars B-COVID
 virus O
 protein O
 or O
@@ -37265,7 +37265,7 @@ showed O
 several O
 vaccines O
 and O
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 candidates O
 in O
 response O
@@ -37808,7 +37808,7 @@ countries O
 with O
 almost O
 75,000 O
-confirmed_cases B-COVID
+confirmed_cases O
 
 thousands O
 patients O
@@ -38342,7 +38342,7 @@ resulted O
 in O
 128 O
 additional O
-sars O
+sars B-COVID
 cases O
 in O
 toronto O
@@ -38758,10 +38758,10 @@ including O
 humans O
 , O
 other O
-mammals B-WILDLIFE
+mammals O
 , O
 and O
-birds O
+birds B-WILDLIFE
 
 after O
 infection B-COVID
@@ -38828,7 +38828,7 @@ betacoronavirus O
 tend O
 to O
 infect O
-mammals B-WILDLIFE
+mammals O
 , O
 while O
 gammacoronavirus O
@@ -38836,7 +38836,7 @@ and O
 deltacoronavirus O
 typically O
 infect O
-birds O
+birds B-WILDLIFE
 
 however O
 , O
@@ -38846,7 +38846,7 @@ and O
 deltacoronavirus O
 can O
 infect O
-mammals B-WILDLIFE
+mammals O
 under O
 specific O
 conditions O
@@ -38922,18 +38922,18 @@ the O
 frequent O
 interaction O
 between O
-wild_animals B-WILDLIFE
+wild_animals O
 and O
 humans O
 , O
-wild_animals B-WILDLIFE
+wild_animals O
 are O
 a O
 common O
 source O
 of O
 human O
-t B-WILDLIFE
+t O
 zoonotic O
 infections O
 
@@ -39645,7 +39645,7 @@ nonstructural_protein O
 ( O
 ns O
 ) O
-7b B-VIRAL_PROTEIN
+7b O
 and O
 ns8 O
 local O
@@ -39661,7 +39661,7 @@ sample O
 , O
 excluding O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 
 additionally O
@@ -39769,7 +39769,7 @@ most O
 closely_related O
 to O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 and O
 belonged O
 to O
@@ -39781,7 +39781,7 @@ betacoronavirus O
 , O
 together O
 with O
-sars O
+sars B-COVID
 coronavirus B-COVID
 and O
 bat-sars-like O
@@ -39882,11 +39882,11 @@ coronavirus B-COVID
 , O
 and O
 betacov O
-ratg13 B-WILDLIFE
+ratg13 O
 than O
 to O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 that O
 infects O
@@ -40349,7 +40349,7 @@ its O
 closely_related_species O
 , O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 and O
 bat-sars-like O
 coronavirus B-COVID
@@ -40376,7 +40376,7 @@ also O
 detected O
 in O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 
 based O
@@ -40422,7 +40422,7 @@ of O
 2019-ncov B-COVID
 , O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 , O
 and O
 bat-sars-like O
@@ -40470,12 +40470,12 @@ open_reading_frame O
 ( O
 orf O
 ) O
-7b B-VIRAL_PROTEIN
+7b O
 , O
 but O
 not O
 orf O
-7b B-VIRAL_PROTEIN
+7b O
 deletion O
 , O
 induces O
@@ -40509,7 +40509,7 @@ the O
 deletion O
 of O
 orf O
-7b B-VIRAL_PROTEIN
+7b O
 enhance O
 virus O
 growth O
@@ -40885,7 +40885,7 @@ between O
 2019-ncov B-COVID
 , O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 , O
 and O
 bat-sars-like O
@@ -41164,7 +41164,7 @@ transition O
 of O
 2019-ncov B-COVID
 nonstructural_protein O
-7b B-VIRAL_PROTEIN
+7b O
 
 the O
 predicted O
@@ -41172,7 +41172,7 @@ protein_structure O
 of O
 2019-ncov B-COVID
 nonstructural_protein O
-7b B-VIRAL_PROTEIN
+7b O
 by O
 c-i O
 tasser O
@@ -41190,7 +41190,7 @@ the O
 third O
 coronavirus B-COVID
 to O
-cross_species O
+cross_species B-WILDLIFE
 to O
 infect O
 human O
@@ -41239,7 +41239,7 @@ cause O
 a O
 severe_respiratory_illness O
 like O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 and O
@@ -41548,7 +41548,7 @@ individuals O
 sars-cov B-COVID
 which O
 causes O
-sars O
+sars B-COVID
 , O
 has O
 a O
@@ -41655,14 +41655,14 @@ winter O
 similar O
 environment O
 as O
-sars O
+sars B-COVID
 
 two-thirds O
 of O
 the O
 first O
 41 O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 found O
 to O
@@ -42594,7 +42594,7 @@ respiratory O
 and O
 gastrointestinal_tract O
 of O
-mammals B-WILDLIFE
+mammals O
 
 in O
 this O
@@ -43093,7 +43093,7 @@ be O
 effective O
 in O
 protecting O
-mice O
+mice B-WILDLIFE
 against O
 ebola_virus O
 challenge O
@@ -43307,7 +43307,7 @@ in O
 cultured O
 cells O
 , O
-mice O
+mice B-WILDLIFE
 and O
 nonhuman_primate O
 ( O
@@ -43476,7 +43476,7 @@ efficiently O
 in O
 a O
 human O
-cell_line B-WILDLIFE
+cell_line O
 ( O
 human O
 liver_cancer O
@@ -43707,7 +43707,7 @@ of O
 a O
 bat B-WILDLIFE
 sars-related O
-cov B-VIRAL_PROTEIN
+cov O
 2 O
 as O
 the O
@@ -43740,7 +43740,7 @@ bars O
 100 O
 μm O
 
-c B-COVID
+c O
 and O
 d O
 time-of-addition O
@@ -43899,7 +43899,7 @@ was O
 quantified O
 by O
 qrt-pcr O
-c B-COVID
+c O
 and O
 np O
 expression O
@@ -44047,7 +44047,7 @@ to O
 other O
 provinces O
 in O
-mainland_china B-COVID
+mainland_china O
 and O
 international O
 destinations O
@@ -44320,7 +44320,7 @@ from O
 nine O
 cities O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 plus O
 hong_kong O
@@ -44551,7 +44551,7 @@ spread O
 more O
 widely O
 across O
-mainland_china B-COVID
+mainland_china O
 and O
 neighbouring O
 cities O
@@ -44599,10 +44599,10 @@ cases O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 in O
-mainland_china B-COVID
+mainland_china O
 
 1 O
 the O
@@ -44636,7 +44636,7 @@ a O
 potential O
 outbreak_of_severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 
 2,3 O
@@ -44649,7 +44649,7 @@ the O
 imprecise O
 definition O
 of O
-sars O
+sars B-COVID
 could O
 have O
 grave O
@@ -44679,7 +44679,7 @@ similarities O
 and O
 differences O
 between O
-sars O
+sars B-COVID
 , O
 middle_east_respiratory_syndrome O
 ( O
@@ -44696,7 +44696,7 @@ to O
 diagnose O
 or O
 refute O
-sars O
+sars B-COVID
 in O
 epidemics O
 of O
@@ -44803,7 +44803,7 @@ respiratory O
 terminology O
 such O
 as O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 2 O
@@ -44913,7 +44913,7 @@ should O
 reflect O
 on O
 the O
-sars O
+sars B-COVID
 epidemic O
 and O
 be O
@@ -45046,7 +45046,7 @@ are O
 available O
 only O
 for O
-mainland_china B-COVID
+mainland_china O
 , O
 we O
 will O
@@ -45082,12 +45082,12 @@ estimations O
 of O
 v O
 ( O
-t B-WILDLIFE
+t O
 ) O
 exponential_growth O
 versus O
 time O
-t B-WILDLIFE
+t O
 , O
 typical O
 for O
@@ -45255,9 +45255,9 @@ for O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 which O
 origins O
@@ -45383,7 +45383,7 @@ of O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 
 to O
@@ -45396,7 +45396,7 @@ denote O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 as O
 wj O
@@ -45492,7 +45492,7 @@ of O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 and O
 ` O
@@ -45761,14 +45761,14 @@ every O
 set O
 of O
 parameters O
-n B-VIRAL_PROTEIN
+n O
 , O
 , O
  O
 , O
  O
 0 O
-t B-WILDLIFE
+t O
 and O
 a O
 fixed O
@@ -45810,7 +45810,7 @@ by O
 putting O
 s O
 = O
-n B-VIRAL_PROTEIN
+n O
  O
 v O
 and O
@@ -45844,7 +45844,7 @@ function O
 ) O
 f O
 v O
-n B-VIRAL_PROTEIN
+n O
  O
 has O
 a O
@@ -45871,7 +45871,7 @@ every O
 pair O
 of O
 parameters O
-n B-VIRAL_PROTEIN
+n O
 and O
  O
 and O
@@ -45881,7 +45881,7 @@ corresponding O
 values O
 of O
 0 O
-t B-WILDLIFE
+t O
 and O
 
  O
@@ -45894,7 +45894,7 @@ reliable O
 ) O
 values O
 of O
-n B-VIRAL_PROTEIN
+n O
 and O
  O
 correspond O
@@ -46042,7 +46042,7 @@ with O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 wj O
 , O
@@ -46261,7 +46261,7 @@ the O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 w O
 j O
@@ -46320,7 +46320,7 @@ the O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 w O
 j O
@@ -46357,7 +46357,7 @@ the O
 ` O
 ` O
 tested O
-confirmed_cases B-COVID
+confirmed_cases O
 '' O
 w O
 j O
@@ -46403,7 +46403,7 @@ caused O
 by O
 coronavirus B-COVID
 in O
-mainland_china B-COVID
+mainland_china O
 
 the O
 numbers O
@@ -46587,7 +46587,7 @@ city O
 of O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 , O
@@ -46610,11 +46610,11 @@ within O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 coronavirus B-COVID
 ( O
-cov B-VIRAL_PROTEIN
+cov O
 ) O
 family O
 , O
@@ -46763,7 +46763,7 @@ gate O
 was O
 38.6 O
 ° O
-c B-COVID
+c O
 by O
 thermoscanner O
 , O
@@ -47032,7 +47032,7 @@ on O
 january O
 for O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 family O
 by O
 using O
@@ -47171,7 +47171,7 @@ fever B-COVID
 of O
 38.0 O
 ° O
-c B-COVID
+c O
 that O
 was O
 confirmed O
@@ -47357,7 +47357,7 @@ tests O
 using O
 mega O
 x. O
-mammals B-WILDLIFE
+mammals O
 ( O
 or O
 areas O
@@ -47398,7 +47398,7 @@ was O
 positive O
 for O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 family O
 
 subsequent O
@@ -47447,7 +47447,7 @@ testing O
 negative O
 for O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 family O
 by O
 conventional O
@@ -47476,7 +47476,7 @@ representatives O
 from O
 all O
 known O
-cov B-VIRAL_PROTEIN
+cov O
 families O
 by O
 alignment O
@@ -47491,7 +47491,7 @@ they O
 belong O
 to O
 the O
-sars O
+sars B-COVID
 family O
 of O
 betacoronaviruses O
@@ -47514,7 +47514,7 @@ closely_related O
 to O
 sars-like O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 from O
 china O
 ( O
@@ -47540,8 +47540,8 @@ in O
 the O
 spike_glycoprotein B-VIRAL_PROTEIN
 between O
-sars O
-cov B-VIRAL_PROTEIN
+sars B-COVID
+cov O
 and O
 the O
 two O
@@ -48676,7 +48676,7 @@ previously O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 
 6 O
@@ -49657,7 +49657,7 @@ the O
 reported O
 cases O
 in O
-sars O
+sars B-COVID
 and O
 the O
 middle_east_respiratory_syndrome O
@@ -49746,7 +49746,7 @@ different O
 from O
 the O
 reported O
-sars O
+sars B-COVID
 cases O
 , O
 the O
@@ -49793,7 +49793,7 @@ much O
 lower O
 than O
 in O
-sars O
+sars B-COVID
 , O
 which O
 might O
@@ -49806,7 +49806,7 @@ of O
 2019-ncov O
 pneumonia B-COVID
 than O
-sars O
+sars B-COVID
 
 11 O
 similar O
@@ -50001,7 +50001,7 @@ cases O
 with O
 severe_disease O
 in O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 
@@ -50164,7 +50164,7 @@ epidemic O
 virus O
 pneumonia B-COVID
 , O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 
@@ -50734,7 +50734,7 @@ ns6 O
 structural_protein O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 , O
 and O
@@ -51143,7 +51143,7 @@ united_states O
 at O
 37 O
 • O
-c B-COVID
+c O
 in O
 a O
 humidified O
@@ -51459,7 +51459,7 @@ were O
 aligned O
 to O
 ensemble O
-pig O
+pig B-LIVESTOCK
 genome O
 ( O
 release O
@@ -51482,7 +51482,7 @@ were O
 mapped O
 to O
 the O
-pig O
+pig B-LIVESTOCK
 genome O
 were O
 assembled O
@@ -51938,7 +51938,7 @@ were O
 aligned O
 onto O
 the O
-pig O
+pig B-LIVESTOCK
 reference_genome O
 ( O
 release O
@@ -53700,7 +53700,7 @@ lncrna O
 database O
 annotation O
 in O
-pig O
+pig B-LIVESTOCK
 
 in O
 our O
@@ -53736,7 +53736,7 @@ results O
 further O
 enrich O
 the O
-pig O
+pig B-LIVESTOCK
 lncrna O
 database O
 
@@ -54400,7 +54400,7 @@ economically O
 beneficial O
 for O
 the O
-pig O
+pig B-LIVESTOCK
 farming O
 community O
 
@@ -54485,7 +54485,7 @@ epidemics O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 have O
 originated O
@@ -54539,7 +54539,7 @@ the O
 and O
 the O
 2019 O
-sars O
+sars B-COVID
 epidemics O
 
 covs O
@@ -54630,7 +54630,7 @@ discovery O
 of O
 sars-cov B-COVID
 causing O
-sars O
+sars B-COVID
 in O
 china O
 in O
@@ -54662,7 +54662,7 @@ isolated O
 from O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 -2 O
 patients O
@@ -54830,7 +54830,7 @@ linked O
 with O
 a O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 formally O
 identified O
 as O
@@ -54848,7 +54848,7 @@ sars-cov B-COVID
 an O
 etiological_agent O
 of O
-sars O
+sars B-COVID
 , O
 but O
 also O
@@ -54928,7 +54928,7 @@ sars-2 B-COVID
 and O
 the O
 previous O
-sars O
+sars B-COVID
 as O
 ` O
 ` O
@@ -55215,7 +55215,7 @@ linked O
 with O
 a O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 formally O
 identified O
 as O
@@ -55233,7 +55233,7 @@ sars-cov B-COVID
 an O
 etiological_agent O
 of O
-sars O
+sars B-COVID
 , O
 but O
 also O
@@ -55313,7 +55313,7 @@ sars-2 B-COVID
 and O
 the O
 previous O
-sars O
+sars B-COVID
 as O
 ` O
 ` O
@@ -55555,7 +55555,7 @@ started O
 in O
 wuhan O
 in O
-hubei_province B-COVID
+hubei_province O
 no O
 later O
 than O
@@ -55975,7 +55975,7 @@ disease O
 
 for O
 both O
-sars O
+sars B-COVID
 outbreaks O
 , O
 bat B-WILDLIFE
@@ -56159,7 +56159,7 @@ nucleotide O
 identity O
 with O
 human/civet O
-sars O
+sars B-COVID
 covs O
 
 these O
@@ -56170,7 +56170,7 @@ caused O
 disease O
 in O
 suckling O
-rats O
+rats B-WILDLIFE
 , O
 with O
 virus-like O
@@ -56182,7 +56182,7 @@ the O
 brains O
 of O
 suckling O
-rats O
+rats B-WILDLIFE
 by O
 electron_microscopy O
 
@@ -56289,7 +56289,7 @@ intermediate_host O
 of O
 nipah_virus O
 is O
-pig O
+pig B-LIVESTOCK
 , O
 and O
 the O
@@ -56395,7 +56395,7 @@ infection B-COVID
 on O
 humans O
 and O
-sars O
+sars B-COVID
 outbreak O
 in O
 guangdong O
@@ -56550,7 +56550,7 @@ were O
 detected O
 with O
 multiple O
-cov B-VIRAL_PROTEIN
+cov O
 linages O
 with O
 85.5 O
@@ -56649,7 +56649,7 @@ pangolin B-WILDLIFE
 before O
 viruses O
 in O
-wildlife B-WILDLIFE
+wildlife O
 make O
 a O
 jump O
@@ -56790,7 +56790,7 @@ some O
 inappropriate O
 interactions O
 with O
-wildlife B-WILDLIFE
+wildlife O
 and O
 thus O
 exposure O
@@ -56812,7 +56812,7 @@ common O
 for O
 affecting O
 both O
-sars O
+sars B-COVID
 epidemics O
 , O
 it O
@@ -56874,7 +56874,7 @@ common O
 for O
 affecting O
 both O
-sars O
+sars B-COVID
 epidemics O
 , O
 it O
@@ -57014,7 +57014,7 @@ for O
 these O
 bats B-WILDLIFE
 and/or O
-rats O
+rats B-WILDLIFE
 to O
 pass O
 the O
@@ -57078,7 +57078,7 @@ are O
 often O
 found O
 in O
-wildlife B-WILDLIFE
+wildlife O
 market O
 areas O
 due O
@@ -57229,7 +57229,7 @@ increased O
 human O
 exposure O
 to O
-wild_animals B-WILDLIFE
+wild_animals O
 during O
 holidays O
 made O
@@ -57252,7 +57252,7 @@ the O
 source O
 of O
 bamboo O
-rats O
+rats B-WILDLIFE
 in O
 huanan_seafood_market O
 
@@ -57379,7 +57379,7 @@ a O
 natural_habitat O
 for O
 bamboo O
-rats O
+rats B-WILDLIFE
 , O
 it O
 is O
@@ -57391,7 +57391,7 @@ directly O
 introduced O
 wild O
 bamboo O
-rats O
+rats B-WILDLIFE
 , O
 which O
 were O
@@ -57408,7 +57408,7 @@ reasons O
 , O
 the O
 bamboo O
-rats O
+rats B-WILDLIFE
 carrying O
 sars-cov-2 B-COVID
 virus O
@@ -57641,7 +57641,7 @@ being O
 restricted O
 to O
 one O
-wildlife B-WILDLIFE
+wildlife O
 trading O
 place O
 such O
@@ -57912,7 +57912,7 @@ various O
 sars-covs O
 capable O
 of O
-cross-species_transmission O
+cross-species_transmission B-WILDLIFE
 and O
 ultimate O
 infection B-COVID
@@ -58004,7 +58004,7 @@ the O
 surrounding O
 cases O
 in O
-hubei_province B-COVID
+hubei_province O
 still O
 lack O
 reliable O
@@ -58322,7 +58322,7 @@ social O
 aspects O
 of O
 the O
-sars O
+sars B-COVID
 epidemiology O
 discussed O
 earlier O
@@ -58378,12 +58378,12 @@ to O
 tighten O
 protection O
 of O
-wildlife B-WILDLIFE
+wildlife O
 and O
 prohibit O
 consumption O
 of O
-wild_animals B-WILDLIFE
+wild_animals O
 
 a O
 grass-roots O
@@ -58469,7 +58469,7 @@ potential O
 ecological O
 impact O
 on O
-wildlife B-WILDLIFE
+wildlife O
 and O
 possible O
 consequences O
@@ -58494,7 +58494,7 @@ epidemiological O
 patterns O
 of O
 both O
-sars O
+sars B-COVID
 epidemics O
 in O
 china O
@@ -58511,7 +58511,7 @@ environmental O
 condition O
 conducive O
 for O
-sars O
+sars B-COVID
 virus O
 infection B-COVID
 to O
@@ -58533,7 +58533,7 @@ potential O
 outbreak O
 of O
 new O
-sars O
+sars B-COVID
 
 the O
 identification O
@@ -58550,7 +58550,7 @@ consideration O
 of O
 some O
 other O
-wild_animals B-WILDLIFE
+wild_animals O
 as O
 potential O
 intermediate_hosts O
@@ -58567,7 +58567,7 @@ and O
 prohibiting O
 consumption O
 of O
-wildlife B-WILDLIFE
+wildlife O
 
 the O
 presentation O
@@ -58575,7 +58575,7 @@ of O
 different O
 scenarios O
 of O
-sars O
+sars B-COVID
 outbreaks O
 points O
 to O
@@ -59253,7 +59253,7 @@ of O
 little O
 use O
 to O
-sars O
+sars B-COVID
 patients O
 
 the O
@@ -59281,7 +59281,7 @@ for O
 assays O
 
 many O
-sars O
+sars B-COVID
 patients O
 were O
 treated O
@@ -60261,7 +60261,7 @@ treatment O
 of O
 2019-ncov B-COVID
 and O
-sars O
+sars B-COVID
 both O
 suggested O
 a O
@@ -61498,17 +61498,17 @@ distributed O
 among O
 humans O
 , O
-birds O
+birds B-WILDLIFE
 , O
 livestock B-LIVESTOCK
 , O
-mice O
+mice B-WILDLIFE
 , O
 bats B-WILDLIFE
 , O
 and O
 other O
-wild_animals B-WILDLIFE
+wild_animals O
 
 the O
 outbreaks O
@@ -62480,7 +62480,7 @@ forecast O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 covid-19 B-COVID
 
@@ -62507,7 +62507,7 @@ model O
 to O
 forecast O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 the O
 covid-19 B-COVID
@@ -62521,7 +62521,7 @@ days O
 based O
 on O
 previously O
-confirmed_cases B-COVID
+confirmed_cases O
 
 an O
 improved O
@@ -62915,7 +62915,7 @@ follows O
 : O
 where O
 x O
-t B-WILDLIFE
+t O
 i O
 defines O
 the O
@@ -63010,7 +63010,7 @@ follows O
 : O
 where O
 x O
-t B-WILDLIFE
+t O
 i O
 and O
 x O
@@ -63123,7 +63123,7 @@ determined O
 in O
 n-dimensions O
 with O
-n B-VIRAL_PROTEIN
+n O
 variables O
 
 equation O
@@ -63171,16 +63171,16 @@ bounds O
 , O
 respectively O
 
-c B-COVID
+c O
 2 O
 and O
-c B-COVID
+c O
 3 O
 denote O
 random_numbers O
 in O
 
-c B-COVID
+c O
 1 O
 is O
 an O
@@ -63207,7 +63207,7 @@ the O
 current_loop O
 number O
 is O
-t B-WILDLIFE
+t O
 and O
 the O
 max O
@@ -63215,7 +63215,7 @@ loop O
 ' O
 number O
 is O
-t B-WILDLIFE
+t O
 max O
 
 then O
@@ -63265,7 +63265,7 @@ method O
 for O
 forecasting O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 the O
 covid-19 B-COVID
@@ -63313,7 +63313,7 @@ variables O
 the O
 historical O
 covid-19 B-COVID
-confirmed_cases B-COVID
+confirmed_cases O
 ) O
 
 whereas O
@@ -63507,7 +63507,7 @@ parameters O
 quality O
 
 where O
-t B-WILDLIFE
+t O
 is O
 the O
 real O
@@ -63520,7 +63520,7 @@ the O
 predicted O
 data O
 
-n B-VIRAL_PROTEIN
+n O
 s O
 is O
 the O
@@ -63737,7 +63737,7 @@ a O
 foretasted O
 value O
 for O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 covid-19 B-COVID
 in O
@@ -63768,13 +63768,13 @@ dataset O
 size O
 of O
 population O
-n B-VIRAL_PROTEIN
+n O
 , O
 total O
 number O
 of O
 iterations O
-t B-WILDLIFE
+t O
 max O
 
 divide O
@@ -63808,7 +63808,7 @@ the O
 initial O
 value O
 for O
-n B-VIRAL_PROTEIN
+n O
 solutions O
 ( O
 x O
@@ -63899,7 +63899,7 @@ it O
 contains O
 the O
 daily O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 china O
 from O
@@ -63953,7 +63953,7 @@ datasets O
 of O
 weekly O
 influenza O
-confirmed_cases B-COVID
+confirmed_cases O
 
 the O
 first O
@@ -64025,7 +64025,7 @@ data O
 of O
 weekly O
 influenza O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 china O
 from O
@@ -64107,7 +64107,7 @@ error O
 rmsre O
 ) O
 : O
-n B-VIRAL_PROTEIN
+n O
 s O
 represents O
 the O
@@ -64588,7 +64588,7 @@ forecasting O
 value O
 for O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 the O
 covid-19 B-COVID
@@ -64828,7 +64828,7 @@ predict O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 within O
 ten O
 days O
@@ -64862,7 +64862,7 @@ datasets O
 of O
 weekly O
 influenza O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 the O
 usa O
@@ -64920,7 +64920,7 @@ other O
 vertebrate O
 animals O
 
-cov B-VIRAL_PROTEIN
+cov O
 infections O
 affect O
 the O
@@ -64938,23 +64938,23 @@ humans O
 , O
 livestock B-LIVESTOCK
 , O
-birds O
+birds B-WILDLIFE
 , O
 bats B-WILDLIFE
 , O
-mice O
+mice B-WILDLIFE
 , O
 and O
 many O
 other O
-wild_animals B-WILDLIFE
+wild_animals O
 
 for O
 example O
 , O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 in O
 2002 O
@@ -65015,7 +65015,7 @@ evolutionary O
 branch O
 within O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 
 on O
 feb O
@@ -65113,7 +65113,7 @@ in O
 other O
 parts O
 of O
-mainland_china B-COVID
+mainland_china O
 , O
 hong_kong O
 , O
@@ -65177,7 +65177,7 @@ the O
 health O
 departments O
 of O
-hubei_province B-COVID
+hubei_province O
 received O
 a O
 report O
@@ -65309,7 +65309,7 @@ the O
 main O
 timeline O
 of O
-sars O
+sars B-COVID
 and O
 covid-19 B-COVID
 epidemic O
@@ -65384,7 +65384,7 @@ in O
 other O
 parts O
 of O
-mainland_china B-COVID
+mainland_china O
 , O
 hong_kong O
 , O
@@ -65448,7 +65448,7 @@ the O
 health O
 departments O
 of O
-hubei_province B-COVID
+hubei_province O
 received O
 a O
 report O
@@ -65567,7 +65567,7 @@ the O
 initial O
 symptoms O
 of O
-sars O
+sars B-COVID
 patients O
 were O
 fever B-COVID
@@ -65630,7 +65630,7 @@ in O
 90.8 O
 % O
 of O
-sars O
+sars B-COVID
 patients O
 
 the O
@@ -65697,7 +65697,7 @@ covid-19 B-COVID
 showed O
 similar_trends O
 with O
-sars O
+sars B-COVID
 patients O
 
 fever B-COVID
@@ -65960,7 +65960,7 @@ infected O
 the O
 incubation_period O
 of O
-sars O
+sars B-COVID
 is O
 1 O
 - O
@@ -66063,7 +66063,7 @@ to O
 the O
 demographic_information O
 of O
-sars O
+sars B-COVID
 patients O
 , O
 infection B-COVID
@@ -66118,7 +66118,7 @@ in O
 90.8 O
 % O
 of O
-sars O
+sars B-COVID
 patients O
 
 the O
@@ -66185,7 +66185,7 @@ covid-19 B-COVID
 showed O
 similar_trends O
 with O
-sars O
+sars B-COVID
 patients O
 
 fever B-COVID
@@ -66450,7 +66450,7 @@ infected O
 the O
 incubation_period O
 of O
-sars O
+sars B-COVID
 is O
 1 O
 - O
@@ -66553,7 +66553,7 @@ to O
 the O
 demographic_information O
 of O
-sars O
+sars B-COVID
 patients O
 , O
 infection B-COVID
@@ -66636,7 +66636,7 @@ the O
 mortality O
 caused O
 by O
-sars O
+sars B-COVID
 increased O
 with O
 age O
@@ -66654,7 +66654,7 @@ during O
 the O
 outbreak O
 of O
-sars O
+sars B-COVID
 was O
 estimated O
 at O
@@ -66816,7 +66816,7 @@ the O
 mortality O
 caused O
 by O
-sars O
+sars B-COVID
 increased O
 with O
 age O
@@ -66834,7 +66834,7 @@ during O
 the O
 outbreak O
 of O
-sars O
+sars B-COVID
 was O
 estimated O
 at O
@@ -67010,7 +67010,7 @@ civet O
 cats O
 in O
 the O
-wildlife B-WILDLIFE
+wildlife O
 market O
 were O
 the O
@@ -67024,7 +67024,7 @@ the O
 four O
 patients O
 with O
-sars O
+sars B-COVID
 discovered O
 during O
 the O
@@ -67130,7 +67130,7 @@ the O
 coronavirus B-COVID
 isolated O
 from O
-rhinolophus O
+rhinolophus B-WILDLIFE
 affinis O
 is O
 96.2 O
@@ -67275,7 +67275,7 @@ of O
 clinically_diagnosed O
 cases O
 of O
-sars O
+sars B-COVID
 were O
 reported O
 worldwide O
@@ -67335,7 +67335,7 @@ number O
 of O
 cases O
 in O
-mainland_china B-COVID
+mainland_china O
 was O
 5,327 O
 , O
@@ -67472,7 +67472,7 @@ civet O
 cats O
 in O
 the O
-wildlife B-WILDLIFE
+wildlife O
 market O
 were O
 the O
@@ -67486,7 +67486,7 @@ the O
 four O
 patients O
 with O
-sars O
+sars B-COVID
 discovered O
 during O
 the O
@@ -67583,7 +67583,7 @@ the O
 coronavirus B-COVID
 isolated O
 from O
-rhinolophus O
+rhinolophus B-WILDLIFE
 affinis O
 is O
 96.2 O
@@ -67777,7 +67777,7 @@ area O
 of O
 covid-19 B-COVID
 , O
-hubei_province B-COVID
+hubei_province O
 has O
 been O
 the O
@@ -67889,14 +67889,14 @@ and O
 taiwan O
 ) O
 and O
-hubei_province B-COVID
+hubei_province O
 is O
 shown O
 in O
 figure O
 3 O
 
-sars O
+sars B-COVID
 were O
 reported O
 worldwide O
@@ -67956,7 +67956,7 @@ number O
 of O
 cases O
 in O
-mainland_china B-COVID
+mainland_china O
 was O
 5,327 O
 , O
@@ -68066,7 +68066,7 @@ area O
 of O
 covid-19 B-COVID
 , O
-hubei_province B-COVID
+hubei_province O
 has O
 been O
 the O
@@ -68178,7 +68178,7 @@ and O
 taiwan O
 ) O
 and O
-hubei_province B-COVID
+hubei_province O
 is O
 shown O
 in O
@@ -68262,14 +68262,14 @@ the O
 possible O
 pathogens O
 of O
-sars O
+sars B-COVID
 and O
 covid-19 B-COVID
 are O
 both O
 derived O
 from O
-wild_animals B-WILDLIFE
+wild_animals O
 
 therefore O
 , O
@@ -68279,7 +68279,7 @@ selling O
 , O
 and O
 eating O
-wild_animals B-WILDLIFE
+wild_animals O
 not O
 only O
 seriously O
@@ -68374,7 +68374,7 @@ the O
 early O
 symptoms O
 of O
-sars O
+sars B-COVID
 and O
 covid-19 B-COVID
 are O
@@ -68488,7 +68488,7 @@ the O
 treatment O
 strategies O
 of O
-sars O
+sars B-COVID
 could O
 be O
 relevant O
@@ -68498,7 +68498,7 @@ covid-19 B-COVID
 in O
 2003 O
 , O
-sars O
+sars B-COVID
 was O
 mainly O
 treated O
@@ -68546,7 +68546,7 @@ as O
 effective O
 drugs B-VIRAL_PROTEIN
 for O
-sars O
+sars B-COVID
 , O
 hormones O
 and O
@@ -69472,7 +69472,7 @@ covs O
 , O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 protein O
 is O
@@ -69481,7 +69481,7 @@ across O
 covs O
 
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 in O
 sars-cov-2 O
@@ -69500,7 +69500,7 @@ that O
 antibodies O
 against O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 of O
 sars-cov B-COVID
@@ -69510,14 +69510,14 @@ recognize O
 and O
 bind O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 of O
 sars-cov-2 B-COVID
 as O
 well O
 
-n B-VIRAL_PROTEIN
+n O
 antibodies O
 do O
 not O
@@ -69535,7 +69535,7 @@ a O
 cross_reactivity O
 with O
 sars-cov B-COVID
-n B-VIRAL_PROTEIN
+n O
 protein O
 viruses O
 , O
@@ -69560,7 +69560,7 @@ reactivity O
 to O
 group O
 sars-cov B-COVID
-n B-VIRAL_PROTEIN
+n O
 proteins O
 in O
 chinese O
@@ -69658,7 +69658,7 @@ s O
 ) O
 protein O
 and O
-n B-VIRAL_PROTEIN
+n O
 protein O
 confer O
 stability O
@@ -69668,7 +69668,7 @@ viral O
 particle O
 
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 is O
 a O
@@ -69765,14 +69765,14 @@ deteriorating O
 to O
 respiratory_distress O
 
-cov B-VIRAL_PROTEIN
+cov O
 can O
 enter_host_cells O
 through O
 the O
 interaction O
 between O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 protein O
 and O
@@ -69848,7 +69848,7 @@ severe O
 alveolar O
 injury O
 during O
-sars O
+sars B-COVID
 
 the O
 downregulation O
@@ -69905,7 +69905,7 @@ is O
 decreased O
 
 ace2-transfected O
-t B-WILDLIFE
+t O
 cells O
 form O
 multinucleated O
@@ -69929,7 +69929,7 @@ but O
 not O
 in O
 mock-transfected O
-t B-WILDLIFE
+t O
 cells O
 
 antibodies O
@@ -70026,7 +70026,7 @@ swine O
 , O
 but O
 not O
-mice O
+mice B-WILDLIFE
 
 compared O
 to O
@@ -70134,7 +70134,7 @@ than O
 confirmed O
 patients O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -70332,7 +70332,7 @@ and O
 therapies O
 for O
 treating O
-sars O
+sars B-COVID
 may O
 be O
 used O
@@ -70406,7 +70406,7 @@ the O
 clinical O
 course O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 was O
@@ -70414,7 +70414,7 @@ highly O
 similar O
 , O
 and O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 may O
@@ -70605,7 +70605,7 @@ serum O
 reactivity O
 level O
 of O
-n B-VIRAL_PROTEIN
+n O
 protein O
 
 apart O
@@ -70634,7 +70634,7 @@ have O
 been O
 infected O
 with O
-sars O
+sars B-COVID
 and O
 produced O
 antibodies O
@@ -70854,7 +70854,7 @@ been O
 9811 O
 officially O
 reported O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 2019-novel O
 coronavirus B-COVID
@@ -72127,7 +72127,7 @@ zoonotic O
 human O
 coronavirus B-COVID
 ( O
-cov B-VIRAL_PROTEIN
+cov O
 ) O
 of O
 the O
@@ -72152,7 +72152,7 @@ market O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -72278,14 +72278,14 @@ identification O
 of O
 a O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 on O
 9th O
 january O
 
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 ( O
 2019-ncov B-COVID
 ) O
@@ -72396,7 +72396,7 @@ begin O
 analyzing O
 the O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 
 by O
 17th O
@@ -72405,7 +72405,7 @@ january O
 there O
 were O
 62 O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 china O
 and O
@@ -72880,11 +72880,11 @@ social_media O
 that O
 snakes O
 , O
-birds O
+birds B-WILDLIFE
 and O
 other O
 small O
-mammals B-WILDLIFE
+mammals O
 including O
 marmots O
 and O
@@ -72986,7 +72986,7 @@ the O
 first O
 highly_pathogenic O
 human O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 emerged O
 in O
@@ -73027,7 +73027,7 @@ not O
 found O
 in O
 the O
-wild B-WILDLIFE
+wild O
 , O
 suggesting O
 that O
@@ -73088,7 +73088,7 @@ shows O
 recognition O
 of O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 proteins O
 and O
 indicates O
@@ -73183,7 +73183,7 @@ middle_east O
 these O
 lessons O
 from O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 highlight O
@@ -73295,7 +73295,7 @@ of O
 50 O
 following O
 both O
-sars O
+sars B-COVID
 and O
 mers-cov B-COVID
 infection B-COVID
@@ -73338,7 +73338,7 @@ succumbed O
 to O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 had O
 significant O
 health O
@@ -73562,7 +73562,7 @@ as O
 a O
 group O
 2b O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 distinct O
 from O
@@ -73583,7 +73583,7 @@ identity O
 to O
 the O
 original O
-sars O
+sars B-COVID
 epidemic O
 viruses O
 
@@ -73611,7 +73611,7 @@ with O
 2019-ncov B-COVID
 ; O
 these O
-cov B-VIRAL_PROTEIN
+cov O
 sequences O
 were O
 deposited O
@@ -73667,7 +73667,7 @@ subsequently O
 identified O
 a O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 sequence O
 , O
 ratg3 O
@@ -73698,7 +73698,7 @@ to O
 the O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 protein O
 , O
@@ -73713,20 +73713,20 @@ covs O
 generally O
 , O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 is O
 well O
 conserved O
 across O
-cov B-VIRAL_PROTEIN
+cov O
 families O
 including O
 group O
 2b O
 
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 for O
 2019-ncov B-COVID
@@ -73740,7 +73740,7 @@ identity O
 to O
 the O
 sars-cov B-COVID
-n B-VIRAL_PROTEIN
+n O
 protein O
 
 while O
@@ -73760,7 +73760,7 @@ shc014-cov O
 antibodies O
 against O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 would O
 likely O
@@ -73769,12 +73769,12 @@ and O
 bind O
 the O
 sars-cov B-COVID
-n B-VIRAL_PROTEIN
+n O
 protein O
 as O
 well O
 
-n B-VIRAL_PROTEIN
+n O
 antibodies O
 do O
 not O
@@ -73789,7 +73789,7 @@ the O
 cross_reactivity O
 with O
 sars-cov B-COVID
-n B-VIRAL_PROTEIN
+n O
 protein O
 would O
 allow O
@@ -73802,7 +73802,7 @@ exposure O
 to O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 in O
 asymptomatic O
 cases O
@@ -73817,7 +73817,7 @@ to O
 group O
 2b O
 virus O
-n B-VIRAL_PROTEIN
+n O
 proteins O
 in O
 chinese O
@@ -73972,7 +73972,7 @@ the O
 most O
 divergent O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 spike O
 known O
 to O
@@ -74281,7 +74281,7 @@ in O
 china O
 and O
 in O
-cov B-VIRAL_PROTEIN
+cov O
 research O
 laboratories O
 around O
@@ -74306,7 +74306,7 @@ sars-cov B-COVID
 readily O
 infected O
 laboratory O
-mice O
+mice B-WILDLIFE
 , O
 it O
 does O
@@ -74740,7 +74740,7 @@ in O
 the O
 two O
 prior O
-cov B-VIRAL_PROTEIN
+cov O
 epidemics O
 , O
 health_care O
@@ -74835,7 +74835,7 @@ sick O
 as O
 seen O
 with O
-sars O
+sars B-COVID
 and O
 mers-cov B-COVID
 , O
@@ -74853,7 +74853,7 @@ exposure O
 to O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 as O
 their O
 disease O
@@ -75295,7 +75295,7 @@ with O
 memories O
 of O
 the O
-sars O
+sars B-COVID
 outbreak O
 , O
 many O
@@ -75316,7 +75316,7 @@ finally O
 confirmed O
 as O
 a O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 the O
 world O
@@ -75350,7 +75350,7 @@ stark O
 contrast O
 to O
 the O
-sars O
+sars B-COVID
 outbreak O
 at O
 the O
@@ -75520,7 +75520,7 @@ the O
 lessons O
 from O
 the O
-sars O
+sars B-COVID
 outbreak O
 have O
 truly O
@@ -75768,7 +75768,7 @@ in O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 
 descriptive O
 analysis O
@@ -75783,7 +75783,7 @@ the O
 incidence O
 of O
 new O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 covid-2019 O
 and O
@@ -76065,7 +76065,7 @@ the O
 incidence O
 of O
 new O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 covid-2019 O
 and O
@@ -76096,7 +76096,7 @@ calculated O
 d O
 ( O
 x O
-n B-VIRAL_PROTEIN
+n O
 -x O
 n-1 O
 ) O
@@ -76339,7 +76339,7 @@ although O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 is O
 still O
 increasing O
@@ -76507,7 +76507,7 @@ on O
 december O
 2019 O
 and O
-wildlife B-WILDLIFE
+wildlife O
 market O
 activity O
 was O
@@ -76578,7 +76578,7 @@ which O
 ) O
 were O
 within O
-mainland_china B-COVID
+mainland_china O
 
 the O
 locations O
@@ -77237,7 +77237,7 @@ p O
 ( O
 x O
 ) O
-n B-VIRAL_PROTEIN
+n O
 is O
 the O
 number O
@@ -77248,10 +77248,10 @@ country O
 x O
 from O
 city O
-n B-VIRAL_PROTEIN
+n O
 , O
 p O
-n B-VIRAL_PROTEIN
+n O
 is O
 the O
 total O
@@ -77261,10 +77261,10 @@ passengers O
 who O
 left O
 city O
-n B-VIRAL_PROTEIN
+n O
 , O
 i O
-n B-VIRAL_PROTEIN
+n O
 is O
 the O
 number O
@@ -77273,10 +77273,10 @@ infected O
 people O
 in O
 city O
-n B-VIRAL_PROTEIN
+n O
 and O
-c B-COVID
-n B-VIRAL_PROTEIN
+c O
+n O
 is O
 the O
 population O
@@ -77771,7 +77771,7 @@ countries O
 and O
 the O
 who-reported O
-confirmed_cases B-COVID
+confirmed_cases O
 was O
 0.97 O
 
@@ -77862,7 +77862,7 @@ than O
 it O
 had O
 during O
-sars O
+sars B-COVID
 outbreaks O
 in O
 2003 O
@@ -78006,7 +78006,7 @@ screening O
 compared O
 to O
 the O
-sars O
+sars B-COVID
 outbreak O
 of O
 2003 O
@@ -78083,7 +78083,7 @@ to O
 be O
 lower O
 than O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 , O
@@ -78865,7 +78865,7 @@ such O
 as O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 zika O
@@ -78909,7 +78909,7 @@ recently_reported O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -79531,7 +79531,7 @@ badgers O
 , O
 snakes O
 and O
-birds O
+birds B-WILDLIFE
 ( O
 turtledoves O
 ) O
@@ -79571,7 +79571,7 @@ have O
 had O
 contact O
 with O
-wild_animals B-WILDLIFE
+wild_animals O
 at O
 the O
 market O
@@ -79582,7 +79582,7 @@ no O
 exposure O
 to O
 live O
-poultry O
+poultry B-WILDLIFE
 
 to O
 investigate O
@@ -79704,7 +79704,7 @@ bat B-WILDLIFE
 sars-like O
 coronavirus B-COVID
 ( O
-cov B-VIRAL_PROTEIN
+cov O
 ) O
 isolate-bat O
 sl-covzc45 O
@@ -79994,7 +79994,7 @@ m O
 and O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 
 whcv O
@@ -80089,7 +80089,7 @@ e O
 , O
 m O
 and O
-n B-VIRAL_PROTEIN
+n O
 genes O
 of O
 whcv O
@@ -80155,7 +80155,7 @@ between O
 the O
 m O
 and O
-n B-VIRAL_PROTEIN
+n O
 orf O
 genes O
 
@@ -80280,7 +80280,7 @@ e O
 , O
 m O
 and O
-n B-VIRAL_PROTEIN
+n O
 genes O
 ( O
 fig O
@@ -80316,7 +80316,7 @@ responsible O
 for O
 the O
 global O
-sars O
+sars B-COVID
 pandemic O
 1,2 O
 of O
@@ -80646,7 +80646,7 @@ extended O
 data O
 fig O
 
-7b B-VIRAL_PROTEIN
+7b O
 ) O
 
 we O
@@ -80851,7 +80851,7 @@ four O
 representative O
 coronaviruses-bat O
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 rp3 O
 , O
 covzc45 O
@@ -81094,7 +81094,7 @@ in O
 humans O
 , O
 including O
-sars O
+sars B-COVID
 in O
 2002 O
 - O
@@ -81132,7 +81132,7 @@ been O
 widely O
 identified O
 in O
-mammals B-WILDLIFE
+mammals O
 including O
 bats B-WILDLIFE
 since O
@@ -81211,7 +81211,7 @@ and O
 clinical O
 similarities O
 to O
-sars O
+sars B-COVID
 , O
 as O
 well O
@@ -81547,7 +81547,7 @@ temperature O
 over O
 37.5 O
 ° O
-c B-COVID
+c O
 ) O
 , O
 cough O
@@ -81588,7 +81588,7 @@ stored O
 at O
 −80 O
 ° O
-c B-COVID
+c O
 until O
 further O
 processing O
@@ -82142,14 +82142,14 @@ reverse_transcription O
 at O
 42 O
 ° O
-c B-COVID
+c O
 for O
 10 O
 min O
 , O
 95 O
 ° O
-c B-COVID
+c O
 for O
 1 O
 min O
@@ -82161,14 +82161,14 @@ cycles O
 of O
 95 O
 ° O
-c B-COVID
+c O
 for O
 15 O
 s O
 and O
 60 O
 ° O
-c B-COVID
+c O
 for O
 1 O
 min O
@@ -82286,7 +82286,7 @@ nucleotide O
 sequences O
 of O
 various O
-cov B-VIRAL_PROTEIN
+cov O
 gene O
 datasets O
 : O
@@ -82341,7 +82341,7 @@ exon O
 ( O
 8 O
 ) O
-nsp15 B-COVID
+nsp15 B-VIRAL_PROTEIN
 ( O
 nendou O
 ) O
@@ -82367,7 +82367,7 @@ and O
 ) O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 
 phylogenetic O
@@ -82951,7 +82951,7 @@ sars-cov B-COVID
 are O
 marked O
 
-c B-COVID
+c O
 , O
 predicted O
 protein_structure O
@@ -83003,7 +83003,7 @@ the O
 exact O
 sample_size O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 for O
 each O
@@ -83144,7 +83144,7 @@ e.g O
 
 f O
 , O
-t B-WILDLIFE
+t O
 , O
 r O
 ) O
@@ -83333,7 +83333,7 @@ city O
 of O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -83551,7 +83551,7 @@ the O
 lessons_learned O
 from O
 the O
-sars O
+sars B-COVID
 outbreak O
 
 during O
@@ -83562,7 +83562,7 @@ of O
 -2003 O
 , O
 the O
-sars O
+sars B-COVID
 virus O
 spread O
 slowly O
@@ -83637,7 +83637,7 @@ in O
 short O
 , O
 the O
-sars O
+sars B-COVID
 virus O
 underwent O
 several O
@@ -83657,7 +83657,7 @@ to O
 humans O
 
 the O
-sars O
+sars B-COVID
 outbreak O
 , O
 while O
@@ -83692,7 +83692,7 @@ the O
 2019-ncovs O
 with O
 the O
-sars O
+sars B-COVID
 viruses O
 for O
 their O
@@ -84001,7 +84001,7 @@ in O
 sharp_contrast O
 with O
 the O
-sars O
+sars B-COVID
 virus O
 at O
 the O
@@ -84381,7 +84381,7 @@ among O
 samples O
 from O
 outside O
-mainland_china B-COVID
+mainland_china O
 ; O
 they O
 are O
@@ -84454,7 +84454,7 @@ the O
 first O
 stage O
 of O
-sars O
+sars B-COVID
 virus O
 evolution O
 
@@ -85207,7 +85207,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -85542,7 +85542,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -85830,7 +85830,7 @@ counter-j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -86498,7 +86498,7 @@ genetically O
 or O
 chemically O
 immunocompromised O
-mice O
+mice B-WILDLIFE
 , O
 guinea_pigs O
 , O
@@ -86565,7 +86565,7 @@ and O
 hsv-2 O
 infections O
 in O
-mice O
+mice B-WILDLIFE
 ( O
 gopinath O
 et O
@@ -86582,7 +86582,7 @@ showed O
 anti-fluav O
 effect O
 in O
-mice O
+mice B-WILDLIFE
 ( O
 jang O
 et O
@@ -86605,7 +86605,7 @@ effective O
 against O
 fluav O
 in O
-mice O
+mice B-WILDLIFE
 
 these O
 findings O
@@ -86622,7 +86622,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -87345,7 +87345,7 @@ cases O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 like O
 illness O
@@ -87451,7 +87451,7 @@ forefront O
 of O
 outbreaks O
 of O
-sars O
+sars B-COVID
 , O
 ebola O
 , O
@@ -88102,7 +88102,7 @@ drop O
 of O
 daily O
 newly O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 again O
 demonstrating O
@@ -88586,7 +88586,7 @@ cumulative O
 total O
 of O
 72,436 O
-confirmed_cases B-COVID
+confirmed_cases O
 ( O
 including O
 11,741 O
@@ -88625,7 +88625,7 @@ china O
 nhc O
 ) O
 in O
-mainland_china B-COVID
+mainland_china O
 7 O
 
 the O
@@ -88635,7 +88635,7 @@ in O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 china O
 and O
@@ -88715,19 +88715,19 @@ infected O
 case O
 at O
 time O
-t B-WILDLIFE
+t O
 is O
 called O
 effective_reproduction_number O
 , O
 r O
-t B-WILDLIFE
+t O
 10 O
 - O
 12 O
 
 r O
-t B-WILDLIFE
+t O
 shows O
 time-dependent O
 variation O
@@ -89026,7 +89026,7 @@ other O
 mediumsized O
 cities O
 in O
-hubei_province B-COVID
+hubei_province O
 has O
 been O
 restricted O
@@ -89075,7 +89075,7 @@ the O
 start O
 of O
 the O
-sars O
+sars B-COVID
 epidemic O
 without O
 controlling O
@@ -89096,9 +89096,9 @@ the O
 value O
 of O
 r O
-t B-WILDLIFE
+t O
 for O
-sars O
+sars B-COVID
 decreased O
 to O
 0.25 O
@@ -89124,7 +89124,7 @@ wuhan O
 and O
 elsewhere O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 have O
 reduced O
@@ -89188,7 +89188,7 @@ two O
 assumptions O
 of O
 r O
-t B-WILDLIFE
+t O
 ( O
 maintaining O
 high O
@@ -89479,7 +89479,7 @@ this O
 phase O
 as O
 r O
-t B-WILDLIFE
+t O
 decreased O
 to O
 2.6 O
@@ -89547,7 +89547,7 @@ reach O
 77,390 O
 if O
 r O
-t B-WILDLIFE
+t O
 could O
 be O
 reduced O
@@ -89584,7 +89584,7 @@ effect O
 
 if O
 r O
-t B-WILDLIFE
+t O
 could O
 be O
 gradually O
@@ -89632,7 +89632,7 @@ or O
 81,393 O
 with O
 r O
-t B-WILDLIFE
+t O
 = O
 0.9 O
 or O
@@ -89662,7 +89662,7 @@ when O
 we O
 assumed O
 r O
-t B-WILDLIFE
+t O
 as O
 0.9 O
 and O
@@ -89682,7 +89682,7 @@ when O
 we O
 assumed O
 r O
-t B-WILDLIFE
+t O
 as O
 0.5 O
 at O
@@ -89709,7 +89709,7 @@ when O
 we O
 assumed O
 r O
-t B-WILDLIFE
+t O
 as O
 0.9 O
 and O
@@ -89754,7 +89754,7 @@ when O
 we O
 assumed O
 r O
-t B-WILDLIFE
+t O
 as O
 0.5 O
 at O
@@ -89922,10 +89922,10 @@ two O
 assumptions O
 of O
 r O
-t B-WILDLIFE
+t O
 ( O
 r O
-t B-WILDLIFE
+t O
 maintaining O
 to O
 be O
@@ -89933,7 +89933,7 @@ be O
 1 O
 or O
 r O
-t B-WILDLIFE
+t O
 gradually O
 decreasing O
 to O
@@ -90526,7 +90526,7 @@ covid-19 B-COVID
 outbreak O
 
 r O
-t B-WILDLIFE
+t O
 is O
 therefore O
 assumed O
@@ -90560,7 +90560,7 @@ the O
 trend O
 of O
 currently O
-confirmed_cases B-COVID
+confirmed_cases O
 
 the O
 relatively O
@@ -90602,7 +90602,7 @@ february O
 2020 O
 , O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 diagnosed O
 according O
@@ -90904,7 +90904,7 @@ the O
 epidemic O
 progresses O
 
-hubei_province B-COVID
+hubei_province O
 , O
 of O
 which O
@@ -90921,7 +90921,7 @@ than O
 % O
 of O
 newly O
-confirmed_cases B-COVID
+confirmed_cases O
 all O
 over O
 the O
@@ -90937,7 +90937,7 @@ current O
 epidemic O
 trend O
 in O
-hubei_province B-COVID
+hubei_province O
 is O
 similar O
 to O
@@ -90951,7 +90951,7 @@ the O
 high O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 the O
 province O
@@ -90971,7 +90971,7 @@ and O
 other O
 cities O
 in O
-hubei_province B-COVID
+hubei_province O
 no O
 matter O
 whether O
@@ -90991,7 +90991,7 @@ order O
 to O
 reduce O
 r O
-t B-WILDLIFE
+t O
 to O
 an O
 ideal O
@@ -91009,7 +91009,7 @@ timely O
 transportation O
 restriction O
 in O
-hubei_province B-COVID
+hubei_province O
 and O
 other O
 measures O
@@ -91018,7 +91018,7 @@ the O
 number O
 of O
 newly O
-confirmed_cases B-COVID
+confirmed_cases O
 remains O
 relatively O
 low O
@@ -91041,9 +91041,9 @@ regions O
 and O
 municipalities O
 in O
-mainland_china B-COVID
+mainland_china O
 outside O
-hubei_province B-COVID
+hubei_province O
 
 however O
 , O
@@ -91217,7 +91217,7 @@ previous_studies O
 and O
 experience O
 from O
-sars O
+sars B-COVID
 control O
 
 however O
@@ -91245,7 +91245,7 @@ using O
 a O
 fixed O
 r O
-t B-WILDLIFE
+t O
 value O
 in O
 each O
@@ -91256,7 +91256,7 @@ potential O
 bias O
 because O
 r O
-t B-WILDLIFE
+t O
 is O
 essentially O
 a O
@@ -91312,13 +91312,13 @@ difference O
 between O
 wuhan O
 and O
-hubei_province B-COVID
+hubei_province O
 and O
 regions O
 in O
-mainland_china B-COVID
+mainland_china O
 outside O
-hubei_province B-COVID
+hubei_province O
 according O
 to O
 the O
@@ -91339,9 +91339,9 @@ wuhan O
 to O
 regions O
 in O
-mainland_china B-COVID
+mainland_china O
 outside O
-hubei_province B-COVID
+hubei_province O
 
 the O
 dynamics O
@@ -91351,7 +91351,7 @@ the O
 other O
 locations O
 in O
-mainland_china B-COVID
+mainland_china O
 remains O
 to O
 be O
@@ -91589,7 +91589,7 @@ such O
 as O
 ebola O
 and O
-sars O
+sars B-COVID
 22 O
 , O
 
@@ -91735,12 +91735,12 @@ total O
 population O
 size O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 is O
 given O
 by O
-n B-VIRAL_PROTEIN
+n O
 = O
 s O
 + O
@@ -91796,7 +91796,7 @@ dt_¼ O
 s O
 i O
 = O
-n B-VIRAL_PROTEIN
+n O
 ; O
 where O
 β O
@@ -92287,7 +92287,7 @@ on O
 january O
 and O
 r O
-t B-WILDLIFE
+t O
 was O
 set O
 as O
@@ -92381,7 +92381,7 @@ on O
 february O
 and O
 r O
-t B-WILDLIFE
+t O
 was O
 set O
 as O
@@ -92424,7 +92424,7 @@ on O
 february O
 and O
 r O
-t B-WILDLIFE
+t O
 was O
 set O
 as O
@@ -92491,7 +92491,7 @@ coronavirus B-COVID
 , O
 similar O
 to O
-sars O
+sars B-COVID
 coronavirus B-COVID
 and O
 mers B-COVID
@@ -92508,7 +92508,7 @@ february O
 , O
 33 O
 738 O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 811 O
 deaths O
@@ -93027,7 +93027,7 @@ r O
 0 O
 estimates O
 for O
-sars O
+sars B-COVID
 have O
 been O
 reported O
@@ -93093,7 +93093,7 @@ already O
 more O
 widespread O
 than O
-sars O
+sars B-COVID
 , O
 indicating O
 it O
@@ -94548,7 +94548,7 @@ morocco O
 camel O
 herders O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 156 O
 ) O
@@ -94627,7 +94627,7 @@ for O
 the O
 animals O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 113 O
 ; O
@@ -94645,7 +94645,7 @@ other O
 supplemental O
 tasks O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 43 O
 ; O
@@ -94661,7 +94661,7 @@ with O
 dromedary O
 waste O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 140 O
 ; O
@@ -94676,7 +94676,7 @@ contact O
 with O
 ill O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 52 O
 ; O
@@ -94686,7 +94686,7 @@ n B-VIRAL_PROTEIN
 or O
 dead O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 21 O
 ; O
@@ -94705,7 +94705,7 @@ died O
 from O
 illness O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 19 O
 ; O
@@ -94744,7 +94744,7 @@ the O
 slaughterhouse O
 workers O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 137 O
 ) O
@@ -94789,7 +94789,7 @@ slaughterhouse O
 but O
 some O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 28 O
 ; O
@@ -94902,7 +94902,7 @@ general O
 population O
 group O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 186 O
 ) O
@@ -95674,14 +95674,14 @@ who O
 were O
 confirmed O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 2 O
 ) O
 or O
 borderline O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 1 O
 ) O
@@ -96730,9 +96730,9 @@ wide O
 host_range O
 , O
 including O
-birds O
+birds B-WILDLIFE
 , O
-farm B-LIVESTOCK
+farm O
 animals O
 , O
 pets O
@@ -96854,7 +96854,7 @@ wuhan O
 the O
 capital O
 of O
-hubei_province B-COVID
+hubei_province O
 and O
 a O
 large O
@@ -97355,7 +97355,7 @@ the O
 who O
 reported O
 37,251 O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 china O
 that O
@@ -97376,7 +97376,7 @@ the O
 2002 O
 - O
 2003 O
-sars O
+sars B-COVID
 epidemic O
 
 an O
@@ -98205,7 +98205,7 @@ neonatal O
 death O
 
 the O
-sars O
+sars B-COVID
 epidemic O
 began O
 quietly O
@@ -98243,7 +98243,7 @@ in O
 which O
 meat O
 from O
-wild_animals B-WILDLIFE
+wild_animals O
 was O
 served O
 
@@ -98441,7 +98441,7 @@ of O
 cases O
 occurring O
 in O
-mainland_china B-COVID
+mainland_china O
 and O
 hong_kong O
 
@@ -98476,7 +98476,7 @@ few O
 documented O
 cases O
 of O
-sars O
+sars B-COVID
 occurring O
 during O
 pregnancy O
@@ -98503,7 +98503,7 @@ these O
 reports_describing O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 in O
 china O
 it O
@@ -98543,7 +98543,7 @@ is O
 no O
 doubt O
 that O
-sars O
+sars B-COVID
 coronavirus B-COVID
 infection B-COVID
 was O
@@ -98601,7 +98601,7 @@ clinical_outcomes O
 among O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 in O
 hong_kong O
 were O
@@ -98632,7 +98632,7 @@ of O
 pregnant_women O
 who O
 developed O
-sars O
+sars B-COVID
 in O
 hong_kong O
 during O
@@ -98705,7 +98705,7 @@ determine O
 the O
 effects O
 of O
-sars O
+sars B-COVID
 on O
 pregnancy O
 compared O
@@ -98732,7 +98732,7 @@ among O
 the O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 ( O
 maternal_mortality O
 rate O
@@ -98775,20 +98775,20 @@ more O
 frequently O
 in O
 pregnant O
-sars O
+sars B-COVID
 patients O
 when O
 compared O
 with O
 the O
 non-pregnant O
-sars O
+sars B-COVID
 group O
 
 six O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 required O
 admission O
 to O
@@ -98853,7 +98853,7 @@ followed O
 at O
 a O
 designated O
-sars O
+sars B-COVID
 unit-2 O
 of O
 the O
@@ -98910,7 +98910,7 @@ sars-cov O
 two O
 women O
 with O
-sars O
+sars B-COVID
 recovered O
 and O
 maintained O
@@ -98944,7 +98944,7 @@ mothers O
 who O
 had O
 developed O
-sars O
+sars B-COVID
 were O
 advised O
 not O
@@ -98977,7 +98977,7 @@ the O
 height O
 of O
 the O
-sars O
+sars B-COVID
 epidemic O
 
 two O
@@ -99005,7 +99005,7 @@ the O
 pregnant_women O
 had O
 hospital-acquired O
-sars O
+sars B-COVID
 infections O
 , O
 and O
@@ -99085,12 +99085,12 @@ none O
 had O
 evidence O
 of O
-sars O
+sars B-COVID
 
 two O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 were O
 reported O
 from O
@@ -99372,7 +99372,7 @@ the O
 clinical O
 onset O
 of O
-sars O
+sars B-COVID
 , O
 and O
 6 O
@@ -99404,7 +99404,7 @@ following O
 her O
 hospitalization O
 for O
-sars O
+sars B-COVID
 she O
 recovered O
 , O
@@ -99592,7 +99592,7 @@ infiltrates O
 she O
 had O
 acquired O
-sars O
+sars B-COVID
 from O
 contact O
 with O
@@ -99741,7 +99741,7 @@ no O
 new O
 cases O
 of O
-sars O
+sars B-COVID
 have O
 occurred O
 
@@ -99757,7 +99757,7 @@ pathology O
 of O
 mothers O
 with O
-sars O
+sars B-COVID
 , O
 ng O
 et O
@@ -100048,7 +100048,7 @@ important O
 source O
 of O
 new O
-sars O
+sars B-COVID
 infections O
 during O
 the O
@@ -100086,7 +100086,7 @@ delivery O
 of O
 pregnant_women O
 with O
-sars O
+sars B-COVID
 , O
 guidelines O
 were O
@@ -100135,7 +100135,7 @@ exposure O
 risk O
 factors O
 for O
-sars O
+sars B-COVID
 or O
 other O
 potentially O
@@ -100158,7 +100158,7 @@ unit O
 at O
 times O
 of O
-sars O
+sars B-COVID
 outbreaks O
 , O
 all O
@@ -100181,7 +100181,7 @@ and O
 risk O
 factors O
 for O
-sars O
+sars B-COVID
 
 upon O
 arrival O
@@ -100197,7 +100197,7 @@ with O
 suspected O
 and O
 probable O
-sars O
+sars B-COVID
 should O
 be O
 placed O
@@ -100224,7 +100224,7 @@ for O
 suspected O
 and O
 probable O
-sars O
+sars B-COVID
 should O
 have O
 available O
@@ -100294,13 +100294,13 @@ delivery O
 of O
 patients O
 with O
-sars O
+sars B-COVID
 
 neonates O
 of O
 mothers O
 with O
-sars O
+sars B-COVID
 should O
 be O
 isolated O
@@ -100376,7 +100376,7 @@ organization O
 and O
 implementation O
 of O
-sars O
+sars B-COVID
 management O
 protocols O
 
@@ -100386,7 +100386,7 @@ staff O
 caring O
 for O
 pregnant O
-sars O
+sars B-COVID
 patients O
 should O
 not O
@@ -100400,7 +100400,7 @@ staff O
 caring O
 for O
 pregnant O
-sars O
+sars B-COVID
 patients O
 should O
 be O
@@ -100412,7 +100412,7 @@ and O
 other O
 symptoms O
 of O
-sars O
+sars B-COVID
 
 such O
 individuals O
@@ -100424,7 +100424,7 @@ the O
 presence O
 of O
 any O
-sars O
+sars B-COVID
 symptoms O
 within O
 10 O
@@ -100433,7 +100433,7 @@ of O
 exposure O
 to O
 a O
-sars O
+sars B-COVID
 patient O
 
 9 O
@@ -100460,7 +100460,7 @@ prevent O
 spread O
 of O
 the O
-sars O
+sars B-COVID
 virus O
 
 10 O
@@ -100497,7 +100497,7 @@ care O
 for O
 patients O
 with O
-sars O
+sars B-COVID
 or O
 similar O
 illnesses O
@@ -100546,7 +100546,7 @@ been O
 more O
 than O
 2494 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 mers B-COVID
 resulting O
@@ -100570,7 +100570,7 @@ approximately O
 80 O
 % O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 originated O
 in O
 saudi_arabia O
@@ -100915,10 +100915,10 @@ a O
 higher O
 case_fatality_rate O
 than O
-sars O
+sars B-COVID
 
 unlike O
-sars O
+sars B-COVID
 , O
 however O
 , O
@@ -101124,7 +101124,7 @@ few O
 pregnancy-associated O
 cases O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 11 O
 ) O
@@ -101982,7 +101982,7 @@ the O
 11 O
 confirmed O
 maternal O
-sars O
+sars B-COVID
 cases O
 described O
 above O
@@ -102171,7 +102171,7 @@ death O
 
 similar O
 to O
-sars O
+sars B-COVID
 in O
 pregnancy O
 , O
@@ -102469,7 +102469,7 @@ example O
 during O
 the O
 2003 O
-sars O
+sars B-COVID
 outbreak O
 , O
 ribavirin O
@@ -103270,7 +103270,7 @@ of O
 maternal O
 infections O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 , O
@@ -103329,7 +103329,7 @@ children O
 's O
 hospital O
 in O
-hubei_province B-COVID
+hubei_province O
 30 O
 hours O
 following O
@@ -103658,7 +103658,7 @@ who O
 developed O
 mers B-COVID
 and O
-sars O
+sars B-COVID
 , O
 and O
 realizing O
@@ -103885,7 +103885,7 @@ two O
 different O
 diseases O
 , O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 
@@ -104013,7 +104013,7 @@ vertical_transmission O
 occurring O
 with O
 either O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 
@@ -104111,7 +104111,7 @@ on O
 the O
 treatment O
 of O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 , O
@@ -104203,7 +104203,7 @@ huanan_seafood_market O
 which O
 also O
 had O
-wild_animals B-WILDLIFE
+wild_animals O
 , O
 suggesting O
 the O
@@ -105441,7 +105441,7 @@ the O
 cumulative O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 70548 O
 in O
@@ -106699,7 +106699,7 @@ who O
 had O
 close_contact O
 with O
-confirmed_cases B-COVID
+confirmed_cases O
 had O
 received O
 viral O
@@ -107201,7 +107201,7 @@ infected O
 second O
 , O
 some O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 intentionally O
 removed O
@@ -107228,7 +107228,7 @@ a O
 considerable O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 removed O
 , O
@@ -107363,7 +107363,7 @@ respectively O
 
 panels O
 ( O
-c B-COVID
+c O
 ) O
 and O
 ( O
@@ -107534,7 +107534,7 @@ there O
 were O
 about O
 77780 O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 including O
 2666 O
@@ -108405,7 +108405,7 @@ there O
 have O
 been O
 75748 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 the O
 coronavirus B-COVID
@@ -108484,7 +108484,7 @@ among O
 tested O
 
 3 O
-sars O
+sars B-COVID
 , O
 in O
 2003 O
@@ -108600,7 +108600,7 @@ coincides O
 ( O
 similar O
 to O
-sars O
+sars B-COVID
 ) O
 with O
 chinese O
@@ -109378,14 +109378,14 @@ whole-virus O
 anti-mers-cov O
 igg O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 3/4 O
 ) O
 and O
 igm O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 1/4 O
 ) O
@@ -109478,7 +109478,7 @@ nl63 O
 
 cross-reactivity O
 with O
-sars O
+sars B-COVID
 was O
 only O
 reported O
@@ -109529,7 +109529,7 @@ study O
 in O
 qatar O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 21 O
 ) O
@@ -109604,7 +109604,7 @@ about O
 36 O
 % O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 791 O
 ) O
@@ -109677,7 +109677,7 @@ bats B-WILDLIFE
 are O
 considered O
 the O
-natural_reservoirs O
+natural_reservoirs B-WILDLIFE
 of O
 these O
 viruses O
@@ -109688,7 +109688,7 @@ is O
 closely_related O
 to O
 bat O
-cov B-VIRAL_PROTEIN
+cov O
 ( O
 btcov O
 ) O
@@ -109771,7 +109771,7 @@ further O
 sera O
 samples O
 from O
-sars O
+sars B-COVID
 patients O
 demonstrated O
 60.7 O
@@ -109970,7 +109970,7 @@ interestingly O
 95 O
 % O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 20 O
 ) O
@@ -109999,7 +109999,7 @@ were O
 reported O
 in O
 camel O
-farm B-LIVESTOCK
+farm O
 owners O
 and O
 workers O
@@ -110235,7 +110235,7 @@ were O
 in O
 close_contact O
 with O
-confirmed_cases B-COVID
+confirmed_cases O
 during O
 the O
 acute_phase O
@@ -110272,7 +110272,7 @@ in O
 direct_contact O
 with O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 either O
 at O
 work O
@@ -110450,7 +110450,7 @@ workers O
 , O
 and O
 camel O
-farm B-LIVESTOCK
+farm O
 coworkers O
 
 samples O
@@ -110537,7 +110537,7 @@ identification O
 these O
 samples O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 135 O
 ) O
@@ -111700,7 +111700,7 @@ cases O
 in O
 qatar O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 21 O
 ) O
@@ -111721,7 +111721,7 @@ mers B-COVID
 cases O
 worldwide O
 ( O
-n B-VIRAL_PROTEIN
+n O
 > O
 1700 O
 ) O
@@ -112243,7 +112243,7 @@ coronaviruses O
 , O
 namely O
 , O
-sars O
+sars B-COVID
 , O
 hku1 O
 , O
@@ -112253,7 +112253,7 @@ oc43 O
 , O
 and O
 nl63 O
-cov B-VIRAL_PROTEIN
+cov O
 
 interestingly O
 , O
@@ -112398,7 +112398,7 @@ hand O
 , O
 cross-reactivity O
 between O
-sars O
+sars B-COVID
 and O
 mers-cov B-COVID
 has O
@@ -112422,7 +112422,7 @@ that O
 % O
 ) O
 of O
-sars O
+sars B-COVID
 patients O
 had O
 significant O
@@ -112828,7 +112828,7 @@ to O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 coronavirus B-COVID
 and O
@@ -112953,7 +112953,7 @@ have O
 assumed O
 incubation_periods O
 of O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 coronaviruses O
@@ -113296,7 +113296,7 @@ data O
 january O
 2020 O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 88 O
 ) O
@@ -113633,7 +113633,7 @@ estimated O
 mean O
 incubation_periods O
 for O
-sars O
+sars B-COVID
 are O
 more O
 variable O
@@ -113669,7 +113669,7 @@ similar O
 to O
 mers B-COVID
 or O
-sars O
+sars B-COVID
 will O
 not O
 have O
@@ -113996,7 +113996,7 @@ only O
 have O
 information O
 on O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 there O
 is O
@@ -114422,14 +114422,14 @@ ct O
 , O
 on O
 day O
-t B-WILDLIFE
+t O
 , O
 illustrated O
 by O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 by O
 the O
 date O
@@ -114632,7 +114632,7 @@ the O
 cumulative_incidence O
 on O
 day O
-t B-WILDLIFE
+t O
 , O
 z O
 is O
@@ -115294,7 +115294,7 @@ city O
 of O
 wuhan O
 ( O
-hubei_province B-COVID
+hubei_province O
 ) O
 and O
 its O
@@ -115412,9 +115412,9 @@ infect O
 animals O
 , O
 including O
-birds O
+birds B-WILDLIFE
 and O
-mammals B-WILDLIFE
+mammals O
 
 in O
 humans O
@@ -115449,7 +115449,7 @@ endemics O
 which O
 include O
 the O
-sars O
+sars B-COVID
 ( O
 severe_acute_respiratory_syndrome O
 ) O
@@ -115495,7 +115495,7 @@ of O
 8098 O
 cases O
 of O
-sars O
+sars B-COVID
 were O
 reported O
 globally O
@@ -115642,7 +115642,7 @@ and O
 the O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 protein O
 
@@ -115674,7 +115674,7 @@ immunogenic_epitopes O
 eliciting O
 antibody O
 or O
-t B-WILDLIFE
+t O
 cell O
 responses O
 ) O
@@ -115797,7 +115797,7 @@ antibodies O
 generated O
 against O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 of O
 sars-cov B-COVID
@@ -115836,7 +115836,7 @@ patients O
 in O
 contrast O
 , O
-t B-WILDLIFE
+t O
 cell O
 responses O
 have O
@@ -115872,7 +115872,7 @@ all O
 sars-cov O
 proteins O
 , O
-t B-WILDLIFE
+t O
 cell O
 responses O
 against O
@@ -115904,14 +115904,14 @@ of O
 the O
 structural_proteins B-VIRAL_PROTEIN
 , O
-t B-WILDLIFE
+t O
 cell O
 responses O
 against O
 the O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 proteins O
 have O
 been O
@@ -115941,7 +115941,7 @@ and O
 discontinuous O
 ) O
 and O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 , O
@@ -115997,7 +115997,7 @@ in O
 the O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 structural_proteins B-VIRAL_PROTEIN
 due O
 to O
@@ -116013,7 +116013,7 @@ sars-cov O
 for O
 the O
 identified O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 , O
@@ -116182,7 +116182,7 @@ orf7b O
 , O
 orf8 O
 , O
-n B-VIRAL_PROTEIN
+n O
 , O
 and O
 orf10 B-VIRAL_PROTEIN
@@ -116231,7 +116231,7 @@ sars-cov-derived O
 b O
 cell O
 and O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 were O
@@ -116329,7 +116329,7 @@ ii O
 ) O
 either O
 positive O
-t B-WILDLIFE
+t O
 cell O
 assays O
 ( O
@@ -116361,7 +116361,7 @@ mhc O
 ) O
 binding_assays O
 for O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 
@@ -116389,7 +116389,7 @@ epitopes O
 , O
 since O
 a O
-t B-WILDLIFE
+t O
 cell O
 response O
 has O
@@ -116440,7 +116440,7 @@ of O
 b O
 cell O
 and O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 obtained O
@@ -116462,7 +116462,7 @@ coverages O
 for O
 sets O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 were O
@@ -116531,7 +116531,7 @@ for O
 a O
 set O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 
@@ -116558,7 +116558,7 @@ to O
 at O
 least O
 one O
-t B-WILDLIFE
+t O
 cell O
 epitope O
 from O
@@ -116834,7 +116834,7 @@ e O
 m O
 , O
 and O
-n B-VIRAL_PROTEIN
+n O
 ) O
 
 a O
@@ -116850,7 +116850,7 @@ that O
 the O
 m O
 , O
-n B-VIRAL_PROTEIN
+n O
 , O
 and O
 e O
@@ -117043,7 +117043,7 @@ the O
 outgroup O
 zaria O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 strain O
 ( O
 accession O
@@ -117092,7 +117092,7 @@ on O
 the O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 proteins O
 as O
 these O
@@ -117132,7 +117132,7 @@ and O
 searched O
 to O
 identify O
-t B-WILDLIFE
+t O
 cell O
 and O
 b O
@@ -117154,7 +117154,7 @@ report O
 the O
 analysis O
 for O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 , O
@@ -117181,7 +117181,7 @@ epitopes O
 
 the O
 sars-cov-derived O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 used O
@@ -117201,7 +117201,7 @@ assays O
 i O
 ) O
 positive O
-t B-WILDLIFE
+t O
 cell O
 assays O
 , O
@@ -117209,7 +117209,7 @@ which O
 tested O
 for O
 a O
-t B-WILDLIFE
+t O
 cell O
 response O
 against O
@@ -117232,7 +117232,7 @@ binding O
 we O
 aligned O
 these O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 across O
@@ -117244,7 +117244,7 @@ sequences O
 among O
 the O
 115 O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 that O
@@ -117252,7 +117252,7 @@ were O
 determined O
 by O
 positive O
-t B-WILDLIFE
+t O
 cell O
 assays O
 ( O
@@ -117301,7 +117301,7 @@ present O
 in O
 either O
 the O
-n B-VIRAL_PROTEIN
+n O
 ( O
 16 O
 ) O
@@ -117476,7 +117476,7 @@ and O
 identify O
 potentially O
 effective O
-t B-WILDLIFE
+t O
 cell O
 targets O
 covering O
@@ -117494,7 +117494,7 @@ considered O
 the O
 set O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 that O
@@ -117523,7 +117523,7 @@ ability O
 to O
 induce O
 a O
-t B-WILDLIFE
+t O
 cell O
 response O
 against O
@@ -117623,7 +117623,7 @@ s O
 66 O
 ) O
 or O
-n B-VIRAL_PROTEIN
+n O
 ( O
 36 O
 ) O
@@ -117753,7 +117753,7 @@ identified O
 a O
 set O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 estimated O
@@ -117768,7 +117768,7 @@ set O
 comprised O
 of O
 multiple O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 associated O
@@ -117800,7 +117800,7 @@ the O
 majority O
 of O
 the O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 for O
@@ -117812,7 +117812,7 @@ has O
 been O
 determined O
 using O
-t B-WILDLIFE
+t O
 cell O
 assays O
 ( O
@@ -117871,7 +117871,7 @@ while O
 the O
 ordering O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 in O
@@ -118027,10 +118027,10 @@ s O
 and O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 protein O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 ( O
@@ -118074,7 +118074,7 @@ alleles O
 multiple O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 peptides O
 were O
 reported O
@@ -118094,7 +118094,7 @@ all O
 the O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 epitopes O
 that O
 bind O
@@ -118133,7 +118133,7 @@ many O
 individual O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 epitopes O
 were O
 found O
@@ -118160,7 +118160,7 @@ table_s5 O
 
 similar O
 to O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 , O
@@ -118282,7 +118282,7 @@ s O
 23 O
 ) O
 or O
-n B-VIRAL_PROTEIN
+n O
 ( O
 22 O
 ) O
@@ -118330,7 +118330,7 @@ subunit O
 s2 O
 ) O
 and O
-n B-VIRAL_PROTEIN
+n O
 ( O
 22 O
 ) O
@@ -118965,7 +118965,7 @@ residues O
 respectively O
 
 ( O
-c B-COVID
+c O
 ) O
 location O
 of O
@@ -119029,7 +119029,7 @@ shown O
 
 on O
 the O
-t B-WILDLIFE
+t O
 cell O
 side O
 , O
@@ -119071,7 +119071,7 @@ to O
 induce O
 a O
 protective O
-t B-WILDLIFE
+t O
 cell O
 response O
 , O
@@ -119204,7 +119204,7 @@ residues O
 respectively O
 
 ( O
-c B-COVID
+c O
 ) O
 location O
 of O
@@ -119424,7 +119424,7 @@ for O
 the O
 case O
 of O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 , O
@@ -119522,7 +119522,7 @@ and O
 of O
 known O
 sars-cov B-COVID
-t B-WILDLIFE
+t O
 cell O
 and O
 b O
@@ -119570,7 +119570,7 @@ for O
 eliciting O
 a O
 robust O
-t B-WILDLIFE
+t O
 cell O
 or O
 antibody O
@@ -119580,7 +119580,7 @@ sars-cov-2 O
 
 on O
 the O
-t B-WILDLIFE
+t O
 cell O
 side O
 , O
@@ -119622,7 +119622,7 @@ to O
 induce O
 a O
 protective O
-t B-WILDLIFE
+t O
 cell O
 response O
 , O
@@ -119936,7 +119936,7 @@ study O
 has O
 also O
 predicted O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 for O
@@ -120058,7 +120058,7 @@ experimentally O
 using O
 either O
 positive O
-t B-WILDLIFE
+t O
 cell O
 or O
 mhc_binding O
@@ -120213,7 +120213,7 @@ further O
 experimental O
 studies O
 ( O
-t B-WILDLIFE
+t O
 cell O
 and O
 b O
@@ -120365,7 +120365,7 @@ figure_s2 O
 location O
 of O
 identified O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 on O
@@ -120428,7 +120428,7 @@ list O
 of O
 all O
 sars-cov-derived O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 determined O
@@ -120462,7 +120462,7 @@ distribution O
 of O
 all O
 sars-cov-derived O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 obtained O
@@ -120496,9 +120496,9 @@ of O
 sars-cov-derived O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 protein O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 ( O
@@ -120541,9 +120541,9 @@ individual O
 sars-cov-derived O
 s O
 or O
-n B-VIRAL_PROTEIN
+n O
 protein O
-t B-WILDLIFE
+t O
 cell O
 epitopes O
 ( O
@@ -120573,7 +120573,7 @@ those O
 in O
 s O
 and O
-n B-VIRAL_PROTEIN
+n O
 proteins O
 , O
 that O
@@ -120619,9 +120619,9 @@ positivestranded O
 rna O
 viruses O
 of O
-mammals B-WILDLIFE
+mammals O
 and O
-birds O
+birds B-WILDLIFE
 
 these O
 viruses O
@@ -120838,7 +120838,7 @@ population O
 of O
 bats B-WILDLIFE
 for O
-sars O
+sars B-COVID
 and O
 mers-cov B-COVID
 or O
@@ -120947,7 +120947,7 @@ in O
 the O
 case O
 of O
-sars O
+sars B-COVID
 , O
 markets O
 with O
@@ -121042,7 +121042,7 @@ sellers O
 , O
 suggesting O
 previous O
-cross-species_transmission O
+cross-species_transmission B-WILDLIFE
 events O
 without O
 necessarily O
@@ -121255,7 +121255,7 @@ nipah_virus O
 where O
 separation O
 of O
-pig O
+pig B-LIVESTOCK
 farms O
 from O
 fruit O
@@ -121388,7 +121388,7 @@ from O
 domestic O
 and O
 captive O
-wildlife B-WILDLIFE
+wildlife O
 needs O
 urgent O
 attention O
@@ -121655,7 +121655,7 @@ from O
 cases O
 reported O
 in O
-hubei_province B-COVID
+hubei_province O
 early O
 in O
 the O
@@ -121681,7 +121681,7 @@ reported O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 from O
 singaporean O
@@ -122046,7 +122046,7 @@ estimated O
 at O
 0.14 O
 and O
-t B-WILDLIFE
+t O
 is O
 the O
 latest O
@@ -122178,7 +122178,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -122391,7 +122391,7 @@ published O
 distribution O
 of O
 the O
-sars O
+sars B-COVID
 serial_interval O
 
 our O
@@ -122427,7 +122427,7 @@ shorter O
 serial_interval O
 compared O
 to O
-sars O
+sars B-COVID
 implies O
 that O
 contact_tracing O
@@ -122472,7 +122472,7 @@ using O
 serial_intervals O
 estimates O
 from O
-sars O
+sars B-COVID
 data O
 will O
 result O
@@ -122769,7 +122769,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -123098,7 +123098,7 @@ and O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 in O
 2002 O
@@ -124189,7 +124189,7 @@ late O
 , O
 wuhan O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 became O
@@ -124244,14 +124244,14 @@ are O
 more O
 than O
 2000 O
-confirmed_cases B-COVID
+confirmed_cases O
 worldwide O
 , O
 with O
 over O
 half O
 from O
-hubei_province B-COVID
+hubei_province O
 
 here O
 , O
@@ -124353,7 +124353,7 @@ nine O
 tertiary O
 hospitals O
 in O
-hubei_province B-COVID
+hubei_province O
 from O
 december O
 30 O
@@ -124457,11 +124457,11 @@ the O
 nucleic_acids O
 of O
 this O
-cov B-VIRAL_PROTEIN
+cov O
 were O
 identified O
 as O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 enrolled O
 in O
@@ -124502,7 +124502,7 @@ parainfluenza_virus O
 , O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 -cov O
 , O
@@ -124582,7 +124582,7 @@ primers O
 and O
 probe O
 for O
-cov B-VIRAL_PROTEIN
+cov O
 envelope B-VIRAL_PROTEIN
 genes O
 were O
@@ -124615,14 +124615,14 @@ conditions O
 were O
 50 O
 ° O
-c B-COVID
+c O
 for O
 15 O
 min O
 and O
 95 O
 ° O
-c B-COVID
+c O
 for O
 3 O
 min O
@@ -124634,14 +124634,14 @@ cycles O
 of O
 95 O
 ° O
-c B-COVID
+c O
 for O
 15 O
 s O
 and O
 60 O
 ° O
-c B-COVID
+c O
 for O
 30 O
 s. O
@@ -124737,9 +124737,9 @@ history O
 of O
 contact O
 with O
-birds O
+birds B-WILDLIFE
 or O
-wildlife B-WILDLIFE
+wildlife O
 at O
 huanan_seafood_wholesale_market O
 2 O
@@ -124921,7 +124921,7 @@ than O
 half O
 of O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 included O
 in O
 this O
@@ -124949,7 +124949,7 @@ in O
 other O
 cities O
 of O
-hubei_province B-COVID
+hubei_province O
 predominantly O
 originated O
 from O
@@ -125668,7 +125668,7 @@ in O
 this O
 outbreak O
 
-cov B-VIRAL_PROTEIN
+cov O
 , O
 as O
 an O
@@ -125681,10 +125681,10 @@ in O
 humans O
 , O
 other O
-mammals B-WILDLIFE
+mammals O
 , O
 and O
-birds O
+birds B-WILDLIFE
 , O
 can O
 cause O
@@ -125777,7 +125777,7 @@ appeared O
 in O
 wuhan O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 the O
 cause O
@@ -125853,7 +125853,7 @@ is O
 reminiscent O
 of O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 china O
@@ -125866,7 +125866,7 @@ widespread O
 transmission O
 of O
 the O
-sars O
+sars B-COVID
 virus O
 was O
 successfully O
@@ -125901,7 +125901,7 @@ the O
 typical O
 clinical_manifestations O
 of O
-sars O
+sars B-COVID
 included O
 sudden O
 fever B-COVID
@@ -125910,7 +125910,7 @@ usually O
 > O
 38 O
 ° O
-c B-COVID
+c O
 ) O
 accompanied O
 by O
@@ -126351,7 +126351,7 @@ of O
 the O
 critically O
 ill O
-sars O
+sars B-COVID
 patients O
 were O
 young_adults O
@@ -126398,7 +126398,7 @@ of O
 young_adult O
 patients O
 with O
-sars O
+sars B-COVID
 with O
 moderate O
 and O
@@ -126443,7 +126443,7 @@ lower O
 than O
 that O
 of O
-sars O
+sars B-COVID
 , O
 its O
 incubation_period O
@@ -126488,7 +126488,7 @@ and O
 lessons_learned O
 from O
 the O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 outbreaks O
@@ -126499,7 +126499,7 @@ site O
 and O
 protocol O
 for O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 ncp O
 are O
@@ -126580,7 +126580,7 @@ in O
 the O
 treatment O
 of O
-sars O
+sars B-COVID
 resulted O
 in O
 serious O
@@ -126593,7 +126593,7 @@ decrease O
 the O
 mortality_rate O
 of O
-cov B-VIRAL_PROTEIN
+cov O
 infection B-COVID
 , O
 we O
@@ -126778,7 +126778,7 @@ infected O
 with O
 this O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 
 several O
 drugs B-VIRAL_PROTEIN
@@ -126922,7 +126922,7 @@ some O
 tertiary O
 hospitals O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 data O
 from O
@@ -126968,7 +126968,7 @@ conclusion O
 by O
 analyzing O
 137 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 infection B-COVID
 with O
@@ -126979,7 +126979,7 @@ some O
 tertiary O
 hospitals O
 in O
-hubei_province B-COVID
+hubei_province O
 , O
 we O
 preliminarily O
@@ -127080,7 +127080,7 @@ emerged O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 of O
 china O
 
@@ -127266,7 +127266,7 @@ genome O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 coronavirus B-COVID
 ( O
@@ -127417,7 +127417,7 @@ since O
 the O
 outbreak O
 of O
-sars O
+sars B-COVID
 in O
 2003 O
 
@@ -127734,7 +127734,7 @@ the O
 pathogenic O
 mechanism O
 of O
-sars O
+sars B-COVID
 may O
 help O
 inform O
@@ -127766,7 +127766,7 @@ in O
 the O
 pathogenesis O
 of O
-sars O
+sars B-COVID
 , O
 ace2 O
 contributes O
@@ -128361,7 +128361,7 @@ a O
 total O
 of O
 28,276 O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 565 O
 deaths O
@@ -128447,7 +128447,7 @@ guangdong_province O
 and O
 was O
 named O
-sars O
+sars B-COVID
 coronavirus B-COVID
 that O
 fulfilled O
@@ -128495,7 +128495,7 @@ is O
 available O
 for O
 the O
-sars O
+sars B-COVID
 
 6 O
 the O
@@ -128553,7 +128553,7 @@ initial O
 clinical_manifestations O
 for O
 both O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 are O
@@ -128603,7 +128603,7 @@ had O
 been O
 identified O
 for O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 , O
@@ -128669,7 +128669,7 @@ sars-cov B-COVID
 , O
 bat B-WILDLIFE
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 and O
 others O
 also O
@@ -128720,7 +128720,7 @@ sars-cov B-COVID
 and O
 bat B-WILDLIFE
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 belong O
 to O
 abstract O
@@ -129170,7 +129170,7 @@ as O
 in O
 the O
 past O
-sars O
+sars B-COVID
 outbreak O
 , O
 the O
@@ -129197,7 +129197,7 @@ from O
 infected O
 or O
 sick O
-wild_animals B-WILDLIFE
+wild_animals O
 in O
 the O
 wet_market O
@@ -129255,7 +129255,7 @@ the O
 cellular_receptor O
 ( O
 like O
-sars O
+sars B-COVID
 ) O
 made O
 droplet_transmission O
@@ -129273,7 +129273,7 @@ furthermore O
 contact O
 transmission O
 like O
-sars O
+sars B-COVID
 is O
 also O
 likely O
@@ -129355,7 +129355,7 @@ believed O
 that O
 , O
 like O
-sars O
+sars B-COVID
 , O
 there O
 is O
@@ -129642,7 +129642,7 @@ wuhan O
 to O
 the O
 whole O
-hubei_province B-COVID
+hubei_province O
 
 subsequently O
 , O
@@ -129726,7 +129726,7 @@ a O
 total O
 of O
 28,276 O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 565 O
 deaths O
@@ -130227,7 +130227,7 @@ chin O
 med O
 assoc O
 like O
-sars O
+sars B-COVID
 , O
 is O
 ace2 O
@@ -130438,7 +130438,7 @@ such O
 as O
 rdrp B-VIRAL_PROTEIN
 or O
-n B-VIRAL_PROTEIN
+n O
 region O
 ) O
 1,13,15 O
@@ -130634,7 +130634,7 @@ developed O
 for O
 ebola O
 and O
-sars O
+sars B-COVID
 
 in O
 a O
@@ -130774,7 +130774,7 @@ been O
 tried O
 to O
 treat O
-sars O
+sars B-COVID
 disease O
 with O
 apparent O
@@ -131362,13 +131362,13 @@ the O
 severe_acute_respiratory_syndrome O
 '' O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 in O
 2003 O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 the O
 ` O
@@ -131401,7 +131401,7 @@ cases O
 which O
 occurred O
 in O
-mainland_china B-COVID
+mainland_china O
 from O
 the O
 who O
@@ -131425,7 +131425,7 @@ of O
 wuhan O
 city O
 and O
-hubei_province B-COVID
+hubei_province O
 
 data O
 information O
@@ -131593,7 +131593,7 @@ cases O
 which O
 occurred O
 in O
-mainland_china B-COVID
+mainland_china O
 from O
 the O
 who O
@@ -131617,7 +131617,7 @@ of O
 wuhan O
 city O
 and O
-hubei_province B-COVID
+hubei_province O
 
 data O
 information O
@@ -131821,11 +131821,11 @@ data O
 obtained O
 for O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 2019-ncov B-COVID
 in O
-mainland_china B-COVID
+mainland_china O
 and O
 estimated O
 the O
@@ -131909,11 +131909,11 @@ data O
 obtained O
 for O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 2019-ncov B-COVID
 in O
-mainland_china B-COVID
+mainland_china O
 and O
 estimated O
 the O
@@ -132656,15 +132656,15 @@ formula O
 : O
 where O
 φ O
-t B-WILDLIFE
+t O
 = O
 r O
-c B-COVID
+c O
 k O
 j=1 O
 p O
 j O
-n B-VIRAL_PROTEIN
+n O
 t− O
 j O
 , O
@@ -132693,25 +132693,25 @@ is O
 the O
 gamma_function O
 
-n B-VIRAL_PROTEIN
+n O
 = O
 { O
-n B-VIRAL_PROTEIN
+n O
 0 O
 , O
-n B-VIRAL_PROTEIN
+n O
 1 O
 , O
 
 
 
 , O
-n B-VIRAL_PROTEIN
-t B-WILDLIFE
+n O
+t O
 } O
 , O
 where O
-n B-VIRAL_PROTEIN
+n O
 j O
 denotes O
 the O
@@ -132723,7 +132723,7 @@ on O
 day O
 j O
 and O
-t B-WILDLIFE
+t O
 is O
 the O
 last O
@@ -132773,7 +132773,7 @@ the O
 sensitivity O
 of O
 r O
-c B-COVID
+c O
 to O
 different O
 e O
@@ -132914,7 +132914,7 @@ likelihood-based O
 estimation O
 of O
 r O
-c B-COVID
+c O
 during O
 the O
 outbreak O
@@ -132969,7 +132969,7 @@ table O
 2 O
 that O
 r O
-c B-COVID
+c O
 is O
 sensitive O
 to O
@@ -133014,7 +133014,7 @@ the O
 estimates O
 of O
 r O
-c B-COVID
+c O
 based O
 on O
 the O
@@ -133120,7 +133120,7 @@ mean O
 control O
 reproductive_number O
 r O
-c B-COVID
+c O
 to O
 be O
 6.47 O
@@ -133150,7 +133150,7 @@ mean O
 estimations O
 of O
 r O
-c B-COVID
+c O
 based O
 on O
 the O
@@ -133203,7 +133203,7 @@ infected_individuals O
 ( O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 ) O
 is O
@@ -133248,7 +133248,7 @@ infected_individuals O
 ( O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 ) O
 and O
@@ -133515,7 +133515,7 @@ denoted O
 by O
 ime O
 ( O
-t B-WILDLIFE
+t O
 ) O
 
 considering O
@@ -133567,7 +133567,7 @@ denoted O
 by O
 ime O
 ( O
-t B-WILDLIFE
+t O
 ) O
 
 according O
@@ -133809,7 +133809,7 @@ travel_restriction O
 
 rate O
 , O
-c B-COVID
+c O
 ( O
 a O
 ) O
@@ -133890,7 +133890,7 @@ denoted O
 by O
 ime O
 ( O
-t B-WILDLIFE
+t O
 ) O
 
 according O
@@ -134234,7 +134234,7 @@ the O
 values O
 of O
 the O
-sars O
+sars B-COVID
 epidemics O
 ( O
 r O
@@ -135074,7 +135074,7 @@ out O
 from O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 , O
@@ -135215,7 +135215,7 @@ good O
 prediction O
 of O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 from O
 23 O
 to O
@@ -135233,7 +135233,7 @@ particularly O
 , O
 the O
 predicted O
-confirmed_cases B-COVID
+confirmed_cases O
 should O
 be O
 7723 O
@@ -135502,7 +135502,7 @@ example O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 that O
@@ -135526,7 +135526,7 @@ of O
 suspected_cases O
 and O
 isolating O
-confirmed_cases B-COVID
+confirmed_cases O
 because O
 the O
 majority O
@@ -135662,7 +135662,7 @@ by O
 tracing O
 contacts O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 testing O
 ( O
@@ -136693,7 +136693,7 @@ stages O
 of O
 the O
 2003 O
-sars O
+sars B-COVID
 outbreak O
 in O
 singapore O
@@ -136898,7 +136898,7 @@ are O
 isolated O
 
 person O
-c B-COVID
+c O
 is O
 missed O
 by O
@@ -136928,7 +136928,7 @@ onset O
 
 because O
 person O
-c B-COVID
+c O
 was O
 not O
 traced O
@@ -137096,7 +137096,7 @@ colleagues O
 
 22 O
 ( O
-c B-COVID
+c O
 ) O
 an O
 example O
@@ -137155,7 +137155,7 @@ case O
 
 in O
 ( O
-c B-COVID
+c O
 ) O
 , O
 the O
@@ -137251,7 +137251,7 @@ distribution O
 from O
 the O
 2003 O
-sars O
+sars B-COVID
 outbreak O
 , O
 19 O
@@ -139248,7 +139248,7 @@ isolation-as O
 seen O
 in O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 beijing O
@@ -139639,7 +139639,7 @@ to O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 in O
@@ -139757,9 +139757,9 @@ in O
 domesticated O
 and O
 wild O
-mammals B-WILDLIFE
+mammals O
 and O
-birds O
+birds B-WILDLIFE
 , O
 and O
 these O
@@ -140106,7 +140106,7 @@ basic_reproductive_number-r O
 
 the O
 r。of O
-sars O
+sars B-COVID
 was O
 estimated O
 to O
@@ -140420,7 +140420,7 @@ limiting O
 human O
 exposure O
 to O
-wild_animals B-WILDLIFE
+wild_animals O
 and O
 their O
 trade O
@@ -140519,7 +140519,7 @@ that O
 ultimately O
 succeeded O
 inthe O
-sars O
+sars B-COVID
 epidemic O
 
 it O
@@ -140550,7 +140550,7 @@ and O
 international O
 health O
 and O
-wildlife B-WILDLIFE
+wildlife O
 regulatory O
 authorities O
 to O
@@ -140682,7 +140682,7 @@ also O
 the O
 existence O
 of O
-wildlife B-WILDLIFE
+wildlife O
 trafficking O
 between O
 asia O
@@ -140705,7 +140705,7 @@ chain O
 , O
 with O
 savvy O
-wildlife B-WILDLIFE
+wildlife O
 entrepreneurs O
 marketing O
 wild O
@@ -141277,7 +141277,7 @@ occurred O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 ; O
@@ -141309,7 +141309,7 @@ inside O
 and O
 outside O
 of O
-hubei_province B-COVID
+hubei_province O
 and O
 even O
 other O
@@ -141711,7 +141711,7 @@ that O
 related O
 to O
 the O
-sars O
+sars B-COVID
 ( O
 severe_acute_respiratory_syndrome O
 ) O
@@ -141778,7 +141778,7 @@ and/ O
 or O
 chemoprophylaxis O
 of O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 , O
@@ -142495,7 +142495,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -142538,7 +142538,7 @@ addition O
 clustered O
 cases O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 without O
 a O
 history O
@@ -142550,7 +142550,7 @@ emerged O
 
 also O
 , O
-confirmed_cases B-COVID
+confirmed_cases O
 without O
 clear O
 exposure O
@@ -142590,7 +142590,7 @@ a O
 total O
 of O
 2744 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 pneumonia B-COVID
 with O
@@ -142664,7 +142664,7 @@ observation O
 a O
 total O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 were O
 reported O
 from O
@@ -142695,7 +142695,7 @@ taiwan O
 in O
 addition O
 , O
-confirmed_cases B-COVID
+confirmed_cases O
 had O
 been O
 reported O
@@ -142909,7 +142909,7 @@ different O
 from O
 sarsr-cov O
 ( O
-sars O
+sars B-COVID
 related O
 coronaviruses O
 ) O
@@ -143174,7 +143174,7 @@ including O
 the O
 first O
 41 O
-confirmed_cases B-COVID
+confirmed_cases O
 admitted O
 to O
 wuhan O
@@ -143462,7 +143462,7 @@ circumstances O
 2 O
 or O
 more O
-confirmed_cases B-COVID
+confirmed_cases O
 are O
 found O
 , O
@@ -143504,7 +143504,7 @@ after O
 the O
 onset O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 the O
 absence O
@@ -143528,7 +143528,7 @@ have O
 close_contact O
 with O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 or O
 other O
@@ -143743,7 +143743,7 @@ or O
 administrative O
 management O
 of O
-wild_animals B-WILDLIFE
+wild_animals O
 , O
 materials O
 , O
@@ -144138,7 +144138,7 @@ or O
 bats B-WILDLIFE
 or O
 other O
-wild_animals B-WILDLIFE
+wild_animals O
 
 passengers O
 should O
@@ -144152,7 +144152,7 @@ they O
 had O
 travelled O
 to O
-hubei_province B-COVID
+hubei_province O
 ( O
 especially O
 wuhan O
@@ -145370,7 +145370,7 @@ of O
 cd4 O
 and O
 cd8 O
-t B-WILDLIFE
+t O
 cells O
 are O
 significantly_decreased O
@@ -145695,7 +145695,7 @@ not O
 
 suspected O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 need O
 to O
 be O
@@ -145720,7 +145720,7 @@ in O
 single O
 room O
 , O
-confirmed_cases B-COVID
+confirmed_cases O
 are O
 admitted O
 to O
@@ -146185,7 +146185,7 @@ coronavirus B-COVID
 in O
 suspected O
 or O
-confirmed_cases B-COVID
+confirmed_cases O
 
 ( O
 2 O
@@ -146269,7 +146269,7 @@ in O
 the O
 treatment O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 , O
@@ -146533,7 +146533,7 @@ weak O
 recommendation O
 ) O
 
-sars O
+sars B-COVID
 management O
 related O
 researches O
@@ -146572,7 +146572,7 @@ clinical_symptoms O
 of O
 patients O
 with O
-sars O
+sars B-COVID
 , O
 reduce O
 the O
@@ -152305,7 +152305,7 @@ mers B-COVID
 and O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 
 early O
@@ -152336,7 +152336,7 @@ be O
 a O
 relative O
 of O
-sars O
+sars B-COVID
 and O
 named O
 the O
@@ -153493,7 +153493,7 @@ characteristics O
 if O
 there O
 are O
-n B-VIRAL_PROTEIN
+n O
 known O
 pathogens O
 that O
@@ -153530,7 +153530,7 @@ i.e. O
 ( O
 1 O
 + O
-n B-VIRAL_PROTEIN
+n O
 ) O
 ) O
 
@@ -154064,7 +154064,7 @@ wet_market O
 exposure O
 ; O
 ( O
-c B-COVID
+c O
 ) O
 hamming_distance O
 without O
@@ -154146,7 +154146,7 @@ example O
 , O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 mycoplasma_pneumoniae O
@@ -154390,7 +154390,7 @@ metrics O
 , O
 respectively O
 
-sars O
+sars B-COVID
 and O
 mers B-COVID
 coronaviruses O
@@ -154577,7 +154577,7 @@ is O
 a O
 relative O
 of O
-sars O
+sars B-COVID
 , O
 laboratory-based O
 outcomes O
@@ -154889,7 +154889,7 @@ reflect O
 observations O
 from O
 all O
-confirmed_cases B-COVID
+confirmed_cases O
 nor O
 epidemiological O
 findings O
@@ -155170,7 +155170,7 @@ virulent O
 coronaviruses O
 associated O
 with O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 on O
@@ -155785,7 +155785,7 @@ lives O
 along O
 with O
 77,658 O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 2824 O
 suspected_cases O
@@ -155965,7 +155965,7 @@ transportation O
 other O
 cities O
 in O
-hubei_province B-COVID
+hubei_province O
 announced O
 similar O
 traffic O
@@ -156384,7 +156384,7 @@ the O
 total O
 population O
 size O
-n B-VIRAL_PROTEIN
+n O
 with O
 two O
 extra O
@@ -156419,7 +156419,7 @@ and O
 ) O
 ` O
 ` O
-c B-COVID
+c O
 '' O
 representing O
 the O
@@ -156643,7 +156643,7 @@ transmission_rate O
 , O
 β O
 ( O
-t B-WILDLIFE
+t O
 ) O
 in O
 eq O
@@ -157739,7 +157739,7 @@ resembles O
 influenza O
 rather O
 than O
-sars O
+sars B-COVID
 
 in O
 our O
@@ -158142,7 +158142,7 @@ cumulative O
 number O
 of O
 ( O
-c B-COVID
+c O
 ) O
 cases O
 or O
@@ -158640,10 +158640,10 @@ temperature O
 such O
 as O
 30 O
-c B-COVID
+c O
 or O
 40 O
-c B-COVID
+c O
 is O
 associated O
 with O
@@ -158679,7 +158679,7 @@ it O
 was O
 shown O
 at O
-room_temperature B-COVID
+room_temperature O
 that O
 hcov-229e O
 persists O
@@ -159352,7 +159352,7 @@ they O
 
 coronaviruses O
 ( O
-cov B-VIRAL_PROTEIN
+cov O
 ) O
 belong O
 to O
@@ -159435,7 +159435,7 @@ e O
 , O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 proteins O
 and O
@@ -159469,9 +159469,9 @@ structural_proteins B-VIRAL_PROTEIN
 covs O
 mainly O
 affect O
-birds O
+birds B-WILDLIFE
 and O
-mammals B-WILDLIFE
+mammals O
 
 prior O
 to O
@@ -159960,7 +159960,7 @@ curbed O
 the O
 transmission O
 of O
-sars O
+sars B-COVID
 in O
 2003 O
 
@@ -160016,7 +160016,7 @@ country O
 badly O
 hit O
 by O
-sars O
+sars B-COVID
 , O
 recommended O
 the O
@@ -160027,7 +160027,7 @@ all O
 cases O
 regardless O
 of O
-sars O
+sars B-COVID
 status O
 
 for O
@@ -160486,7 +160486,7 @@ since O
 the O
 outbreak_of_severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 18 O
 years_ago O
@@ -160695,7 +160695,7 @@ past O
 two O
 decades O
 , O
-sars O
+sars B-COVID
 and O
 middle_east_respiratory_syndrome O
 ( O
@@ -160744,7 +160744,7 @@ outbreak O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 central O
 china O
@@ -160997,7 +160997,7 @@ as O
 a O
 laboratory O
 investigating O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 we O
 first O
@@ -161025,7 +161025,7 @@ market-the O
 same O
 environment O
 as O
-sars O
+sars B-COVID
 infections O
 
 we O
@@ -161112,7 +161112,7 @@ we O
 obtained O
 a O
 29,891-base-pair O
-cov B-VIRAL_PROTEIN
+cov O
 genome O
 that O
 shared O
@@ -161305,7 +161305,7 @@ that O
 were O
 used O
 for O
-cov B-VIRAL_PROTEIN
+cov O
 species O
 classification O
 were O
@@ -161348,7 +161348,7 @@ bat B-WILDLIFE
 coronavirus B-COVID
 ( O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 ) O
 -which O
 was O
@@ -161392,7 +161392,7 @@ throughout O
 the O
 genome O
 to O
-ratg13 B-WILDLIFE
+ratg13 O
 ( O
 fig O
 
@@ -161416,7 +161416,7 @@ sequences O
 of O
 2019-ncov B-COVID
 , O
-ratg13 B-WILDLIFE
+ratg13 O
 , O
 sars-cov B-COVID
 and O
@@ -161526,7 +161526,7 @@ a O
 nucleotide O
 identity O
 to O
-ratg13 B-WILDLIFE
+ratg13 O
 ( O
 extended O
 data O
@@ -161540,7 +161540,7 @@ genes O
 of O
 2019-ncov B-COVID
 and O
-ratg13 B-WILDLIFE
+ratg13 O
 are O
 longer O
 than O
@@ -161631,7 +161631,7 @@ close O
 phylogenetic O
 relationship O
 to O
-ratg13 B-WILDLIFE
+ratg13 O
 provides O
 evidence O
 that O
@@ -161859,7 +161859,7 @@ previously O
 developed O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 protein O
 from O
@@ -161888,7 +161888,7 @@ shared O
 amino_acid O
 identity O
 to O
-n B-VIRAL_PROTEIN
+n O
 protein O
 of O
 2019-ncov B-COVID
@@ -162120,7 +162120,7 @@ using O
 the O
 cross-reactive O
 viral O
-n B-VIRAL_PROTEIN
+n O
 antibody O
 ( O
 extended O
@@ -162344,7 +162344,7 @@ civets O
 , O
 pigs B-LIVESTOCK
 and O
-mice O
+mice B-WILDLIFE
 
 we O
 show O
@@ -162415,7 +162415,7 @@ receptors O
 such O
 as O
 aminopeptidase O
-n B-VIRAL_PROTEIN
+n O
 ( O
 apn O
 ) O
@@ -162612,7 +162612,7 @@ january O
 . O
 b O
 , O
-c B-COVID
+c O
 , O
 the O
 cut-off O
@@ -162657,7 +162657,7 @@ of O
 sarsr-cov O
 in O
 their O
-natural_reservoirs O
+natural_reservoirs B-WILDLIFE
 , O
 future_research O
 should O
@@ -162709,7 +162709,7 @@ domestication O
 and O
 consumption O
 of O
-wildlife B-WILDLIFE
+wildlife O
 should O
 be O
 implemented O
@@ -162844,7 +162844,7 @@ using O
 mouse B-WILDLIFE
 anti-s O
 tag O
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 
 hace2 O
 , O
@@ -162870,7 +162870,7 @@ sace2 O
 swine O
 ace2 O
 ( O
-pig O
+pig B-LIVESTOCK
 ) O
 ; O
 mace2 O
@@ -162887,7 +162887,7 @@ red O
 viral O
 protein O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 ; O
 blue O
@@ -163116,7 +163116,7 @@ inactivation O
 at O
 56 O
 ° O
-c B-COVID
+c O
 for O
 1 O
 h O
@@ -163128,7 +163128,7 @@ stored O
 at O
 4 O
 ° O
-c B-COVID
+c O
 until O
 use O
 
@@ -163252,7 +163252,7 @@ incubation B-COVID
 at O
 37 O
 ° O
-c B-COVID
+c O
 for O
 1 O
 h O
@@ -163284,7 +163284,7 @@ incubated O
 at O
 37 O
 ° O
-c B-COVID
+c O
 and O
 observed O
 daily O
@@ -163320,7 +163320,7 @@ using O
 the O
 anti-sarsr-cov O
 rp3 O
-n B-VIRAL_PROTEIN
+n O
 antibody O
 that O
 was O
@@ -163464,7 +163464,7 @@ incubation B-COVID
 at O
 56 O
 ° O
-c B-COVID
+c O
 for O
 1 O
 h O
@@ -163499,7 +163499,7 @@ incubated O
 at O
 37 O
 ° O
-c B-COVID
+c O
 for O
 60 O
 min O
@@ -163754,14 +163754,14 @@ follows O
 : O
 50 O
 ° O
-c B-COVID
+c O
 for O
 3 O
 min O
 , O
 95 O
 ° O
-c B-COVID
+c O
 for O
 30 O
 s O
@@ -163773,14 +163773,14 @@ consisting O
 of O
 95 O
 ° O
-c B-COVID
+c O
 for O
 10 O
 s O
 and O
 60 O
 ° O
-c B-COVID
+c O
 for O
 30 O
 s O
@@ -163810,7 +163810,7 @@ developed O
 using O
 sarsr-cov O
 rp3 O
-n B-VIRAL_PROTEIN
+n O
 protein O
 as O
 antigen O
@@ -163848,7 +163848,7 @@ well O
 overnight O
 with O
 recombinant O
-n B-VIRAL_PROTEIN
+n O
 protein O
 
 human O
@@ -163866,13 +163866,13 @@ h O
 at O
 37 O
 ° O
-c B-COVID
+c O
 
 an O
 anti-human O
 igg O
 hrp-conjugated O
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 ( O
 kyab O
 biotech O
@@ -163937,7 +163937,7 @@ min O
 at O
 37 O
 ° O
-c B-COVID
+c O
 , O
 followed O
 by O
@@ -163945,7 +163945,7 @@ incubation B-COVID
 with O
 an O
 anti-rp3 O
-n B-VIRAL_PROTEIN
+n O
 hrp-conjugated O
 antibody O
 ( O
@@ -164063,7 +164063,7 @@ for O
 20 O
 min O
 at O
-room_temperature B-COVID
+room_temperature O
 
 ace2_expression O
 was O
@@ -164073,7 +164073,7 @@ a O
 mouse B-WILDLIFE
 anti-s O
 tag O
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 and O
 a O
 fitc-labelled O
@@ -164098,7 +164098,7 @@ antibody O
 against O
 the O
 rp3 O
-n B-VIRAL_PROTEIN
+n O
 protein O
 ( O
 generated O
@@ -164290,7 +164290,7 @@ database O
 for O
 human O
 and O
-mammals B-WILDLIFE
+mammals O
 was O
 used O
 to O
@@ -164573,7 +164573,7 @@ the O
 exact O
 sample_size O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 for O
 each O
@@ -164714,7 +164714,7 @@ e.g O
 
 f O
 , O
-t B-WILDLIFE
+t O
 , O
 r O
 ) O
@@ -165091,7 +165091,7 @@ a O
 total O
 of O
 28,276 O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 565 O
 deaths O
@@ -165177,7 +165177,7 @@ guangdong_province O
 and O
 was O
 named O
-sars O
+sars B-COVID
 coronavirus B-COVID
 that O
 fulfilled O
@@ -165225,7 +165225,7 @@ is O
 available O
 for O
 the O
-sars O
+sars B-COVID
 
 6 O
 the O
@@ -165283,7 +165283,7 @@ initial O
 clinical_manifestations O
 for O
 both O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 are O
@@ -165333,7 +165333,7 @@ had O
 been O
 identified O
 for O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 , O
@@ -165399,7 +165399,7 @@ sars-cov B-COVID
 , O
 bat B-WILDLIFE
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 and O
 others O
 also O
@@ -165450,7 +165450,7 @@ sars-cov B-COVID
 and O
 bat B-WILDLIFE
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 belong O
 to O
 abstract O
@@ -165900,7 +165900,7 @@ as O
 in O
 the O
 past O
-sars O
+sars B-COVID
 outbreak O
 , O
 the O
@@ -165927,7 +165927,7 @@ from O
 infected O
 or O
 sick O
-wild_animals B-WILDLIFE
+wild_animals O
 in O
 the O
 wet_market O
@@ -165985,7 +165985,7 @@ the O
 cellular_receptor O
 ( O
 like O
-sars O
+sars B-COVID
 ) O
 made O
 droplet_transmission O
@@ -166003,7 +166003,7 @@ furthermore O
 contact O
 transmission O
 like O
-sars O
+sars B-COVID
 is O
 also O
 likely O
@@ -166085,7 +166085,7 @@ believed O
 that O
 , O
 like O
-sars O
+sars B-COVID
 , O
 there O
 is O
@@ -166372,7 +166372,7 @@ wuhan O
 to O
 the O
 whole O
-hubei_province B-COVID
+hubei_province O
 
 subsequently O
 , O
@@ -166456,7 +166456,7 @@ a O
 total O
 of O
 28,276 O
-confirmed_cases B-COVID
+confirmed_cases O
 with O
 565 O
 deaths O
@@ -166957,7 +166957,7 @@ chin O
 med O
 assoc O
 like O
-sars O
+sars B-COVID
 , O
 is O
 ace2 O
@@ -167168,7 +167168,7 @@ such O
 as O
 rdrp B-VIRAL_PROTEIN
 or O
-n B-VIRAL_PROTEIN
+n O
 region O
 ) O
 1,13,15 O
@@ -167364,7 +167364,7 @@ developed O
 for O
 ebola O
 and O
-sars O
+sars B-COVID
 
 in O
 a O
@@ -167504,7 +167504,7 @@ been O
 tried O
 to O
 treat O
-sars O
+sars B-COVID
 disease O
 with O
 apparent O
@@ -168063,7 +168063,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 of O
 china O
 , O
@@ -168550,7 +168550,7 @@ hosts O
 ( O
 probably O
 some O
-wild_animals B-WILDLIFE
+wild_animals O
 ) O
 
 the O
@@ -168653,7 +168653,7 @@ bats B-WILDLIFE
 were O
 defined O
 as O
-n B-VIRAL_PROTEIN
+n O
 b O
 and O
 m O
@@ -168668,10 +168668,10 @@ set O
 ʌ O
 b O
 = O
-n B-VIRAL_PROTEIN
+n O
 b O
 × O
-n B-VIRAL_PROTEIN
+n O
 b O
 as O
 the O
@@ -168681,7 +168681,7 @@ the O
 newborn O
 bats B-WILDLIFE
 where O
-n B-VIRAL_PROTEIN
+n O
 b O
 refer O
 to O
@@ -168783,7 +168783,7 @@ hosts O
 were O
 defined O
 as O
-n B-VIRAL_PROTEIN
+n O
 h O
 and O
 m O
@@ -168798,13 +168798,13 @@ set O
 ʌ O
 h O
 = O
-n B-VIRAL_PROTEIN
+n O
 h O
 × O
-n B-VIRAL_PROTEIN
+n O
 h O
 where O
-n B-VIRAL_PROTEIN
+n O
 h O
 refer O
 to O
@@ -168931,7 +168931,7 @@ h O
 /n O
 h O
 where O
-n B-VIRAL_PROTEIN
+n O
 h O
 was O
 the O
@@ -169066,7 +169066,7 @@ people O
 were O
 defined O
 as O
-n B-VIRAL_PROTEIN
+n O
 p O
 and O
 m O
@@ -169081,13 +169081,13 @@ set O
 ʌ O
 p O
 = O
-n B-VIRAL_PROTEIN
+n O
 p O
 × O
-n B-VIRAL_PROTEIN
+n O
 p O
 where O
-n B-VIRAL_PROTEIN
+n O
 p O
 refer O
 to O
@@ -169271,12 +169271,12 @@ in O
 the O
 function O
 , O
-n B-VIRAL_PROTEIN
+n O
 , O
-t B-WILDLIFE
+t O
 0 O
 and O
-t B-WILDLIFE
+t O
 i O
 refer O
 to O
@@ -169361,7 +169361,7 @@ holiday O
 
 therefore O
 , O
-n B-VIRAL_PROTEIN
+n O
 p O
 and O
 m O
@@ -169417,7 +169417,7 @@ the O
 normalization O
 , O
 parameter O
-c B-COVID
+c O
 refers O
 to O
 the O
@@ -169706,7 +169706,7 @@ p O
 = O
 0.1724 O
 . O
-c B-COVID
+c O
 ) O
 since O
 there O
@@ -169801,7 +169801,7 @@ was O
 
 thus O
 , O
-c B-COVID
+c O
 = O
 0.5 O
 . O
@@ -170023,7 +170023,7 @@ as O
 per O
 day O
 ( O
-n B-VIRAL_PROTEIN
+n O
 p O
 = O
 m O
@@ -170568,7 +170568,7 @@ r O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 was O
 about O
@@ -170592,7 +170592,7 @@ the O
 r O
 0 O
 of O
-sars O
+sars B-COVID
 was O
 about O
 2.1 O
@@ -170627,7 +170627,7 @@ the O
 r O
 0 O
 of O
-sars O
+sars B-COVID
 might O
 be O
 2.9 O
@@ -170644,7 +170644,7 @@ is O
 much O
 lower O
 than O
-sars O
+sars B-COVID
 
 the O
 reported O
@@ -170719,7 +170719,7 @@ countries O
 , O
 similar O
 to O
-sars O
+sars B-COVID
 , O
 but O
 lower O
@@ -170922,7 +170922,7 @@ those O
 of O
 mers B-COVID
 and O
-sars O
+sars B-COVID
 
 it O
 is O
@@ -170936,7 +170936,7 @@ infection B-COVID
 of O
 mers B-COVID
 and O
-sars O
+sars B-COVID
 was O
 lower O
 than O
@@ -171122,7 +171122,7 @@ countries O
 , O
 similar O
 to O
-sars O
+sars B-COVID
 , O
 but O
 lower O
@@ -171219,7 +171219,7 @@ of O
 which O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 2 O
 and O
@@ -171231,7 +171231,7 @@ mers B-COVID
 are O
 members O
 
-sars O
+sars B-COVID
 and O
 mers B-COVID
 famously O
@@ -171246,7 +171246,7 @@ were O
 originally O
 identified O
 
-sars O
+sars B-COVID
 caused O
 significant O
 economic O
@@ -171265,7 +171265,7 @@ countries O
 
 ultimately O
 , O
-sars O
+sars B-COVID
 infected O
 up O
 to O
@@ -171419,7 +171419,7 @@ fever B-COVID
 ( O
 ≥38 O
 ° O
-c B-COVID
+c O
 ) O
 and O
 reported O
@@ -171489,7 +171489,7 @@ specific O
 antiviral O
 treatments O
 for O
-sars O
+sars B-COVID
 or O
 ebola O
 at O
@@ -171711,7 +171711,7 @@ beyond O
 surrogate O
 comparisons O
 to O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 , O
@@ -172008,9 +172008,9 @@ traditional O
 methods O
 of O
 screening O
-mice O
+mice B-WILDLIFE
 or O
-rabbits O
+rabbits B-LIVESTOCK
 for O
 neutralizing_antibodies O
 may O
@@ -172116,7 +172116,7 @@ other O
 coronaviruses O
 species O
 like O
-sars O
+sars B-COVID
 would O
 be O
 helpful O
@@ -172265,7 +172265,7 @@ protein O
 and O
 then O
 purifying O
-polyclonal_antibodies B-LIVESTOCK
+polyclonal_antibodies O
 from O
 the O
 animals O
@@ -172496,7 +172496,7 @@ of O
 2019-ncov B-COVID
 to O
 the O
-sars O
+sars B-COVID
 virus O
 for O
 comparison O
@@ -172753,7 +172753,7 @@ hiv O
 ) O
 and O
 hepatitis O
-c B-COVID
+c O
 virus O
 ( O
 hcv O
@@ -172855,7 +172855,7 @@ studies O
 using O
 them O
 against O
-sars O
+sars B-COVID
 32 O
 
 research O
@@ -173013,7 +173013,7 @@ viral_infection O
 will O
 develop O
 a O
-polyclonal_antibody B-LIVESTOCK
+polyclonal_antibody O
 immune_response O
 to O
 different O
@@ -173025,7 +173025,7 @@ of O
 some O
 of O
 these O
-polyclonal_antibodies B-LIVESTOCK
+polyclonal_antibodies O
 will O
 likely O
 neutralize O
@@ -173469,7 +173469,7 @@ same O
 receptor O
 that O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 uses O
 for O
@@ -173534,7 +173534,7 @@ cells O
 the O
 coincidence O
 of O
-sars O
+sars B-COVID
 and O
 2019-ncov B-COVID
 using O
@@ -173551,7 +173551,7 @@ extensive O
 research O
 studied O
 on O
-sars O
+sars B-COVID
 entry O
 and O
 applying O
@@ -173562,7 +173562,7 @@ to O
 based O
 on O
 the O
-sars O
+sars B-COVID
 literature O
 , O
 several O
@@ -173583,7 +173583,7 @@ in O
 preventing O
 infection B-COVID
 in O
-sars O
+sars B-COVID
 models O
 
 blocking O
@@ -173733,7 +173733,7 @@ rbd O
 ) O
 from O
 the O
-sars O
+sars B-COVID
 s O
 protein O
 that O
@@ -173773,7 +173773,7 @@ block O
 the O
 entry O
 of O
-sars O
+sars B-COVID
 in O
 cell_culture O
 44 O
@@ -173784,7 +173784,7 @@ well O
 within O
 reason O
 that O
-sars O
+sars B-COVID
 rbd O
 could O
 be O
@@ -173833,7 +173833,7 @@ well O
 this O
 strategy O
 assumes O
-sars O
+sars B-COVID
 and O
 2019-ncov B-COVID
 share O
@@ -173853,7 +173853,7 @@ similar O
 ace2 O
 binding_sites O
 of O
-sars O
+sars B-COVID
 and O
 nl63 O
 coronavirus B-COVID
@@ -174007,7 +174007,7 @@ specific O
 viral O
 domain O
 in O
-mice O
+mice B-WILDLIFE
 47 O
 
 of O
@@ -174074,7 +174074,7 @@ shown O
 to O
 effectively O
 block O
-sars O
+sars B-COVID
 entry O
 and O
 replication O
@@ -174317,7 +174317,7 @@ options O
 
 regarding O
 the O
-sars O
+sars B-COVID
 rbd O
 strategy O
 , O
@@ -174330,7 +174330,7 @@ an O
 immune_response O
 to O
 the O
-sars O
+sars B-COVID
 protein O
 eventually O
 , O
@@ -174556,7 +174556,7 @@ that O
 a O
 fusion_protein O
 of O
-sars O
+sars B-COVID
 rbd O
 to O
 fc O
@@ -174694,7 +174694,7 @@ the O
 research O
 on O
 the O
-sars O
+sars B-COVID
 virus O
 suggests O
 this O
@@ -174711,7 +174711,7 @@ demonstrated O
 to O
 block O
 the O
-sars O
+sars B-COVID
 virus O
 from O
 infecting O
@@ -174728,7 +174728,7 @@ soluble O
 ace2 O
 for O
 the O
-sars O
+sars B-COVID
 s O
 protein O
 was O
@@ -174839,7 +174839,7 @@ was O
 effective O
 in O
 neutralizing O
-sars O
+sars B-COVID
 coronavirus B-COVID
 in O
 vitro O
@@ -174902,7 +174902,7 @@ portion O
 of O
 patients O
 with O
-sars O
+sars B-COVID
 and O
 2019-ncov B-COVID
 infection B-COVID
@@ -175142,7 +175142,7 @@ to O
 be O
 sufficient O
 for O
-sars O
+sars B-COVID
 s O
 protein O
 binding O
@@ -175253,7 +175253,7 @@ protein_domains O
 utilized O
 by O
 the O
-sars O
+sars B-COVID
 virus O
 are O
 also O
@@ -175313,7 +175313,7 @@ over O
 one O
 week O
 in O
-mice O
+mice B-WILDLIFE
 when O
 formatted O
 as O
@@ -175393,7 +175393,7 @@ was O
 illustrated O
 in O
 a O
-sars O
+sars B-COVID
 mouse B-WILDLIFE
 model O
 where O
@@ -175405,7 +175405,7 @@ more O
 potent O
 in O
 eliminating O
-sars O
+sars B-COVID
 via O
 activation O
 of O
@@ -175486,7 +175486,7 @@ that O
 the O
 pathogenicity O
 of O
-sars O
+sars B-COVID
 versus O
 the O
 more O
@@ -175506,7 +175506,7 @@ for O
 human O
 ace2 O
 versus O
-sars O
+sars B-COVID
 , O
 with O
 nl63 O
@@ -175517,7 +175517,7 @@ ace2 O
 levels O
 less O
 than O
-sars O
+sars B-COVID
 s O
 protein O
 65 O
@@ -175552,7 +175552,7 @@ similar O
 to O
 the O
 re-emergent O
-sars O
+sars B-COVID
 virus O
 in O
 2003 O
@@ -175947,7 +175947,7 @@ high O
 affinity O
 binding O
 for O
-sars O
+sars B-COVID
 and O
 2019-ncov B-COVID
 s O
@@ -175995,7 +175995,7 @@ high O
 affinity O
 binding O
 to O
-sars O
+sars B-COVID
 s O
 protein O
 56 O
@@ -176573,7 +176573,7 @@ to O
 the O
 comparison O
 of O
-sars O
+sars B-COVID
 versus O
 human O
 coronavirus B-COVID
@@ -176788,7 +176788,7 @@ stockpile O
 for O
 future_outbreaks O
 of O
-sars O
+sars B-COVID
 and O
 2019-ncov B-COVID
 , O
@@ -177185,7 +177185,7 @@ by O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 
 the O
 resulting O
@@ -177418,7 +177418,7 @@ the O
 case_fatality_rate O
 reported O
 from O
-hubei_province B-COVID
+hubei_province O
 , O
 from O
 different O
@@ -177448,7 +177448,7 @@ thereof O
 occurred O
 in O
 the O
-hubei_province B-COVID
+hubei_province O
 of O
 china O
 with O
@@ -177847,7 +177847,7 @@ medical O
 care O
 in O
 the O
-hubei_province B-COVID
+hubei_province O
 , O
 and O
 specifically O
@@ -178308,7 +178308,7 @@ from O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 , O
@@ -178833,7 +178833,7 @@ january O
 16 O
 cities O
 in O
-mainland_china B-COVID
+mainland_china O
 with O
 a O
 population O
@@ -179363,7 +179363,7 @@ estimate O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 in O
 hong_kong O
@@ -179389,7 +179389,7 @@ of O
 the O
 disease O
 
-sars O
+sars B-COVID
 containment_measures O
 were O
 implemented O
@@ -179669,22 +179669,22 @@ of O
 time O
 
 if O
-c B-COVID
-t B-WILDLIFE
+c O
+t O
 and O
 d O
-t B-WILDLIFE
+t O
 are O
 the O
 cumulative O
 numbers O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 deaths O
 on O
 day O
-t B-WILDLIFE
+t O
 of O
 the O
 epidemic O
@@ -179696,16 +179696,16 @@ of O
 the O
 cfr O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 ( O
 ccfr O
 ) O
 , O
 p O
-t B-WILDLIFE
+t O
 on O
 day O
-t B-WILDLIFE
+t O
 is O
 : O
 which O
@@ -179788,7 +179788,7 @@ risk O
 of O
 death O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 though O
 it O
 may O
@@ -179866,8 +179866,8 @@ usually O
 employed O
 : O
 where O
-c B-COVID
-t B-WILDLIFE
+c O
+t O
 is O
 the O
 daily O
@@ -179961,7 +179961,7 @@ division O
 1 O
 ) O
 for O
-hubei_province B-COVID
+hubei_province O
 was O
 2.5 O
 % O
@@ -179994,7 +179994,7 @@ seen O
 among O
 cases O
 outside O
-mainland_china B-COVID
+mainland_china O
 as O
 ccfr O
 has O
@@ -180151,7 +180151,7 @@ partly O
 the O
 case O
 during O
-sars O
+sars B-COVID
 outbreak O
 , O
 2003 O
@@ -180305,9 +180305,9 @@ denominator O
 population O
 ( O
 the O
-confirmed_cases B-COVID
-c B-COVID
-t B-WILDLIFE
+confirmed_cases O
+c O
+t O
 in O
 ( O
 1 O
@@ -180336,7 +180336,7 @@ risk O
 of O
 death O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 is O
 overestimated O
 
@@ -180844,7 +180844,7 @@ sensitivity O
 to O
 correctly O
 diagnose O
-sars O
+sars B-COVID
 by O
 rt-pcr O
 test O
@@ -180934,11 +180934,11 @@ february O
 2020 O
 
 let O
-n B-VIRAL_PROTEIN
+n O
 and O
-c B-COVID
+c O
 ( O
-t B-WILDLIFE
+t O
 ) O
 represent O
 the O
@@ -180978,7 +180978,7 @@ reads O
 where O
 s O
 and O
-t B-WILDLIFE
+t O
 are O
 the O
 sensitivity O
@@ -180995,7 +180995,7 @@ respectively O
 varying O
 s O
 and O
-t B-WILDLIFE
+t O
 in O
 the O
 range O
@@ -181018,7 +181018,7 @@ and O
 80 O
 % O
 and O
-t B-WILDLIFE
+t O
 to O
 be O
 1 O
@@ -181318,7 +181318,7 @@ was O
 done O
 during O
 the O
-sars O
+sars B-COVID
 outbreak O
 
 moreover O
@@ -181409,7 +181409,7 @@ variable O
 of O
 individual O
 i. O
-n B-VIRAL_PROTEIN
+n O
 is O
 the O
 total O
@@ -181465,7 +181465,7 @@ most O
 recent O
 calendar O
 time O
-t B-WILDLIFE
+t O
 m O
 
 from O
@@ -181536,7 +181536,7 @@ likewise O
 the O
 cfr O
 for O
-sars O
+sars B-COVID
 was O
 estimated O
 to O
@@ -181613,9 +181613,9 @@ a O
 large O
 cluster O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 218 O
 as O
@@ -181829,7 +181829,7 @@ covid-19 B-COVID
 is O
 less O
 than O
-sars O
+sars B-COVID
 and O
 greater O
 than O
@@ -181885,7 +181885,7 @@ second O
 , O
 assessing O
 only O
-confirmed_cases B-COVID
+confirmed_cases O
 among O
 all O
 infections O
@@ -182041,7 +182041,7 @@ city O
 the O
 capital O
 of O
-hubei_province B-COVID
+hubei_province O
 in O
 central O
 china O
@@ -182061,7 +182061,7 @@ greater O
 than O
 38 O
 ° O
-c B-COVID
+c O
 ) O
 , O
 malaise B-COVID
@@ -182200,11 +182200,11 @@ other O
 animals O
 such O
 as O
-birds O
+birds B-WILDLIFE
 ( O
-chickens O
+chickens B-WILDLIFE
 , O
-pheasants B-LIVESTOCK
+pheasants O
 ) O
 , O
 bats B-WILDLIFE
@@ -182224,7 +182224,7 @@ well O
 as O
 organs O
 from O
-rabbits O
+rabbits B-LIVESTOCK
 and O
 other O
 animals O
@@ -182864,7 +182864,7 @@ january O
 , O
 over O
 4,500 O
-confirmed_cases B-COVID
+confirmed_cases O
 have O
 been O
 reported O
@@ -183132,7 +183132,7 @@ clinical_manifestations O
 of O
 mers B-COVID
 and O
-sars O
+sars B-COVID
 are O
 largely O
 similar O
@@ -183161,7 +183161,7 @@ the O
 disease O
 course O
 in O
-sars O
+sars B-COVID
 patients O
 
 the O
@@ -183243,7 +183243,7 @@ age O
 phase O
 1 O
 of O
-sars O
+sars B-COVID
 was O
 associated O
 with O
@@ -183296,7 +183296,7 @@ common O
 laboratory O
 features O
 of O
-sars O
+sars B-COVID
 included O
 lymphopenia O
 , O
@@ -183497,7 +183497,7 @@ for O
 patients O
 with O
 severe O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 illness O
@@ -183542,7 +183542,7 @@ therapy O
 were O
 utilized O
 for O
-sars O
+sars B-COVID
 but O
 have O
 had O
@@ -183757,7 +183757,7 @@ by O
 the O
 nucleocapsid_protein B-VIRAL_PROTEIN
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 , O
 resides O
@@ -184390,7 +184390,7 @@ from O
 a O
 sars-like O
 bat B-WILDLIFE
-cov B-VIRAL_PROTEIN
+cov O
 followed O
 by O
 sars-cov B-COVID
@@ -185175,7 +185175,7 @@ model O
 green O
 ) O
 ( O
-c B-COVID
+c O
 ) O
 
 ace2 O
@@ -185791,7 +185791,7 @@ the O
 solid_black O
 triangle O
 indicates O
-sars O
+sars B-COVID
 coronavirus B-COVID
 shanghai O
 and O
@@ -186422,7 +186422,7 @@ and O
 weight_loss O
 
 although O
-mice O
+mice B-WILDLIFE
 can O
 be O
 infected O
@@ -186454,7 +186454,7 @@ could O
 be O
 passaged O
 in O
-mice O
+mice B-WILDLIFE
 ( O
 15 O
 times O
@@ -186490,7 +186490,7 @@ to O
 the O
 virus O
 including O
-mice O
+mice B-WILDLIFE
 , O
 syrian_hamsters O
 , O
@@ -186865,7 +186865,7 @@ endeavour O
 to O
 compile O
 diverse O
-cov B-VIRAL_PROTEIN
+cov O
 reagents O
 that O
 can O
@@ -187333,7 +187333,7 @@ al. O
 ) O
 , O
 and O
-sars O
+sars B-COVID
 , O
 the O
 cause O
@@ -187369,7 +187369,7 @@ its O
 close O
 similarity O
 to O
-sars O
+sars B-COVID
 suggests O
 that O
 it O
@@ -187518,7 +187518,7 @@ known O
 cell O
 receptor O
 for O
-sars O
+sars B-COVID
 in O
 human O
 and O
@@ -187546,7 +187546,7 @@ in O
 one O
 or O
 more O
-host_species O
+host_species B-WILDLIFE
 , O
 binding O
 to O
@@ -187623,18 +187623,18 @@ other O
 coronavirus B-COVID
 spike_proteins O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 30 O
 ) O
 and O
 from O
 all O
-sars O
+sars B-COVID
 sequences O
 tested O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 155 O
 ) O
@@ -187880,7 +187880,7 @@ spike_wcpv O
 ) O
 with O
 the O
-sars O
+sars B-COVID
 spike_glycoprotein B-VIRAL_PROTEIN
 3d O
 structure O
@@ -188426,7 +188426,7 @@ as O
 in O
 a O
 
-c B-COVID
+c O
 ) O
 and O
 d O
@@ -189104,7 +189104,7 @@ since O
 the O
 emergence O
 of O
-sars O
+sars B-COVID
 in O
 2002 O
 - O
@@ -189287,7 +189287,7 @@ livestock B-LIVESTOCK
 meat O
 and O
 some O
-wildlife B-WILDLIFE
+wildlife O
 
 the O
 virus O
@@ -189296,7 +189296,7 @@ appears O
 to O
 have O
 a O
-wildlife B-WILDLIFE
+wildlife O
 ( O
 bat B-WILDLIFE
 ) O
@@ -189310,7 +189310,7 @@ also O
 emerged O
 in O
 a O
-wildlife B-WILDLIFE
+wildlife O
 market O
 through O
 the O
@@ -189339,7 +189339,7 @@ china O
 significantly O
 linked O
 to O
-wildlife B-WILDLIFE
+wildlife O
 markets O
 , O
 this O
@@ -189375,7 +189375,7 @@ policy_makers O
 to O
 reduce O
 the O
-wildlife B-WILDLIFE
+wildlife O
 consumption O
 
 however O
@@ -189420,7 +189420,7 @@ purported O
 curative O
 power O
 of O
-wildlife B-WILDLIFE
+wildlife O
 and O
 their O
 by-products O
@@ -189432,7 +189432,7 @@ the O
 rare O
 and O
 expensive O
-wildlife B-WILDLIFE
+wildlife O
 has O
 become O
 a O
@@ -189464,7 +189464,7 @@ generational O
 transformation O
 with O
 reduced O
-wildlife B-WILDLIFE
+wildlife O
 consumption O
 in O
 the O
@@ -189492,7 +189492,7 @@ close O
 to O
 pathogens O
 that O
-wildlife B-WILDLIFE
+wildlife O
 carry O
 , O
 that O
@@ -189543,7 +189543,7 @@ coronavirus B-COVID
 ) O
 surveillance O
 of O
-wildlife B-WILDLIFE
+wildlife O
 for O
 high-risk O
 pathogens O
@@ -189567,7 +189567,7 @@ over O
 bats B-WILDLIFE
 and~2000 O
 other O
-mammals B-WILDLIFE
+mammals O
 across O
 south_china O
 and O
@@ -189653,7 +189653,7 @@ therapies O
 being O
 developed O
 for O
-sars O
+sars B-COVID
 
 finally O
 , O
@@ -189690,7 +189690,7 @@ between O
 the O
 emergence O
 of O
-sars O
+sars B-COVID
 and O
 the O
 current O
@@ -189730,7 +189730,7 @@ of O
 viral O
 strains O
 in O
-wildlife B-WILDLIFE
+wildlife O
 in O
 china O
 with O
@@ -189888,7 +189888,7 @@ in O
 regions O
 with O
 high O
-wildlife B-WILDLIFE
+wildlife O
 diversity O
 and O
 likely O
@@ -189905,7 +189905,7 @@ contact O
 with O
 wild O
 or O
-domestic_animals B-WILDLIFE
+domestic_animals O
 related O
 to O
 their O
@@ -189971,9 +189971,9 @@ sample_collection O
 and O
 testing O
 of O
-wildlife B-WILDLIFE
+wildlife O
 , O
-domestic_animals B-WILDLIFE
+domestic_animals O
 , O
 and O
 people O
@@ -190064,7 +190064,7 @@ diseases O
 in O
 china O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 across O
@@ -190231,7 +190231,7 @@ the O
 size O
 of O
 the O
-wildlife B-WILDLIFE
+wildlife O
 farming O
 industry O
 in O
@@ -190269,7 +190269,7 @@ strong O
 public O
 opinion O
 against O
-wildlife B-WILDLIFE
+wildlife O
 consumption O
 , O
 and O
@@ -190283,7 +190283,7 @@ urgent O
 amendment O
 of O
 the O
-wildlife B-WILDLIFE
+wildlife O
 protection O
 law O
 to O
@@ -190552,7 +190552,7 @@ make O
 any O
 reference O
 to O
-sars O
+sars B-COVID
 when O
 introducing O
 yet O
@@ -190563,11 +190563,11 @@ derived O
 from O
 the O
 term O
-sars O
+sars B-COVID
 ; O
 however O
 , O
-sars O
+sars B-COVID
 is O
 a O
 disease O
@@ -190584,7 +190584,7 @@ implies O
 that O
 it O
 causes O
-sars O
+sars B-COVID
 or O
 similar O
 , O
@@ -190796,7 +190796,7 @@ of O
 a O
 re-occurrence O
 of O
-sars O
+sars B-COVID
 
 travellers O
 and O
@@ -190816,7 +190816,7 @@ or O
 even O
 sporadic_cases O
 of O
-sars O
+sars B-COVID
 
 people O
 may O
@@ -191014,7 +191014,7 @@ cause O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 in O
 china O
 , O
@@ -191208,7 +191208,7 @@ the O
 is O
 a O
 β O
-cov B-VIRAL_PROTEIN
+cov O
 of O
 group O
 2b O
@@ -191232,7 +191232,7 @@ by O
 the O
 who O
 
-sars O
+sars B-COVID
 is O
 a O
 zoonosis O
@@ -191553,7 +191553,7 @@ appears O
 clinically O
 milder O
 than O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 overall O
@@ -191937,11 +191937,11 @@ show O
 that O
 the O
 wuhan O
-cov B-VIRAL_PROTEIN
+cov O
 cluster O
 with O
 the O
-sars O
+sars B-COVID
 cov.10 O
 ( O
 novel O
@@ -192122,12 +192122,12 @@ there O
 have O
 been O
 2033 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 2019-ncov O
 infections O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 including O
 56 O
@@ -192349,7 +192349,7 @@ time O
 series O
 data O
 in O
-mainland_china B-COVID
+mainland_china O
 released O
 by O
 wuhan O
@@ -192534,7 +192534,7 @@ reporting_rate O
 , O
 r O
 ( O
-t B-WILDLIFE
+t O
 ) O
 , O
 started O
@@ -192610,7 +192610,7 @@ and O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 i.e. O
@@ -192646,9 +192646,9 @@ of O
 new O
 cases O
 by O
-c B-COVID
+c O
 ( O
-t B-WILDLIFE
+t O
 ) O
 for O
 the O
@@ -192663,16 +192663,16 @@ number O
 of O
 cases O
 , O
-c B-COVID
+c O
 ( O
-t B-WILDLIFE
+t O
 ) O
 , O
 is O
 cðtþ O
 ¼ O
 p O
-t B-WILDLIFE
+t O
 t¼0 O
 cðtþ O
 = O
@@ -192687,7 +192687,7 @@ value O
 of O
 r O
 ( O
-t B-WILDLIFE
+t O
 ) O
 , O
 we O
@@ -192697,7 +192697,7 @@ fold_change O
 in O
 r O
 ( O
-t B-WILDLIFE
+t O
 ) O
 that O
 is O
@@ -192748,7 +192748,7 @@ a O
 ) O
 , O
 ( O
-c B-COVID
+c O
 ) O
 , O
 ( O
@@ -192912,7 +192912,7 @@ the O
 si O
 information O
 from O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 , O
@@ -192967,7 +192967,7 @@ of O
 3.8 O
 days O
 for O
-sars O
+sars B-COVID
 ( O
 lipsitch O
 et O
@@ -193197,7 +193197,7 @@ unchanged O
 
 panels O
 ( O
-c B-COVID
+c O
 ) O
 and O
 ( O
@@ -193408,7 +193408,7 @@ employed O
 the O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -193467,7 +193467,7 @@ however O
 using O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -193523,7 +193523,7 @@ range O
 of O
 those O
 of O
-sars O
+sars B-COVID
 , O
 i.e. O
 , O
@@ -193977,11 +193977,11 @@ from O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 caused O
 by O
-sars O
+sars B-COVID
 coronavirus B-COVID
 ( O
 sars-cov B-COVID
@@ -194196,7 +194196,7 @@ system O
 of O
 humans O
 and O
-mammals B-WILDLIFE
+mammals O
 , O
 while O
 γ-cov O
@@ -194205,7 +194205,7 @@ and O
 mainly O
 infect O
 the O
-birds O
+birds B-WILDLIFE
 13 O
 , O
 
@@ -194342,13 +194342,13 @@ a O
 coronavirus B-COVID
 ( O
 batcov O
-ratg13 B-WILDLIFE
+ratg13 O
 ) O
 detected O
 in O
 the O
 bat B-WILDLIFE
-rhinolophus O
+rhinolophus B-WILDLIFE
 affinis O
 from O
 yunnan_province O
@@ -194597,7 +194597,7 @@ civet O
 cat O
 , O
 and O
-pig O
+pig B-LIVESTOCK
 , O
 but O
 it O
@@ -194620,7 +194620,7 @@ antibody O
 a O
 sars-cov-specific O
 human O
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 , O
 and O
 the O
@@ -195032,7 +195032,7 @@ the O
 same O
 path O
 as O
-sars O
+sars B-COVID
 coronavirus B-COVID
 , O
 that O
@@ -196042,7 +196042,7 @@ is O
 below O
 37.3 O
 ° O
-c B-COVID
+c O
 , O
 the O
 dentist O
@@ -196105,7 +196105,7 @@ less O
 than O
 37.3 O
 ° O
-c B-COVID
+c O
 , O
 the O
 patient O
@@ -196154,7 +196154,7 @@ is O
 below O
 37.3 O
 ° O
-c B-COVID
+c O
 , O
 the O
 dentist O
@@ -196199,7 +196199,7 @@ less O
 than O
 37.3 O
 ° O
-c B-COVID
+c O
 , O
 the O
 patient O
@@ -196430,7 +196430,7 @@ last O
 experience O
 with O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 has O
 shown O
@@ -197474,7 +197474,7 @@ m O
 and O
 nucleocapsid O
 ( O
-n B-VIRAL_PROTEIN
+n O
 ) O
 , O
 as O
@@ -197641,7 +197641,7 @@ of O
 another O
 novel O
 zoonotic O
-cov B-VIRAL_PROTEIN
+cov O
 
 here O
 , O
@@ -197651,7 +197651,7 @@ a O
 previously O
 unknown O
 bat-origin O
-cov B-VIRAL_PROTEIN
+cov O
 causing O
 severe O
 and O
@@ -197688,7 +197688,7 @@ closest O
 to O
 bat O
 sars-like O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 but O
 is O
@@ -197713,7 +197713,7 @@ rbd O
 of O
 this O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 resembles O
 that O
 of O
@@ -197742,7 +197742,7 @@ the O
 interspecies_transmission O
 of O
 bat-origin O
-cov B-VIRAL_PROTEIN
+cov O
 to O
 human O
 populations O
@@ -197819,7 +197819,7 @@ wuhan O
 , O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 from O
@@ -198280,7 +198280,7 @@ min O
 at O
 37 O
 ° O
-c B-COVID
+c O
 at O
 a O
 dilution O
@@ -198409,7 +198409,7 @@ huanan_seafood_market O
 , O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -198698,7 +198698,7 @@ a O
 consensus_sequence O
 of O
 this O
-cov B-VIRAL_PROTEIN
+cov O
 was O
 obtained O
 
@@ -198713,7 +198713,7 @@ to O
 the O
 newly O
 reported O
-cov B-VIRAL_PROTEIN
+cov O
 genome O
 ( O
 bwa O
@@ -198982,7 +198982,7 @@ rdrp B-VIRAL_PROTEIN
 s O
 , O
 and O
-n B-VIRAL_PROTEIN
+n O
 genes O
 , O
 and O
@@ -199150,7 +199150,7 @@ the O
 rbd O
 in O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 s O
 protein O
 determines O
@@ -199164,7 +199164,7 @@ sequences O
 of O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 showed O
 several O
 distinct O
@@ -199215,7 +199215,7 @@ hace2 O
 
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 does O
 not O
 possess O
@@ -199279,7 +199279,7 @@ q O
 , O
 s O
 , O
-n B-VIRAL_PROTEIN
+n O
 ) O
 , O
 although O
@@ -199316,7 +199316,7 @@ inoculated O
 with O
 the O
 new O
-cov B-VIRAL_PROTEIN
+cov O
 after O
 two O
 passages O
@@ -199346,7 +199346,7 @@ electron_microscopy O
 , O
 demonstrating O
 characteristic O
-cov B-VIRAL_PROTEIN
+cov O
 particles O
 with O
 surface_projections O
@@ -199598,7 +199598,7 @@ identified O
 a O
 previously O
 unknown O
-cov B-VIRAL_PROTEIN
+cov O
 from O
 patients O
 suffering O
@@ -199637,7 +199637,7 @@ among O
 the O
 five O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 genome O
 sequences O
 , O
@@ -199678,7 +199678,7 @@ indicate O
 that O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 is O
 associated O
 with O
@@ -199700,7 +199700,7 @@ determined O
 whether O
 this O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 is O
 capable O
 of O
@@ -199721,7 +199721,7 @@ genome O
 showed O
 that O
 the O
-cov B-VIRAL_PROTEIN
+cov O
 identified O
 in O
 this O
@@ -199968,7 +199968,7 @@ rbd O
 of O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 showed O
 higher O
 aa O
@@ -200026,7 +200026,7 @@ transmission_modes O
 of O
 the O
 novel O
-cov B-VIRAL_PROTEIN
+cov O
 remain O
 obscure O
 
@@ -200073,7 +200073,7 @@ assumed O
 that O
 the O
 zoonotic O
-cov B-VIRAL_PROTEIN
+cov O
 jumped O
 to O
 humans O
@@ -200304,7 +200304,7 @@ identified O
 a O
 novel O
 bat-borne O
-cov B-VIRAL_PROTEIN
+cov O
 associated O
 with O
 a O
@@ -201231,7 +201231,7 @@ its O
 receptor O
 leading O
 to O
-cov B-VIRAL_PROTEIN
+cov O
 entrance O
 into O
 the O
@@ -201395,7 +201395,7 @@ and O
 encapsulation O
 of O
 the O
-n B-VIRAL_PROTEIN
+n O
 protein O
 
 viral O
@@ -201429,7 +201429,7 @@ same O
 host_cell O
 , O
 different O
-cov B-VIRAL_PROTEIN
+cov O
 particles O
 can O
 also O
@@ -203156,7 +203156,7 @@ fig O
 
 2b O
 , O
-c B-COVID
+c O
 respectively O
 
 values O
@@ -205313,7 +205313,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 on O
 31 O
@@ -205412,10 +205412,10 @@ species O
 termed O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 -related O
-cov B-VIRAL_PROTEIN
+cov O
 , O
 a O
 species O
@@ -205428,7 +205428,7 @@ the O
 2002/03 O
 outbreak O
 of O
-sars O
+sars B-COVID
 in O
 humans O
 
@@ -205467,7 +205467,7 @@ notified O
 to O
 who O
 
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 travellers O
 from O
@@ -206074,7 +206074,7 @@ assumed O
 that O
 a O
 sars-related O
-cov B-VIRAL_PROTEIN
+cov O
 is O
 involved O
 in O
@@ -206107,7 +206107,7 @@ january O
 the O
 list O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 729 O
 entries O
@@ -206234,7 +206234,7 @@ as O
 selected O
 bat-associated O
 sars-related O
-cov B-VIRAL_PROTEIN
+cov O
 are O
 shown O
 in O
@@ -206452,7 +206452,7 @@ of O
 note O
 , O
 the O
-n B-VIRAL_PROTEIN
+n O
 gene O
 assay O
 also O
@@ -206768,7 +206768,7 @@ outliers O
 within O
 the O
 sars-related O
-cov B-VIRAL_PROTEIN
+cov O
 clade O
 suggests O
 that O
@@ -207832,7 +207832,7 @@ hong_kong O
 , O
 beijing O
 and O
-hubei_province B-COVID
+hubei_province O
 amongst O
 surrounding O
 areas O
@@ -209754,7 +209754,7 @@ includes O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 in O
@@ -210082,7 +210082,7 @@ for O
 instance O
 , O
 when O
-sars O
+sars B-COVID
 ( O
 severe_acute_respiratory_syndrome O
 ) O
@@ -212120,7 +212120,7 @@ are O
 in O
 wuhan O
 ) O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 56 O
 ( O
@@ -212133,7 +212133,7 @@ wuhan O
 ) O
 deaths O
 in O
-mainland_china B-COVID
+mainland_china O
 , O
 and O
 sporadic_cases O
@@ -212399,7 +212399,7 @@ of O
 2019-ncov O
 cases O
 in O
-mainland_china B-COVID
+mainland_china O
 were O
 initially O
 released O
@@ -212548,7 +212548,7 @@ cases O
 , O
 denoted O
 by O
-c B-COVID
+c O
 i O
 , O
 of O
@@ -212567,7 +212567,7 @@ the O
 cumulative O
 reported O
 , O
-c B-COVID
+c O
 i O
 , O
 and O
@@ -212579,17 +212579,17 @@ i O
 
 we O
 have O
-c B-COVID
+c O
 i O
 = O
-c B-COVID
+c O
 i O
 + O
 ξ O
 i O
 , O
 where O
-c B-COVID
+c O
 i O
 is O
 observed O
@@ -212628,7 +212628,7 @@ curve O
 i.e. O
 , O
 the O
-c B-COVID
+c O
 i O
 series O
 , O
@@ -212819,7 +212819,7 @@ information O
 from O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 and O
 middle_east_respiratory_syndrome O
@@ -212864,7 +212864,7 @@ mean O
 and O
 sd O
 of O
-sars O
+sars B-COVID
 , O
 mean O
 of O
@@ -212919,10 +212919,10 @@ it O
 is O
 obviously O
 that O
-c B-COVID
+c O
 i O
 = O
-c B-COVID
+c O
 i−1 O
 + O
 ε O
@@ -213091,7 +213091,7 @@ number O
 of O
 cases O
 ( O
-c B-COVID
+c O
 i O
 ) O
 remarkably O
@@ -213295,7 +213295,7 @@ respectively O
 in O
 panels O
 ( O
-c B-COVID
+c O
 ) O
 and O
 ( O
@@ -213355,7 +213355,7 @@ january O
 in O
 panel O
 ( O
-c B-COVID
+c O
 ) O
 , O
 the O
@@ -213419,7 +213419,7 @@ employed O
 the O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -213472,7 +213472,7 @@ however O
 using O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -213532,7 +213532,7 @@ at O
 , O
 panels O
 ( O
-c B-COVID
+c O
 , O
 d O
 ) O
@@ -213548,7 +213548,7 @@ number O
 of O
 cases O
 ( O
-c B-COVID
+c O
 i O
 ) O
 and O
@@ -213566,7 +213566,7 @@ respectively O
 in O
 panels O
 ( O
-c B-COVID
+c O
 , O
 d O
 ) O
@@ -213624,7 +213624,7 @@ january O
 in O
 panel O
 ( O
-c B-COVID
+c O
 ) O
 , O
 the O
@@ -213689,7 +213689,7 @@ employed O
 the O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -213742,7 +213742,7 @@ however O
 using O
 sis O
 of O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 as O
@@ -213808,7 +213808,7 @@ line O
 with O
 those O
 of O
-sars O
+sars B-COVID
 , O
 i.e. O
 , O
@@ -214566,7 +214566,7 @@ nationwide O
 , O
 excluding O
 the O
-hubei_province B-COVID
+hubei_province O
 ( O
 fig O
 
@@ -214576,7 +214576,7 @@ fig O
 the O
 data O
 from O
-hubei_province B-COVID
+hubei_province O
 was O
 incomplete O
 because O
@@ -214748,7 +214748,7 @@ doorknobs O
 
 a O
 previous O
-sars O
+sars B-COVID
 outbreak O
 occurred O
 at O
@@ -214876,7 +214876,7 @@ reported O
 from O
 xiaogan O
 , O
-hubei_province B-COVID
+hubei_province O
 
 7 O
 this O
@@ -215247,7 +215247,7 @@ first O
 pediatric O
 case O
 outside O
-hubei_province B-COVID
+hubei_province O
 was O
 reported O
 from O
@@ -215831,7 +215831,7 @@ pediatric O
 cases O
 outside O
 the O
-hubei_province B-COVID
+hubei_province O
 have O
 been O
 identified O
@@ -215857,7 +215857,7 @@ in O
 addition O
 to O
 the O
-hubei_province B-COVID
+hubei_province O
 and O
 reached O
 the O
@@ -216073,7 +216073,7 @@ of O
 the O
 disease O
 
-t B-WILDLIFE
+t O
 lymphocyte O
 subsets O
 showed O
@@ -216086,7 +216086,7 @@ cd4 O
 and O
 cd8 O
 þ O
-t B-WILDLIFE
+t O
 cell O
 subsets O
 , O
@@ -216267,7 +216267,7 @@ provide O
 nonspecific O
 protection O
 of O
-mice O
+mice B-WILDLIFE
 against O
 influenza_virus O
 infection B-COVID
@@ -216421,7 +216421,7 @@ wuhan O
 a O
 city O
 of O
-hubei_province B-COVID
+hubei_province O
 , O
 people O
 's O
@@ -216528,7 +216528,7 @@ february O
 there O
 were O
 22 O
-confirmed_cases B-COVID
+confirmed_cases O
 in O
 taiwan O
 
@@ -216714,7 +216714,7 @@ bt O
 ) O
 of O
 38.0 O
-c B-COVID
+c O
 and O
 oxygen_saturation O
 ( O
@@ -216777,7 +216777,7 @@ a O
 bt O
 of O
 36.4 O
-c B-COVID
+c O
 , O
 blood_pressure O
 of O
@@ -217512,7 +217512,7 @@ well O
 as O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 
 8 O
@@ -217744,7 +217744,7 @@ in O
 patients O
 recovering O
 from O
-sars O
+sars B-COVID
 
 14 O
 , O
@@ -217958,7 +217958,7 @@ humans O
 ( O
 this O
 includes O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 ) O
@@ -218242,7 +218242,7 @@ by O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 
 the O
 resulting O
@@ -218865,7 +218865,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -218927,7 +218927,7 @@ pets O
 livestock B-LIVESTOCK
 , O
 and O
-wildlife B-WILDLIFE
+wildlife O
 
 one O
 health O
@@ -219042,7 +219042,7 @@ other O
 species O
 ) O
 or O
-wild_animals B-WILDLIFE
+wild_animals O
 
 figure O
 3 O
@@ -219071,11 +219071,11 @@ were O
 sold O
 range O
 between O
-poultry O
+poultry B-WILDLIFE
 ( O
 turkey O
 , O
-pheasants B-LIVESTOCK
+pheasants O
 , O
 geese O
 , O
@@ -219107,7 +219107,7 @@ frogs O
 camels O
 , O
 wild O
-rabbits O
+rabbits B-LIVESTOCK
 , O
 reptiles O
 , O
@@ -219464,7 +219464,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -219574,7 +219574,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -219643,7 +219643,7 @@ market O
 selling O
 seafood O
 and O
-wildlife B-WILDLIFE
+wildlife O
 in O
 wuhan O
 was O
@@ -219843,7 +219843,7 @@ risk O
 of O
 death O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 explicitly O
 accounting O
@@ -219864,7 +219864,7 @@ ratio O
 of O
 deaths O
 to O
-confirmed_cases B-COVID
+confirmed_cases O
 ( O
 ccfr O
 ) O
@@ -219976,7 +219976,7 @@ cfr O
 denominator O
 only O
 includes O
-confirmed_cases B-COVID
+confirmed_cases O
 it O
 is O
 referred O
@@ -220277,13 +220277,13 @@ observed O
 incidence O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 by O
 date O
 of O
 illness_onset O
-t B-WILDLIFE
+t O
 is O
 modeled O
 using O
@@ -220297,7 +220297,7 @@ r O
 : O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 = O
 i O
@@ -220317,7 +220317,7 @@ infected O
 cases O
 at O
 time O
-t B-WILDLIFE
+t O
 = O
 0 O
 
@@ -220325,7 +220325,7 @@ the O
 cumulative_incidence O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 is O
 an O
@@ -220333,7 +220333,7 @@ integral O
 of O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 over O
 the O
@@ -220342,7 +220342,7 @@ interval O
 from O
 zero O
 to O
-t B-WILDLIFE
+t O
 that O
 can O
 be O
@@ -220350,10 +220350,10 @@ written O
 as O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 = O
-t B-WILDLIFE
+t O
 0 O
 i O
 ( O
@@ -220425,7 +220425,7 @@ study O
 let O
 f O
 ( O
-t B-WILDLIFE
+t O
 ; O
 θ O
 ) O
@@ -220451,13 +220451,13 @@ the O
 cumulative_incidence O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 by O
 date O
 of O
 report O
-t B-WILDLIFE
+t O
 can O
 be O
 adjusted O
@@ -220519,7 +220519,7 @@ d O
 · O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 
 the O
@@ -220529,12 +220529,12 @@ of O
 deaths O
 d O
 ( O
-t B-WILDLIFE
+t O
 ) O
 reported O
 by O
 date O
-t B-WILDLIFE
+t O
 is O
 the O
 result O
@@ -220606,7 +220606,7 @@ of O
 exported_cases O
 e O
 ( O
-t B-WILDLIFE
+t O
 ) O
 can O
 then O
@@ -220641,7 +220641,7 @@ window O
 of O
 the O
 virus O
-t B-WILDLIFE
+t O
 = O
 12.5 O
 days O
@@ -220681,7 +220681,7 @@ population O
 of O
 wuhan O
 is O
-n B-VIRAL_PROTEIN
+n O
 = O
 11 O
 million O
@@ -220810,10 +220810,10 @@ each O
 process O
 : O
 where O
-t B-WILDLIFE
+t O
 e O
 and O
-t B-WILDLIFE
+t O
 d O
 are O
 the O
@@ -220859,7 +220859,7 @@ i O
 , O
 cfr O
 ( O
-t B-WILDLIFE
+t O
 ) O
 
 we O
@@ -221017,7 +221017,7 @@ i O
 , O
 cfr O
 ( O
-t B-WILDLIFE
+t O
 ) O
 are O
 variable O
@@ -221069,7 +221069,7 @@ of O
 the O
 detection O
 window O
-t B-WILDLIFE
+t O
 , O
 and O
 sizes O
@@ -221211,7 +221211,7 @@ e O
 · O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 or O
 u O
@@ -221224,7 +221224,7 @@ d O
 · O
 i O
 ( O
-t B-WILDLIFE
+t O
 ) O
 was O
 modeled O
@@ -222530,7 +222530,7 @@ from O
 the O
 government O
 of O
-mainland_china B-COVID
+mainland_china O
 
 the O
 cumulative O
@@ -222634,7 +222634,7 @@ bars O
 respectively O
 
 ( O
-c B-COVID
+c O
 , O
 d O
 ) O
@@ -222937,7 +222937,7 @@ risk O
 of O
 death O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 while O
 addressing O
 ascertainment_bias O
@@ -222948,7 +222948,7 @@ from O
 cases O
 diagnosed O
 outside O
-mainland_china B-COVID
+mainland_china O
 and O
 a O
 right-censored O
@@ -223112,7 +223112,7 @@ risk O
 of O
 death O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 ) O
 may O
 vary O
@@ -223256,7 +223256,7 @@ coronaviruses O
 including O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 which O
@@ -223410,7 +223410,7 @@ the O
 r O
 0 O
 of O
-sars O
+sars B-COVID
 , O
 which O
 was O
@@ -223490,7 +223490,7 @@ in O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 out O
 of O
 china O
@@ -223709,7 +223709,7 @@ only O
 addresses O
 fatality O
 among O
-confirmed_cases B-COVID
+confirmed_cases O
 
 more O
 precise O
@@ -223720,7 +223720,7 @@ include O
 infected_individuals O
 other O
 than O
-confirmed_cases B-COVID
+confirmed_cases O
 can O
 only O
 be O
@@ -224140,7 +224140,7 @@ originating O
 from O
 wuhan O
 ( O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 ) O
@@ -224486,7 +224486,7 @@ vaccines O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 middle_east_respiratory_syndrome O
@@ -224526,7 +224526,7 @@ reviewers O
 each O
 focusing O
 on O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 , O
@@ -224555,7 +224555,7 @@ the O
 key_words O
 ` O
 ` O
-sars O
+sars B-COVID
 '' O
 , O
 ` O
@@ -224707,7 +224707,7 @@ drug O
 therapy O
 or O
 ( O
-c B-COVID
+c O
 ) O
 vaccine O
 efficacy O
@@ -224796,7 +224796,7 @@ or O
 vaccine O
 efficacy O
 against O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 and O
@@ -225230,7 +225230,7 @@ a O
 pre-amplification_step O
 or O
 incorporating O
-n B-VIRAL_PROTEIN
+n O
 gene O
 as O
 an O
@@ -225636,8 +225636,8 @@ studies O
 on O
 2019-ncov B-COVID
 , O
-sars O
-cov B-VIRAL_PROTEIN
+sars B-COVID
+cov O
 or O
 mers-cov B-COVID
 vaccines O
@@ -225655,7 +225655,7 @@ review O
 most O
 studies O
 on O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 vaccines O
@@ -225687,7 +225687,7 @@ phase O
 i O
 clinical_trials O
 on O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 vaccines O
@@ -225733,7 +225733,7 @@ for O
 one O
 on O
 the O
-sars O
+sars B-COVID
 vaccine O
 done O
 in O
@@ -225743,7 +225743,7 @@ all O
 vaccine O
 candidates O
 for O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 were O
@@ -226082,7 +226082,7 @@ targets O
 found O
 on O
 the O
-sars O
+sars B-COVID
 virus O
 
 researchers O
@@ -226134,7 +226134,7 @@ ongoing O
 randomized_controlled_trial O
 targeted O
 at O
-sars O
+sars B-COVID
 therapeutics O
 
 the O
@@ -226188,7 +226188,7 @@ were O
 conducted O
 during O
 the O
-sars O
+sars B-COVID
 epidemic-3 O
 in O
 china O
@@ -226275,7 +226275,7 @@ chinese O
 treatment O
 during O
 the O
-sars O
+sars B-COVID
 epidemic O
 was O
 excluded O
@@ -226494,7 +226494,7 @@ areas O
 associated O
 with O
 the O
-confirmed_cases B-COVID
+confirmed_cases O
 for O
 prompt O
 infection_control O
@@ -226534,7 +226534,7 @@ of O
 interest O
 , O
 ( O
-c B-COVID
+c O
 ) O
 detecting O
 the O
@@ -226894,7 +226894,7 @@ the O
 mild O
 mers B-COVID
 and O
-sars O
+sars B-COVID
 cases O
 , O
 and O
@@ -226935,7 +226935,7 @@ rrt-pcr O
 ) O
 , O
 ( O
-c B-COVID
+c O
 ) O
 reverse_transcription O
 loop-mediated_isothermal_amplification O
@@ -227075,7 +227075,7 @@ assay O
 based O
 on O
 the O
-sars O
+sars B-COVID
 or O
 sars-related O
 coronavirus B-COVID
@@ -227209,7 +227209,7 @@ suggested O
 protocol O
 assuming O
 that O
-sars O
+sars B-COVID
 has O
 been O
 eradicated O
@@ -227219,7 +227219,7 @@ is O
 proposed O
 that O
 the O
-n B-VIRAL_PROTEIN
+n O
 gene O
 rt-pcr O
 can O
@@ -227651,7 +227651,7 @@ of O
 vaccination O
 , O
 ( O
-c B-COVID
+c O
 ) O
 the O
 potential_difference O
@@ -227895,7 +227895,7 @@ pharmaceuticals O
 there O
 was O
 one O
-sars O
+sars B-COVID
 vaccine O
 trial O
 conducted O
@@ -228289,7 +228289,7 @@ the O
 treatment O
 evidence O
 from O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 
@@ -228327,7 +228327,7 @@ real O
 curative O
 action O
 against O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 and O
@@ -228843,7 +228843,7 @@ issues O
 of O
 scalability O
 
-monoclonal_antibody B-LIVESTOCK
+monoclonal_antibody O
 treatment O
 is O
 progressing O
@@ -229015,7 +229015,7 @@ for O
 the O
 treatment O
 of O
-sars O
+sars B-COVID
 
 niclosamide O
 as O
@@ -229191,7 +229191,7 @@ in O
 the O
 treatment O
 of O
-sars O
+sars B-COVID
 in O
 china O
 and O
@@ -229652,7 +229652,7 @@ j O
 o O
 u O
 r O
-n B-VIRAL_PROTEIN
+n O
 a O
 l O
 p O
@@ -229877,7 +229877,7 @@ as O
 for O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 a O
@@ -230533,7 +230533,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 on O
 31 O
@@ -231737,7 +231737,7 @@ imprecise O
 even O
 countries O
 without O
-confirmed_cases B-COVID
+confirmed_cases O
 have O
 been O
 on O
@@ -231819,7 +231819,7 @@ the O
 2019-ncov B-COVID
 is O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 , O
 which O
@@ -231987,7 +231987,7 @@ to O
 that O
 of O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 , O
 and O
@@ -232236,7 +232236,7 @@ steps O
 , O
 giving O
 rise O
-n B-VIRAL_PROTEIN
+n O
 = O
 100,000 O
 equally O
@@ -232269,7 +232269,7 @@ i O
 
 
 , O
-n B-VIRAL_PROTEIN
+n O
 ) O
 
 for O
@@ -232452,7 +232452,7 @@ to O
 that O
 of O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 , O
 i.e. O
@@ -232460,13 +232460,13 @@ i.e. O
 β O
 = O
 r O
-sars O
+sars B-COVID
 γ O
-sars O
+sars B-COVID
 , O
 where O
 r O
-sars O
+sars B-COVID
 = O
 3 O
 and O
@@ -232475,10 +232475,10 @@ mean O
 infection B-COVID
 duration O
 for O
-sars O
+sars B-COVID
 is O
 1/γ O
-sars O
+sars B-COVID
 = O
 3.8 O
 days O
@@ -233422,7 +233422,7 @@ similarly O
 transmissible O
 to O
 the O
-sars O
+sars B-COVID
 coronavirus B-COVID
 that O
 spread_globally O
@@ -233584,7 +233584,7 @@ the O
 features O
 of O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 2002 O
@@ -234203,7 +234203,7 @@ city O
 of O
 wuhan O
 in O
-hubei_province B-COVID
+hubei_province O
 
 the O
 epidemic O
@@ -234358,7 +234358,7 @@ than O
 million O
 people O
 across O
-hubei_province B-COVID
+hubei_province O
 was O
 rapidly O
 restricted O
@@ -235046,7 +235046,7 @@ to O
 put O
 together O
 a O
-line_list B-COVID
+line_list O
 of O
 suspected O
 , O
@@ -235067,7 +235067,7 @@ respective O
 case_definitions O
 
 this O
-line_list B-COVID
+line_list O
 would O
 allow O
 for O
@@ -235106,7 +235106,7 @@ frequent O
 refreshing O
 of O
 the O
-line_list B-COVID
+line_list O
 would O
 further O
 enable O
@@ -235140,7 +235140,7 @@ public_health O
 viewpoint O
 , O
 a O
-line_list B-COVID
+line_list O
 is O
 indispensable O
 
@@ -235212,7 +235212,7 @@ information O
 into O
 a O
 crowdsourced O
-line_list B-COVID
+line_list O
 , O
 which O
 , O
@@ -235315,7 +235315,7 @@ epicenter O
 of O
 wuhan O
 and O
-hubei_province B-COVID
+hubei_province O
 
 we O
 surveyed O
@@ -235678,7 +235678,7 @@ during O
 the O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 outbreak O
 in O
@@ -235796,7 +235796,7 @@ country O
 expecting O
 a O
 ready O
-line_list B-COVID
+line_list O
 for O
 analytical O
 prosecution O
@@ -235816,7 +235816,7 @@ astounding O
 even O
 during O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 2003 O
@@ -236201,7 +236201,7 @@ series O
 of O
 studies O
 in O
-mice O
+mice B-WILDLIFE
 and O
 people O
 to O
@@ -236239,14 +236239,14 @@ min/day O
 ) O
 could O
 protect O
-mice O
+mice B-WILDLIFE
 from O
 death O
 due O
 to O
 influenza O
 
-mice O
+mice B-WILDLIFE
 that O
 exercised O
 for O
@@ -236277,7 +236277,7 @@ when O
 compared O
 to O
 sedentary O
-mice O
+mice B-WILDLIFE
 
 we O
 concluded O
@@ -237103,7 +237103,7 @@ flu O
 , O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 or O
@@ -237209,7 +237209,7 @@ system O
 to O
 generate O
 cytotoxic O
-t B-WILDLIFE
+t O
 cells O
 necessary O
 to O
@@ -238237,7 +238237,7 @@ skills O
 , O
 and O
 ( O
-c B-COVID
+c O
 ) O
 tangible O
 research O
@@ -238509,7 +238509,7 @@ alarming O
 new O
 disease O
 , O
-sars O
+sars B-COVID
 , O
 was O
 making O
@@ -238540,7 +238540,7 @@ new O
 coronavirus B-COVID
 from O
 a O
-sars O
+sars B-COVID
 patient O
 , O
 and O
@@ -238552,7 +238552,7 @@ name O
 , O
 sars-cov B-COVID
 
-sars O
+sars B-COVID
 , O
 similar O
 to O
@@ -238632,7 +238632,7 @@ treatment O
 and O
 contact_tracing O
 the O
-sars O
+sars B-COVID
 outbreak O
 ended O
 only O
@@ -238654,7 +238654,7 @@ not O
 been O
 a O
 documented O
-sars O
+sars B-COVID
 infection B-COVID
 since O
 2004 O
@@ -238676,7 +238676,7 @@ and O
 deaths O
 from O
 the O
-sars O
+sars B-COVID
 outbreak O
 
 in O
@@ -238823,7 +238823,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 
 on O
 january O
@@ -238901,7 +238901,7 @@ far O
 more O
 infections O
 than O
-sars O
+sars B-COVID
 or O
 mers B-COVID
 and O
@@ -238959,7 +238959,7 @@ appears O
 less O
 deadly O
 than O
-sars O
+sars B-COVID
 ( O
 mortality~1 O
 in O
@@ -239035,7 +239035,7 @@ vanish O
 , O
 similar O
 to O
-sars O
+sars B-COVID
 , O
 or O
 become O
@@ -239064,7 +239064,7 @@ isolation O
 of O
 suspected O
 and O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 treatment O
 of O
@@ -240281,7 +240281,7 @@ elevated O
 to O
 38.9 O
 ° O
-c B-COVID
+c O
 
 laboratory O
 examinations O
@@ -241108,7 +241108,7 @@ in O
 wuhan O
 city O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -241199,7 +241199,7 @@ february O
 the O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 was O
 24,554 O
 , O
@@ -242603,7 +242603,7 @@ middle-income O
 setting O
 , O
 and O
-sars O
+sars B-COVID
 in O
 a O
 high-income O
@@ -243011,7 +243011,7 @@ review O
 focused O
 on O
 the O
-sars O
+sars B-COVID
 epidemic O
 in O
 canada O
@@ -243041,7 +243041,7 @@ results O
 the O
 literature O
 on O
-sars O
+sars B-COVID
 spoke O
 to O
 two O
@@ -243103,7 +243103,7 @@ the O
 response O
 decisions O
 to O
-sars O
+sars B-COVID
 was O
 questionable O
 
@@ -243236,7 +243236,7 @@ more O
 people O
 during O
 the O
-sars O
+sars B-COVID
 outbreak O
 compared O
 to O
@@ -243419,7 +243419,7 @@ national O
 and O
 international_spread O
 of O
-sars O
+sars B-COVID
 from O
 toronto O
 ( O
@@ -243486,7 +243486,7 @@ of O
 the O
 burden O
 of O
-sars O
+sars B-COVID
 ( O
 paquin O
 2007 O
@@ -243614,7 +243614,7 @@ in O
 the O
 case O
 of O
-sars O
+sars B-COVID
 in O
 toronto O
 , O
@@ -243645,7 +243645,7 @@ being O
 unprepared O
 to O
 manage O
-sars O
+sars B-COVID
 , O
 the O
 other O
@@ -243692,7 +243692,7 @@ responsibility O
 for O
 managing O
 the O
-sars O
+sars B-COVID
 outbreak O
 is O
 most O
@@ -243744,7 +243744,7 @@ and O
 municipally-to O
 explain O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 toronto O
@@ -243864,7 +243864,7 @@ of O
 the O
 homeless O
 to O
-sars O
+sars B-COVID
 ( O
 leung O
 et O
@@ -243937,7 +243937,7 @@ toronto O
 vulnerability O
 to O
 the O
-sars O
+sars B-COVID
 epidemic O
 , O
 including O
@@ -244055,7 +244055,7 @@ in O
 the O
 narrative O
 on O
-sars O
+sars B-COVID
 , O
 for O
 municipal O
@@ -244112,7 +244112,7 @@ to O
 the O
 literature O
 , O
-sars O
+sars B-COVID
 quickly O
 became O
 a O
@@ -244224,7 +244224,7 @@ behaviors O
 aimed O
 at O
 preventing O
-sars O
+sars B-COVID
 contraction-for O
 instance O
 , O
@@ -244279,7 +244279,7 @@ numerous O
 strategies O
 to O
 combat O
-sars O
+sars B-COVID
 and O
 ease O
 social O
@@ -244299,7 +244299,7 @@ materials O
 and O
 launching O
 a O
-sars O
+sars B-COVID
 support O
 line O
 , O
@@ -244370,7 +244370,7 @@ was O
 the O
 case O
 for O
-sars O
+sars B-COVID
 in O
 toronto O
 
@@ -247135,7 +247135,7 @@ of O
 the O
 politics O
 of O
-sars O
+sars B-COVID
 , O
 zika O
 , O
@@ -247207,7 +247207,7 @@ four O
 themes O
 
 the O
-sars O
+sars B-COVID
 literature O
 addressed O
 only O
@@ -247978,7 +247978,7 @@ spending O
 
 during O
 the O
-sars O
+sars B-COVID
 outbreak O
 , O
 some O
@@ -248164,7 +248164,7 @@ played O
 a O
 role O
 in O
-sars O
+sars B-COVID
 notification O
 , O
 and O
@@ -248309,7 +248309,7 @@ paper O
 in O
 toronto O
 , O
-sars O
+sars B-COVID
 became O
 a O
 racialized O
@@ -248476,7 +248476,7 @@ asian O
 community O
 during O
 the O
-sars O
+sars B-COVID
 epidemic O
 , O
 south_american O
@@ -248624,7 +248624,7 @@ other O
 cities O
 affected O
 by O
-sars O
+sars B-COVID
 attributed O
 responsibility O
 , O
@@ -248690,7 +248690,7 @@ the O
 racialization O
 of O
 the O
-sars O
+sars B-COVID
 epidemic O
 in O
 toronto O
@@ -249097,7 +249097,7 @@ uniquely O
 enacted O
 during O
 the O
-sars O
+sars B-COVID
 outbreak O
 in O
 toronto O
@@ -249582,7 +249582,7 @@ the O
 commencement O
 of O
 the O
-sars O
+sars B-COVID
 epidemic O
 and O
 the O
@@ -249623,7 +249623,7 @@ illness O
 is O
 uncommon O
 in O
-sars O
+sars B-COVID
 infection B-COVID
 and O
 infected_individuals O
@@ -249631,7 +249631,7 @@ are O
 easily O
 identifiable O
 , O
-sars O
+sars B-COVID
 could O
 be O
 contained O
@@ -249903,7 +249903,7 @@ past_experience O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 , O
 2,3 O
@@ -250007,7 +250007,7 @@ disclosed O
 body_temperature O
 of O
 38.1 O
-c B-COVID
+c O
 , O
 blood_pressure O
 of O
@@ -250203,7 +250203,7 @@ her O
 body_temperature O
 was O
 38.7 O
-c B-COVID
+c O
 with O
 blood_pressure O
 of O
@@ -250393,7 +250393,7 @@ have O
 been O
 reported O
 in O
-sars O
+sars B-COVID
 , O
 8 O
 since O
@@ -250408,7 +250408,7 @@ not O
 always O
 present O
 in O
-sars O
+sars B-COVID
 patients O
 
 although O
@@ -250460,7 +250460,7 @@ has O
 been O
 made O
 in O
-sars O
+sars B-COVID
 
 8 O
 the O
@@ -250540,7 +250540,7 @@ in O
 a O
 case_series O
 of O
-sars O
+sars B-COVID
 patients O
 from O
 the O
@@ -250719,7 +250719,7 @@ sars-cov-2 O
 a O
 previous_study O
 demonstrated O
-sars O
+sars B-COVID
 virus O
 could O
 be O
@@ -251143,7 +251143,7 @@ deaths O
 
 compared O
 to O
-sars O
+sars B-COVID
 and O
 mers B-COVID
 , O
@@ -251221,7 +251221,7 @@ an O
 increasing O
 number O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 , O
 the O
 cumulative O
@@ -251439,7 +251439,7 @@ pneumonias O
 ( O
 such O
 as O
-sars O
+sars B-COVID
 , O
 mers B-COVID
 and O
@@ -251616,7 +251616,7 @@ some O
 critical O
 patients O
 with O
-sars O
+sars B-COVID
 infection B-COVID
 benefit O
 from O
@@ -252155,7 +252155,7 @@ the O
 anecdotal O
 experience O
 from O
-sars O
+sars B-COVID
 and O
 scap O
 therapy O
@@ -252283,7 +252283,7 @@ clinical O
 adverse O
 complications O
 in O
-sars O
+sars B-COVID
 patients O
 with O
 corticosteroids O
@@ -252551,7 +252551,7 @@ city O
 of O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 
@@ -252577,7 +252577,7 @@ coronavirus B-COVID
 clinical O
 investigation O
 of O
-confirmed_cases B-COVID
+confirmed_cases O
 and O
 cases O
 under O
@@ -252612,7 +252612,7 @@ february O
 there O
 were O
 14,380 O
-confirmed_cases B-COVID
+confirmed_cases O
 of O
 2019 O
 novel O
@@ -253529,7 +253529,7 @@ and O
 ° O
 c38.0 O
 ° O
-c B-COVID
+c O
 was O
 the O
 most O
@@ -253866,7 +253866,7 @@ pathogen O
 found O
 in O
 several O
-domestic_animals B-WILDLIFE
+domestic_animals O
 , O
 pets O
 , O
@@ -254302,14 +254302,14 @@ a O
 significant O
 symptom O
 of O
-sars O
+sars B-COVID
 is O
 a O
 body_temperature O
 above O
 38 O
 ° O
-c B-COVID
+c O
 for O
 over O
 two O
@@ -255703,7 +255703,7 @@ influenza O
 a O
 virus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 794 O
 ) O
@@ -255712,56 +255712,56 @@ influenza O
 b O
 virus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 588 O
 ) O
 , O
 rhinovirus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 567 O
 ) O
 , O
 respiratory_syncytial_virus B-COVID
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 361 O
 ) O
 , O
 adenovirus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 226 O
 ) O
 , O
 metapneumovirus B-COVID
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 192 O
 ) O
 , O
 enterovirus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 171 O
 ) O
 , O
 bocavirus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 83 O
 ) O
 , O
 parainfluenza_virus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 24 O
 ) O
@@ -255769,7 +255769,7 @@ n B-VIRAL_PROTEIN
 and O
 parechovirus O
 ( O
-n B-VIRAL_PROTEIN
+n O
 = O
 8 O
 ) O
@@ -256023,7 +256023,7 @@ occurred O
 in O
 wuhan O
 , O
-hubei_province B-COVID
+hubei_province O
 , O
 china O
 , O
@@ -256177,7 +256177,7 @@ that O
 of O
 severe_acute_respiratory_syndrome O
 ( O
-sars O
+sars B-COVID
 ) O
 coronavirus B-COVID
 ( O
@@ -256235,7 +256235,7 @@ coronavirus B-COVID
 receptors O
 , O
 aminopeptidase O
-n B-VIRAL_PROTEIN
+n O
 , O
 and O
 dipeptidyl_peptidase_4 B-COVID
@@ -256873,7 +256873,7 @@ col3a1 O
 col6a1 O
 ) O
 , O
-t B-WILDLIFE
+t O
 cells O
 ( O
 marker O
@@ -257030,7 +257030,7 @@ ace2-positive O
 cells O
 ) O
 , O
-t B-WILDLIFE
+t O
 cells O
 ( O
 < O
@@ -257112,7 +257112,7 @@ two O
 large-scale O
 pandemics O
 , O
-sars O
+sars B-COVID
 in O
 2002 O
 and O
@@ -257955,7 +257955,7 @@ among O
 different O
 organs O
 , O
-t B-WILDLIFE
+t O
 test O
 was O
 performed O
@@ -258516,7 +258516,7 @@ alpha-and O
 beta-covs O
 can O
 infect O
-mammals B-WILDLIFE
+mammals O
 , O
 including O
 but O
@@ -258529,7 +258529,7 @@ pigs B-LIVESTOCK
 , O
 cats O
 , O
-mice O
+mice B-WILDLIFE
 , O
 and O
 humans O
@@ -258579,7 +258579,7 @@ gamma-and O
 delta-covs O
 usually O
 infect O
-birds O
+birds B-WILDLIFE
 , O
 while O
 some O
@@ -258587,7 +258587,7 @@ of O
 them O
 could O
 infect O
-mammals B-WILDLIFE
+mammals O
 ( O
 woo O
 et O
@@ -258930,3 +258930,753 @@ study O
 in O
 2005 O
 identified O
+a O
+new O
+member O
+of O
+covs O
+, O
+named O
+hcov-hku1 O
+, O
+from O
+a O
+71-year-old O
+man O
+with O
+pneumonia B-COVID
+( O
+woo O
+et O
+al. O
+, O
+2005 O
+) O
+
+generally O
+, O
+these O
+four O
+viruses O
+are O
+the O
+most O
+common O
+pathogens O
+causing O
+mild_upper_respiratory O
+infection B-COVID
+or O
+asymptomatic O
+infection B-COVID
+, O
+and O
+count O
+for O
+about O
+30 O
+% O
+of O
+all O
+colds O
+( O
+myint O
+, O
+1994 O
+; O
+lau O
+et O
+al. O
+, O
+2006 O
+; O
+kim O
+et O
+al. O
+, O
+2017 O
+) O
+
+in O
+the O
+serological O
+surveillance O
+on O
+healthy_adults O
+, O
+hcov-229e O
+, O
+hcov-nl63 O
+, O
+and O
+hcov-oc43 O
+demonstrated O
+more O
+than O
+90 O
+% O
+seropositive O
+with O
+the O
+immunological O
+assay O
+
+it O
+appears O
+common O
+for O
+these O
+covs O
+to O
+infect O
+children O
+( O
+mourez O
+et O
+al. O
+, O
+2007 O
+; O
+shao O
+et O
+al. O
+, O
+2007 O
+; O
+severance O
+et O
+al. O
+, O
+2008 O
+) O
+
+in O
+contrast O
+to O
+the O
+above O
+three O
+human O
+covs O
+, O
+hcov-hku1 O
+has O
+around O
+50 O
+% O
+seropositive O
+in O
+healthy_individuals O
+and O
+a O
+relatively O
+low O
+exposure O
+rate O
+in O
+children O
+( O
+lehmann O
+et O
+al. O
+, O
+2008 O
+; O
+severance O
+et O
+al. O
+, O
+2008 O
+) O
+
+although O
+the O
+prevalence O
+of O
+various O
+covs O
+is O
+different O
+, O
+the O
+incidence O
+among O
+these O
+viruses O
+shows O
+no O
+significant_difference O
+( O
+woo O
+et O
+al. O
+, O
+2009b O
+) O
+
+the O
+afore-mentioned O
+four O
+covs O
+have O
+been O
+detected O
+in O
+2.1 O
+- O
+17.9 O
+% O
+of O
+clinical_specimens O
+( O
+esper O
+et O
+al. O
+, O
+2006 O
+; O
+lau O
+et O
+al. O
+, O
+2006 O
+; O
+gerna O
+et O
+al. O
+, O
+2007 O
+; O
+regamey O
+et O
+al. O
+, O
+2008 O
+; O
+matoba O
+et O
+al. O
+, O
+2015 O
+; O
+killerby O
+et O
+al. O
+, O
+2018 O
+) O
+
+these O
+viruses O
+have O
+also O
+been O
+associated O
+with O
+lower O
+respiratory_tract O
+illness O
+in O
+children O
+, O
+elders O
+, O
+and O
+immunodeficient O
+individuals O
+( O
+falsey O
+et O
+al. O
+, O
+2002 O
+; O
+fouchier O
+et O
+al. O
+, O
+2004 O
+; O
+woo O
+et O
+al. O
+, O
+2005 O
+; O
+gerna O
+et O
+al. O
+, O
+2006 O
+) O
+
+hcov-229e O
+and O
+hcov-oc43 O
+may O
+lead O
+to O
+central_nervous O
+system O
+infection B-COVID
+since O
+viral O
+rnas O
+are O
+detected O
+in O
+the O
+brain O
+of O
+some O
+patients O
+( O
+arbour O
+et O
+al. O
+, O
+2000 O
+; O
+desforges O
+et O
+al. O
+, O
+2014 O
+) O
+
+unlike O
+the O
+above O
+four O
+human O
+covs O
+, O
+sars-cov B-COVID
+, O
+mers-cov B-COVID
+, O
+and O
+2019-ncov B-COVID
+have O
+caused O
+severe_pneumonia O
+and/or O
+failure O
+of O
+other O
+organs O
+, O
+even O
+death O
+, O
+among O
+infected O
+populations O
+( O
+nicholls O
+et O
+al. O
+, O
+2003 O
+; O
+zhong O
+et O
+al. O
+, O
+2003 O
+; O
+zaki O
+et O
+al. O
+, O
+2012 O
+; O
+zhu O
+et O
+al. O
+, O
+2020 O
+) O
+
+the O
+epidemic O
+outbreak O
+of O
+sars-cov B-COVID
+began O
+in O
+the O
+guangdong_province O
+of O
+china O
+in O
+november O
+2002 O
+, O
+and O
+spread O
+through O
+human-to-human O
+transmission O
+to O
+other O
+parts O
+of O
+the O
+world O
+within O
+a O
+few O
+months O
+( O
+ksiazek O
+et O
+al. O
+, O
+2003 O
+) O
+
+from O
+november O
+2002 O
+to O
+august O
+2003 O
+, O
+sars-cov B-COVID
+infected O
+more O
+than O
+8,098 O
+people O
+in O
+29 O
+counties O
+, O
+resulting O
+in O
+over O
+774 O
+deaths O
+with O
+∼10 O
+% O
+fatality_rate O
+( O
+du O
+et O
+al. O
+, O
+2009a O
+) O
+
+palm O
+civets O
+serving O
+as O
+a O
+potential O
+intermediate_host O
+of O
+this O
+virus O
+were O
+traced O
+immediately O
+( O
+tu O
+et O
+al. O
+, O
+2004 O
+) O
+
+chinese_horseshoe_bats O
+( O
+rhinolophus_sinicus O
+) O
+are O
+the O
+natural_reservoir O
+of O
+sars-cov B-COVID
+( O
+li O
+et O
+al. O
+, O
+2005b O
+) O
+
+various O
+bat B-WILDLIFE
+sars-related O
+covs O
+( O
+sarsr-cov O
+) O
+have O
+been O
+identified O
+in O
+yunnan O
+, O
+china O
+, O
+several O
+of O
+which O
+can O
+infect O
+human O
+cells O
+, O
+and O
+have O
+been O
+further O
+characterized O
+( O
+ge O
+et O
+al. O
+, O
+2013 O
+; O
+hu O
+et O
+al. O
+, O
+2017 O
+) O
+
+these O
+discoveries O
+indicate O
+the O
+threat O
+of O
+re-emergence O
+of O
+sars-cov B-COVID
+or O
+sarsr-cov O
+
+a O
+decade O
+later O
+, O
+another O
+highly_pathogenic O
+human O
+cov O
+, O
+mers-cov B-COVID
+, O
+emerged O
+, O
+and O
+the O
+first O
+patient O
+with O
+mers-cov B-COVID
+infection B-COVID
+was O
+reported O
+in O
+saudi_arabia O
+in O
+june O
+2012 O
+
+by O
+december O
+26 O
+, O
+2019 O
+, O
+a O
+total O
+of O
+2,494 O
+laboratoryconfirmed O
+cases O
+of O
+mers B-COVID
+, O
+including O
+858 O
+associated O
+deaths O
+in O
+27 O
+countries O
+( O
+fatality_rate O
+34.4 O
+% O
+) O
+, O
+were O
+reported O
+to O
+the O
+who O
+1 O
+
+globally O
+, O
+the O
+majority O
+( O
+about O
+80 O
+% O
+) O
+of O
+human O
+cases O
+have O
+been O
+reported O
+in O
+saudi_arabia O
+, O
+where O
+people O
+get O
+infected O
+through O
+direct_contact O
+with O
+infected O
+dromedary O
+camels O
+or O
+persons O
+2 O
+
+isolation O
+of O
+mers-cov B-COVID
+and O
+detection O
+of O
+neutralizing_antibodies O
+from O
+dromedary O
+camels O
+suggest O
+that O
+these O
+camels O
+are O
+potentially O
+an O
+important O
+intermediate_host O
+( O
+reusken O
+et O
+al. O
+, O
+2013 O
+; O
+azhar O
+et O
+al. O
+, O
+2014 O
+) O
+
+similar O
+to O
+sars-cov B-COVID
+, O
+mers-cov B-COVID
+is O
+also O
+an O
+emerging O
+zoonotic O
+virus O
+( O
+li O
+and O
+du O
+, O
+2019 O
+) O
+
+bats B-WILDLIFE
+habituate O
+several O
+covs O
+phylogenetically_related O
+to O
+mers-cov B-COVID
+, O
+and O
+some O
+of O
+them O
+are O
+identical O
+to O
+mers-covs O
+, O
+suggesting O
+that O
+mers-cov B-COVID
+may O
+originate O
+from O
+bats B-WILDLIFE
+( O
+annan O
+et O
+al. O
+, O
+2013 O
+; O
+lelli O
+et O
+al. O
+, O
+2013 O
+; O
+lau O
+et O
+al. O
+, O
+2018 O
+; O
+luo O
+et O
+al. O
+, O
+2018a O
+) O
+
+different O
+from O
+sars-cov B-COVID
+, O
+which O
+has O
+not O
+caused O
+infections O
+in O
+humans O
+since O
+( O
+du O
+et O
+al. O
+, O
+2009a O
+, O
+the O
+transmission O
