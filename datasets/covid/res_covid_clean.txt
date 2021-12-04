@@ -1,0 +1,20 @@
+Category (incubation):
+virus-mab incubate gentle_shaking incubating 
+Category (covid-19):
+sars-cov-2 2019-ncov covid-19 crowdsourced sars-2 covid
+Category (sars-cov):
+methyltransferase prrsv_nsp11 mavs-mediated_apoptosis k-d-k-e 29-o-mtase mtase nsp15 mhv n7-mtase d471g_mutant sars-cov-2 sars
+Category (mers-cov):
+dpp4-expressing_cells rbd-23d3 dipeptidyl_peptidase_4 mers dpp4 non-rbd s377-588 s-rbd sl-cov nbl-7 
+Category (ibv):
+rvv-beaur-rep-m41-struct m41-ck m41 ibv_beaudette m41-ck-derived ribv replicase_gene  
+Category (coronavirus):
+sarsassociated syncitial teschovirus -cov severe_acute_respiratory_syndrome camelpox metapneumovirus severe_acute_respiratory_syndrome_coronavirus respiratory_syncytial_virus coronvirus
+Category (fever):
+non-productive_cough sore_throat chills myalgia headache dry_cough dyspnea malaise runny_nose retro-orbital_pain 
+Category (pneumonia):
+bronchiolitis community-acquired lower_respiratory_tract_infection bronchopneumonia lrti bronchitis acute_otitis_media lrtis artis acute_pharyngitis 
+Category (ards):
+acute_respiratory_distress_syndrome brain-injured septic_shock multiple_organ_failure acute_lung_injury respiratory_failure decompensation hypotension acute_respiratory_failure severe_pancreatitis 
+Category (infection):
+morphant ma15-infected morphants hpinf lcmv-we gliotropic jhmv_infected ev71-infected moi-1 rvttgagpol infective infect

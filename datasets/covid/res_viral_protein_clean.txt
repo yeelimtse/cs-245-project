@@ -1,0 +1,38 @@
+Category (glycoprotein):
+glycoproteins viral_envelope hemagglutinin-neuraminidase envelope_glycoprotein vsv ebov_gp envelope envelope_glycoproteins gpr80 
+Category (rna_dependent_rna_polymerase):
+narnaviruses ygdd rna-dependent_rna_polymerase mrna2 59-most rdrp rse 59-terminus polymerases 
+Category (nucleocapsid_protein):
+ns7 nucleocapsid encapsidates segment_encodes structural_protein np structural_proteins nucleoprotein riboprobes 
+Category (nsp1):
+orf10 llrkxgxkg spike_protein sars-cov accessory_proteins ibv spike_glycoprotein 
+Category (ns1):
+ns_segment vp1/2 ns1_protein ns2 pul97 pb1 m1 m2 pb2 a/udorn/72 
+Category (hemagglutinin):
+h6n2 haemagglutinin ha na_subtypes avian h3n2 h5 a/puerto_rico/8/1934 subtypes 
+Category (gp120):
+cd4-induced coreceptor_binding gp41 cd4i cd4bs v3_loop 2f5 b12 scd4 gd03-rbd 
+Category (neuraminidase):
+zanamivir oseltamivir m2_ion_channel relenza drugs tamiflu adamantanes rimantadine amantadine vanf 
+Category (nsp2):
+orf1a-encoded prrsv_replication scv k5 h87 nsp4 prrsv jev chikv jxwn06 
+Category (nsp7):
+ppih ppig fkbp1a herp tm3 xtp3-b kem1p e3s tpk2p calcipressin 
+Category (nsp8):
+anti-m ifitm2-ha ergic-53 gm130 nsp5 ifitm3-ha punctate immuno-fluorescence ergic53 immunogold 
+Category (nsp9):
+mhv_nsp4 17-amino_acid nglycosylated rna-binding_domain cypoviral lth phi6 358-588 stem_loop a-globin 
+Category (nsp10):
+m7gpppa-capped_rna dodecamer nsp16/nsp10_complex m7gpppg-rna wt_nsp4c dimer electron_density monomer nsp10/_nsp16 catalytically 
+Category (nsp11):
+virus-inducible pkca pkce antisense-overlapping mek/erk_signaling hcv-mediated transductions cell_cycle tissuespecific bio-functions 
+Category (nsp12):
+nsp1-16 nsp1ab p123 non-structural_proteins pp1b polyproteins polyprotein_precursor nonstructural_proteins pp1a_and_pp1ab polyprotein 
+Category (nsp13):
+n7-methyltransferase methyltransferase exonuclease endonuclease helicase primase triphosphatase n7-mtase rna-dependent  
+Category (nsp14):
+c-terminally_truncated purified_gst nss-e253-255a/d257-259a plp2-tm flagtagged flag-tagged western-blot nssd257-259a 2bc intron-spanning 
+Category (nsp15):
+oas/rnasel deubiquitinates tlr-myd88 ifn_antagonist p58_ipk deubiquitinating_enzyme pkr mavs-induced_apoptosis antagonizes host_general_transcription 
+Category (nsp16):
+/nsp16 nsp10/nsp16 mtase_activity 7me_gpppac_5 dna1 nsp16/nsp10 29o-mtase gpppac unwinding capped_rna 
