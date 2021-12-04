@@ -36,8 +36,7 @@ In `seed_generator.py`, we used the method just mentioned to exclude unnecessary
 ---
 ## Step 2: Group Entities
 Once we have the input data cleaned and seed dictionary ready, we can then start to import some **NER models** from `SpaCy` and `SciSpaCy`. Here are some models we used, 
-- en_core_sci_sm
-- en_core_sci_md
+- en_core_web_sm
 - en_ner_bc5cdr_md
 - en_ner_jnlpba_md
 - en_ner_bionlp13cg_md
@@ -45,8 +44,7 @@ Once we have the input data cleaned and seed dictionary ready, we can then start
 
 The commands for installing these models are as below:
 ```bash
-pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz
-pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_md-0.4.0.tar.gz
+python3 -m spacy download en_core_web_sm
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_jnlpba_md-0.4.0.tar.gz
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz

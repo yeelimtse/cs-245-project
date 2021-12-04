@@ -23,6 +23,7 @@
 !/datasets/covid/res_viral_protein_cleaned.txt
 
 !/datasets/covid/seed.txt
+!/datasets/covid/labels.txt
 
 # TODO: test iob
 !/iob-test.txt

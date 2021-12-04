@@ -3,7 +3,7 @@ virus-mab incubate gentle_shaking incubating
 Category (covid-19):
 sars-cov-2 2019-ncov covid-19 crowdsourced sars-2 covid
 Category (sars-cov):
-methyltransferase prrsv_nsp11 mavs-mediated_apoptosis k-d-k-e 29-o-mtase mtase nsp15 mhv n7-mtase d471g_mutant sars-cov-2 sars
+methyltransferase prrsv_nsp11 mavs-mediated_apoptosis k-d-k-e 29-o-mtase mtase mhv n7-mtase d471g_mutant sars-cov-2 sars
 Category (mers-cov):
 dpp4-expressing_cells rbd-23d3 dipeptidyl_peptidase_4 mers dpp4 non-rbd s377-588 s-rbd sl-cov nbl-7 
 Category (ibv):
