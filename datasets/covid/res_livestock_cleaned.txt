@@ -1,0 +1,20 @@
+Category (cattle):
+hoof_trimmers livestock herds epizootics herd 
+Category (sheep):
+glanders goats scrapie 
+Category (pigs):
+pig 
+Category (chicken):
+chick embryo spf_embryonated_chicken_eggs allantoic_fluid embryos 
+Category (goat):
+goats conjugated_anti-rabbit conjugated_donkey_anti-rabbit conjugated_goat_anti-mouse_igg alexa_fluor anti-goat hrp-conjugated_goat_anti-mouse anti-rabbit alkaline_phosphatase-conjugated 
+Category (cow):
+cows metatherian monodelphis prototherian ornithorhynchus opossum mouse_lemur dog branchiostoma anatinus marsupial 
+Category (deer):
+raccoons boars elk maniculatus mustelids peromyscus minks skunks 
+Category (rabbit):
+rabbits rabbit_polyclonal 
+Category (duck):
+goose mallard quail ducks waterfowl otter geese pheasant thrush turkeys 
+Category (calves):
+heifers bull litters piglets cows sows diarrhoeic dairy weaned_pigs  

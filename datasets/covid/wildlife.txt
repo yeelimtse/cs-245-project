@@ -1,8 +1,8 @@
 bats
 pangolins
 monkey
-wild animal
-bat
+birds
+pteropus
 squirrel
 elephant
 mouse

@@ -1,0 +1,20 @@
+Category (bats):
+cross_species_transmission cross-species_transmission natural_reservoirs bat-derived cross_species bat natural_reservoir zoonotic reservoirs host_species 
+Category (pangolins):
+pangolin mustelids mongooses orangutans treeshrews megabats ungulate pandas mustelidae 
+Category (monkey):
+chlorocebus aethiops mason-pfizer kidney-derived vero african_green_monkey_kidney_epithelial 
+Category (birds):
+chickens geese flocks bird poultry 
+Category (pteropus):
+poliocephalus hipposideros eptesicus fuliginosus pteropodidae myotis miniopterus rhinolophus pusillus nattereri 
+Category (squirrel):
+urocyon squirrels elk cinereoargenteus skunks striped long-tailed raccoons mephitis minks 
+Category (elephant):
+monodelphis elephants parrot loxodonta ivory simba pallas 
+Category (mouse):
+mice 
+Category (rat):
+ornithorhynchus equus_caballus mouse_lemur anatinus lizard rats lamprey hamster rattus_norvegicus rubripes 
+Category (chimpanzee):
+lineage_iii_kir cea_family_members chimpanzee_kir kir hominoid 
