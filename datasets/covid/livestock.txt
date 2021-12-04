@@ -7,4 +7,4 @@ cow
 deer
 rabbit
 duck
-beef
+calves
