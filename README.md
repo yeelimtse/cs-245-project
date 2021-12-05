@@ -36,8 +36,7 @@ In `seed_generator.py`, we used the method just mentioned to exclude unnecessary
 ---
 ## Step 2: Group Entities
 Once we have the input data cleaned and seed dictionary ready, we can then start to import some **NER models** from `SpaCy` and `SciSpaCy`. Here are some models we used, 
-- en_core_sci_sm
-- en_core_sci_md
+- en_core_web_sm
 - en_ner_bc5cdr_md
 - en_ner_jnlpba_md
 - en_ner_bionlp13cg_md
@@ -45,8 +44,7 @@ Once we have the input data cleaned and seed dictionary ready, we can then start
 
 The commands for installing these models are as below:
 ```bash
-pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_sm-0.4.0.tar.gz
-pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_core_sci_md-0.4.0.tar.gz
+python3 -m spacy download en_core_web_sm
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_jnlpba_md-0.4.0.tar.gz
 pip3 install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bionlp13cg_md-0.4.0.tar.gz
@@ -85,6 +83,10 @@ Note that here we also need to determine if the input word is a **NOUN** using t
 
 ### Entity & Label DataFrame
 To better visualize the results, we created a dataframe for each model's output `(text, label)` pairs. The dataframe has three columns, `"Entity", "Label", "Model"`. For seed-dictionary, the model will be `"seed"`. By concating all dataframes, we then formed a dataframe including the labeling results of all models and our seed-dictionary. However, since duplication is inevitable, we need further processing on the concated dataframe. `TODO: `
+
+
+### Use Dict Matching Results to Train
+TRAIN_DATA = [(text, {"entities": [(start, end, label), ...]})]
 
 ---
 ## Step 3: Neural Networks and Typing System Construction

@@ -7,10 +7,10 @@ seed = {}                               # to store the result
 #    OPEN ENTITIES FILES     #
 # ========================== #
 print("Opening entities files...")
-covid_file = open("./datasets/covid/res_covid.txt", "r")
-livestock_file = open("./datasets/covid/res_livestock.txt", "r")
-viral_protein_file = open("./datasets/covid/res_viral_protein.txt", "r")
-wildlife_file = open("./datasets/covid/res_wildlife.txt", "r")
+covid_file = open("./datasets/covid/res_covid_cleaned.txt", "r")
+livestock_file = open("./datasets/covid/res_livestock_cleaned.txt", "r")
+viral_protein_file = open("./datasets/covid/res_viral_protein_cleaned.txt", "r")
+wildlife_file = open("./datasets/covid/res_wildlife_cleaned.txt", "r")
 
 
 # ========================== #
@@ -68,7 +68,7 @@ def extract_entities(raw_data, entity_type, dict):
 #       GENERATING SEED      #
 # ========================== #
 print("Generating seed...")
-extract_entities(covid_raw, "COVID", seed)
+extract_entities(covid_raw, "CORONAVIRUS", seed)
 extract_entities(livestock_raw, "LIVESTOCK", seed)
 extract_entities(viral_protein_raw, "VIRAL_PROTEIN", seed)
 extract_entities(wildlife_raw, "WILDLIFE", seed)

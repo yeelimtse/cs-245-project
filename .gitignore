@@ -17,7 +17,13 @@
 !/datasets/covid/res_livestock.txt
 !/datasets/covid/res_viral_protein.txt
 
+!/datasets/covid/res_wildlife_cleaned.txt
+!/datasets/covid/res_covid_cleaned.txt
+!/datasets/covid/res_livestock_cleaned.txt
+!/datasets/covid/res_viral_protein_cleaned.txt
+
 !/datasets/covid/seed.txt
+!/datasets/covid/labels.txt
 
 # TODO: test iob
 !/iob-test.txt

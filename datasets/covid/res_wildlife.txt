@@ -1,20 +1,20 @@
 Category (bats):
-hematophagous microchiroptera chiroptera insectivorous suborders echolocation mammals suborder frugivorous reservoirs 
+cross_species_transmission cross-species_transmission natural_reservoirs bat-derived cross_species bat natural_reservoir zoonotic reservoirs host_species 
 Category (pangolins):
-crab-eating pangolin mongooses mustelids treeshrews pandas orangutans genets megabats ungulate 
+pangolin crab-eating mustelids mongooses orangutans treeshrews megabats ungulate pandas mustelidae 
 Category (monkey):
-chlorocebus mason-pfizer hek_293t aethiops cell_line te671 vero african_green_monkey_kidney_epithelial african_green_monkey_kidney hep-g2 
-Category (wild):
-domestic_animal peridomestic domestic_animals wildlife wild_animals local_food companion_animals livestock domestic transboundary 
-Category (bat):
-rd114-like pulv nbv melv bat-sars-like ratg13 kamv bat-sl-covzxc21 species_group sarslike 
+chlorocebus aethiops mason-pfizer hek_293t atcc_crl-1573 kidney-derived cell_line vero african_green_monkey_kidney_epithelial hep-g2 
+Category (birds):
+mock:4/91 chickens geese ducks flocks one-day-old bird poultry chicks pigs 
+Category (pteropus):
+poliocephalus hipposideros eptesicus fuliginosus pteropodidae myotis miniopterus rhinolophus pusillus nattereri 
 Category (squirrel):
-urocyon squirrels elk raccoons cinereoargenteus owl quail skunks pheasants striped 
+urocyon squirrels elk cinereoargenteus skunks striped long-tailed raccoons mephitis minks 
 Category (elephant):
-monodelphis metatherian prototherian elephants taphozous farm long-legged simba loxodonta sett 
+monodelphis elephants tamed parrot loxodonta farm captive ivory simba pallas 
 Category (mouse):
-polyclonal_antisera anti-claudin-1 j.3.3 anti-ns3 anti-ubiquitin goat-anti monoclonal 1:4,000 anti-lc3 1:2500 
+anti-claudin-1 polyclonal_antisera j.3.3 anti-ns3 anti-hsp40 mab979 1:2500 anti-ubiquitin anti-lc3 4d11 
 Category (rat):
-mouse_lemur equus_caballus ornithorhynchus anatinus lamprey rattus_norvegicus lizard rubripes latipes bos_taurus 
+ornithorhynchus equus_caballus mouse_lemur anatinus lizard cow lamprey hamster rattus_norvegicus rubripes 
 Category (chimpanzee):
-lineage_iii_kir chimpanzee_kir hominoid mhc-c 2ds4 orangutan cea_gene_family mhc-b kir synteny 
+lineage_iii_kir cea_family_members mhc-c chimpanzee_kir kir hominoid mhc-b a-/h-defensin 2ds4 cea_gene_family 
