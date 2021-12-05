@@ -84,6 +84,10 @@ Note that here we also need to determine if the input word is a **NOUN** using t
 ### Entity & Label DataFrame
 To better visualize the results, we created a dataframe for each model's output `(text, label)` pairs. The dataframe has three columns, `"Entity", "Label", "Model"`. For seed-dictionary, the model will be `"seed"`. By concating all dataframes, we then formed a dataframe including the labeling results of all models and our seed-dictionary. However, since duplication is inevitable, we need further processing on the concated dataframe. `TODO: `
 
+
+### Use Dict Matching Results to Train
+TRAIN_DATA = [(text, {"entities": [(start, end, label), ...]})]
+
 ---
 ## Step 3: Neural Networks and Typing System Construction
 You will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into `./NER/data/` and unzip it.

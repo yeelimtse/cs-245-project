@@ -68,7 +68,7 @@ def extract_entities(raw_data, entity_type, dict):
 #       GENERATING SEED      #
 # ========================== #
 print("Generating seed...")
-extract_entities(covid_raw, "COVID", seed)
+extract_entities(covid_raw, "CORONAVIRUS", seed)
 extract_entities(livestock_raw, "LIVESTOCK", seed)
 extract_entities(viral_protein_raw, "VIRAL_PROTEIN", seed)
 extract_entities(wildlife_raw, "WILDLIFE", seed)
