@@ -18,7 +18,7 @@ def generate_entities(doc):
     return entities_dict
 
 def generate_one_doc(doc):
-    text = doc['title'] + doc['abstract'] + doc['body']
+    text = doc['title'] + ' ' + doc['abstract'] + ' ' + doc['body']
     entities_dict = generate_entities(doc)
     return (text, entities_dict)
 

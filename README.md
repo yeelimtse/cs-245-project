@@ -4,8 +4,9 @@ To better understand what is NER, we first need to understand what is **named en
 ---
 **Requirements**
 - `tqdm`
-- `nltk==3.0` (from __future__ import print_function)
-- pip3 install -U pluggy
+- `nltk==3.0`
+- `SpaCy`
+- `SciSpaCy`
 - `pytorch>=1.0.0`
 - `tensorboardX`
 
@@ -82,11 +83,15 @@ def label_based_on_seed(seed, data, model):
 Note that here we also need to determine if the input word is a **NOUN** using the method mentioned before.
 
 ### Entity & Label DataFrame
-To better visualize the results, we created a dataframe for each model's output `(text, label)` pairs. The dataframe has three columns, `"Entity", "Label", "Model"`. For seed-dictionary, the model will be `"seed"`. By concating all dataframes, we then formed a dataframe including the labeling results of all models and our seed-dictionary. However, since duplication is inevitable, we need further processing on the concated dataframe. `TODO: `
+To better visualize the results, we created a dataframe for each model's output `(text, label)` pairs. The dataframe has three columns, `"Entity", "Label", "Model"`. For seed-dictionary, the model will be `"seed"`. By concating all dataframes, we then formed a dataframe including the labeling results of all models and our seed-dictionary. 
 
 
 ### Use Dict Matching Results to Train
-TRAIN_DATA = [(text, {"entities": [(start, end, label), ...]})]
+With the matching results from all models used, we can then generate a training data with the following format.
+
+`TRAIN_DATA = [(text, {"entities": [(start, end, label), ...]})]`
+
+The detailed process is in `training_data_generator.py`
 
 ---
 ## Step 3: Neural Networks and Typing System Construction
