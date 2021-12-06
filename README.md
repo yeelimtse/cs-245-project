@@ -100,7 +100,9 @@ For the training of the deep learning model (in step 3), we need not only the en
 
 ---
 ## Step 3: Neural Networks and Typing System Construction
-You will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into `./NER/data/` and unzip it.
+We separate the our produced labeled input into two parts. We add 3/4 of the pre-processed input to the existing CoNLL2003 training set (`covid.train`) and add the rest to the evaluating set (`eng.testa`). Both training and evaluating dataset contain half of the original CoNLL2003 data and half newly added COVID-19 related data
+
+To run the model, you will need to first download [pre-trained GloVe embedding](http://nlp.stanford.edu/data/glove.6B.zip) into `./NER/data/` and unzip it.
 ### Models used
 - LSTM
 - BiLSTM
@@ -109,7 +111,22 @@ You will need to first download [pre-trained GloVe embedding](http://nlp.stanfor
 
 For config between LSTM/BiLSTM, change bidirectional option in [line 30 in models.py](https://github.com/yeelimtse/cs-245-project/blob/1dc22051b2ded72e658b7e64670915f2bfb4783d/NER/model.py#L30)
 
-For training and evaluating models without CRF, run `python3 main.py --feature_extractor=lstm --use_crf=false`.
-Otherwise, run with `python3 main.py --feature_extractor=lstm --use_crf=true`
+For training and evaluating models without CRF, run `python3 main.py --feature_extractor=lstm --use_crf=false --train_path=data/covid.train`.
+Otherwise, run with `python3 main.py --feature_extractor=lstm --use_crf=true --train_path=data/covid.train`
 
 Models will be saved in `./NER/data/model`
+
+
+### Evaluation
+Since it’s hard to have manually labeled ground truth labels for COVID-19 related data, 95% of the test dataset is from CoNLL2003 dataset while others are COVID-19 related ground truth. The COVID-19 related test data are stored in `./NER/data/test.txt` and we combined it into the `eng.testb`.
+Following table shows the best performed model within 100 training epochs by F1 score.
+
+Model|F1|
+--|:--:   
+LSTM|80.12 
+LSTM+CRF|87.21
+BiLSTM|88.55
+BiLSTM+CRF|89.31
+
+By comparing the performance of different models, we can see an improvement on precision, recall and F1 score when using bidirectional LSTM instead
+of LSTM, with a CRF layer instead of without a CRF layer.
