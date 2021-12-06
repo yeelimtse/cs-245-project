@@ -23,7 +23,7 @@ You will need to first create a directory under datasets (e.g., `datasets/your_d
 - A text file with the category names/keywords for each category, e.g., datasets/your_dataset/topics.txt where each line contains the seed words for one category. You can provide arbitrary number of seed words in each line (at least 1 per category; if there are multiple seed words, separate them with whitespace characters). Note: You need to ensure that every provided seed word appears in the vocabulary of the corpus.
 
 ### Candidates
-We created 5 topics as our seed entity types, which are `covid.txt, livestock.txt, viral_protein.txt, wildlife.txt`. In each file, we wrote 10 - 20 candidate entities that have shown in the original text. For example, in `covid.txt`, we have **covid-19, sars-cov, mers-cov**, etc. `TODO: `Note that it is not guaranteed that **CatE** will output a perfect expansion of entity types based on the given 10 to 20 mannually added seed entities for each topic, we also need to examine these output and sift out some more reasonable entities. For instance, in the expanded file via **CatE** `res_covid.txt`, category **covid-19**, we have entities such as `"wuhan", "mainland_china", "hubei_province"`, etc, which certainly makes no sense and should not be in this category.
+We created 5 topics as our seed entity types, which are `covid.txt, livestock.txt, viral_protein.txt, wildlife.txt`. In each file, we wrote 10 - 20 candidate entities that have shown in the original text. For example, in `covid.txt`, we have **covid-19, sars-cov, mers-cov**, etc. Note that it is not guaranteed that **CatE** will output a perfect expansion of entity types based on the given 10 to 20 mannually added seed entities for each topic, we also need to examine these output and sift out some more reasonable entities. For instance, in the expanded file via **CatE** `res_covid.txt`, category **covid-19**, we have entities such as `"wuhan", "mainland_china", "hubei_province"`, etc, which certainly makes no sense and should not be in this category.
 ### Seed-Dictionary Generation
 After preprocessing the raw input text file, expanding based on given categories and cleaning up our expanded entity types, we can then build our seed dictionary which contains the mannually added seed entities and sifted-out expanded entities. We need to store the result into a **seed dictionary** so that we can do matching in the next step. 
 
@@ -91,7 +91,12 @@ With the matching results from all models used, we can then generate a training 
 
 `TRAIN_DATA = [(text, {"entities": [(start, end, label), ...]})]`
 
-The detailed process is in `training_data_generator.py`
+The detailed process is in [`training_data_generator.py`](https://github.com/yeelimtse/cs-245-project/blob/main/create-seed-model/training_data_generator.py), and the result file is in [`training_data.txt`](https://github.com/yeelimtse/cs-245-project/blob/main/create-seed-model/training_data.txt). In [`train_combined_model.ipynb`](https://github.com/yeelimtse/cs-245-project/blob/main/create-seed-model/train_combined_model.ipynb), we trained a **combined NER model** that includes all the entities and labels generated before. An annotation result using the combined model is in the figure.
+
+![](./figures/annotation-res.png)
+
+### IOB Tagging
+For the training of the deep learning model (in step 3), we need not only the entities and labels pair, but also IOB tags. We need to separate each word to line by line format, together with tags and labels. e.g. `Micheal B-PERSON`.
 
 ---
 ## Step 3: Neural Networks and Typing System Construction
